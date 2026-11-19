@@ -243,9 +243,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-25-401873077@rustlyr.github.io
-SEQUENCE:15
-DTSTAMP:20261119T224701Z
-LAST-MODIFIED:20261119T224701Z
+SEQUENCE:16
+DTSTAMP:20261119T234701Z
+LAST-MODIFIED:20261119T234701Z
 DTSTART;TZID=Asia/Bangkok:20261123T082000
 DTEND;TZID=Asia/Bangkok:20261123T113500
 SUMMARY:San Francisco 49ers - Minnesota Vikings
@@ -253,46 +253,46 @@ LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:San Francisco 49ers\n- Brandon Aiyuk (Out)\n- Keenan Allen\n- K
  aelon Black\n- Jake Brendel\n- Connor Colby\n- Brandin Cooks\n- Jacob Cowi
  ng\n- Enrique Cruz Jr.\n- Mike Evans (Questionable)\n- Luke Farrell\n- Kha
- Darel Hodge\n- Jordan James\n- Mac Jones (Questionable)\n- Kyle Juszczyk\n
- - George Kittle\n- Vederian Lowe\n- Christian McCaffrey\n- Colton McKivitz
- \n- Jarrett Patterson\n- Dominick Puni\n- Brock Purdy\n- Demarcus Robinson
- \n- Kurtis Rourke\n- Deebo Samuel Sr.\n- Jack Stoll\n- Jordan Watkins\n- T
- rent Williams\n- Brayden Willis\n- Carver Willis\n- Tatum Bethune\n- Nick 
- Bosa\n- Ji'Ayir Brown (Questionable)\n- DeForest Buckner\n- Ashtyn Davis\n
- - Jaden Dugger\n- Luke Gifford (Questionable)\n- Jalen Graham\n- Renardo G
- reen (Questionable)\n- Dre Greenlaw (Questionable)\n- Romello Height\n- Kh
+ Darel Hodge\n- Jordan James (Questionable)\n- Mac Jones (Questionable)\n- 
+ Kyle Juszczyk\n- George Kittle\n- Vederian Lowe\n- Christian McCaffrey\n- 
+ Colton McKivitz\n- Jarrett Patterson\n- Dominick Puni\n- Brock Purdy\n- De
+ marcus Robinson\n- Kurtis Rourke\n- Deebo Samuel Sr.\n- Jack Stoll\n- Jord
+ an Watkins\n- Trent Williams\n- Brayden Willis\n- Carver Willis\n- Tatum B
+ ethune\n- Nick Bosa\n- Ji'Ayir Brown (Questionable)\n- DeForest Buckner\n-
+  Ashtyn Davis\n- Jaden Dugger\n- Luke Gifford (Questionable)\n- Jalen Grah
+ am\n- Renardo Green\n- Dre Greenlaw (Questionable)\n- Romello Height\n- Kh
  alid Kareem (Questionable)\n- Deommodore Lenoir\n- Malik Mustapha\n- Siran
-  Neal (Questionable)\n- Osa Odighizuwa\n- Ogbo Okoronkwo\n- Ephesians Prys
- ock\n- Marques Sigle\n- Upton Stout (Questionable)\n- James Thompson Jr.\n
- - Sebastian Valdez\n- Garret Wallow\n- Fred Warner\n- Keion White\n- Mykel
-  Williams\n- Eddy Pineiro\n- Corliss Waitman\n- Jon Weeks\n- Alfred Collin
- s (Injured Reserve)\n- Andrew Farmer II (Injured Reserve)\n- Darrick Forre
- st (Injured Reserve)\n- Isaac Guerendo (Out)\n- Gracen Halton (Injured Res
- erve)\n- Nate Hobbs (Injured Reserve)\n- Mikail Kamara (Injured Reserve)\n
- - Christian Kirk (Injured Reserve)\n- Nick Martin (Injured Reserve)\n- Sam
-  Okuayinonu (Injured Reserve)\n- Ricky Pearsall (Injured Reserve)\n- Auste
- n Pleasants (Injured Reserve)\n- De'Zhaun Stribling (Injured Reserve)\n- J
- ake Tonges (Injured Reserve)\n- Brett Toth (Questionable)\n- C.J. West (In
- jured Reserve)\n- Nick Zakelj (Injured Reserve)\n\nMinnesota Vikings\n- Ga
- vin Bartholomew\n- Dillon Bell\n- Blake Brandel\n- Max Bredeson\n- Max Bro
- smer\n- Kirk Cousins\n- Devin Culp\n- DeeJay Dallas\n- Christian Darrisaw\
- n- Tai Felton\n- Will Fries\n- T.J. Hockenson (Questionable)\n- Joe Huber\
- n- Justin Jefferson\n- Jauan Jennings\n- Jeshaun Jones (Questionable)\n- A
- aron Jones Sr.\n- Michael Jurgens\n- Jordan Mason\n- Kyler Murray (Out)\n-
-  Brian O'Neill\n- Myles Price\n- Caleb Tiernan\n- Ryan Van Demark\n- Carso
- n Wentz\n- Ben Yurosek\n- Caleb Banks\n- Blake Cashman (Questionable)\n- C
- haz Chambliss\n- Charles Demmings\n- Jake Golday\n- Tyrion Ingram-Dawkins\
- n- Theo Jackson\n- Joshua Metellus\n- Byron Murphy Jr.\n- Domonique Orange
- \n- Ivan Pace Jr.\n- James Pierre\n- Jalen Redmond\n- Isaiah Rodgers (Ques
- tionable)\n- Levi Drake Rodriguez\n- Harrison Smith\n- Jacob Thomas\n- Jak
- obe Thomas\n- Dallas Turner\n- Andrew Van Ginkel (Questionable)\n- Kyle Va
- n Noy\n- Zemaiah Vaughn\n- Jay Ward (Questionable)\n- Elijah Williams\n- E
- ric Wilson\n- Andrew DePaola\n- Will Reichard\n- Brett Thorson\n- Jamal Ad
- ams (Injured Reserve)\n- Jordan Addison (Out)\n- Tyler Batty (Injured Rese
- rve)\n- Demond Claiborne (Injured Reserve)\n- Donovan Jackson (Injured Res
- erve)\n- Dwight McGlothern Jr.\n- Josh Oliver (Injured Reserve)\n- Bo Rich
- ter (Injured Reserve)\n- Nick Samac (Injured Reserve)\nเริ่ม: 
- จ. 23 พ.ย. 08:20 น. (เวลาไทย)
+  Neal\n- Osa Odighizuwa\n- Ogbo Okoronkwo\n- Ephesians Prysock\n- Marques 
+ Sigle\n- Upton Stout (Questionable)\n- James Thompson Jr.\n- Sebastian Val
+ dez\n- Garret Wallow\n- Fred Warner\n- Keion White\n- Mykel Williams\n- Ed
+ dy Pineiro\n- Corliss Waitman\n- Jon Weeks\n- Alfred Collins (Injured Rese
+ rve)\n- Andrew Farmer II (Injured Reserve)\n- Darrick Forrest (Injured Res
+ erve)\n- Isaac Guerendo (Out)\n- Gracen Halton (Injured Reserve)\n- Nate H
+ obbs (Injured Reserve)\n- Mikail Kamara (Injured Reserve)\n- Christian Kir
+ k (Injured Reserve)\n- Nick Martin (Injured Reserve)\n- Sam Okuayinonu (In
+ jured Reserve)\n- Ricky Pearsall (Injured Reserve)\n- Austen Pleasants (In
+ jured Reserve)\n- De'Zhaun Stribling (Injured Reserve)\n- Jake Tonges (Inj
+ ured Reserve)\n- Brett Toth (Questionable)\n- C.J. West (Injured Reserve)\
+ n- Nick Zakelj (Injured Reserve)\n\nMinnesota Vikings\n- Gavin Bartholomew
+ \n- Dillon Bell\n- Blake Brandel\n- Max Bredeson\n- Max Brosmer\n- Kirk Co
+ usins\n- Devin Culp\n- DeeJay Dallas\n- Christian Darrisaw\n- Tai Felton\n
+ - Will Fries\n- T.J. Hockenson (Questionable)\n- Joe Huber\n- Justin Jeffe
+ rson\n- Jauan Jennings\n- Jeshaun Jones (Questionable)\n- Aaron Jones Sr.\
+ n- Michael Jurgens\n- Jordan Mason\n- Kyler Murray (Out)\n- Brian O'Neill\
+ n- Myles Price\n- Caleb Tiernan\n- Ryan Van Demark\n- Carson Wentz\n- Ben 
+ Yurosek\n- Caleb Banks\n- Blake Cashman (Questionable)\n- Chaz Chambliss\n
+ - Charles Demmings\n- Jake Golday\n- Tyrion Ingram-Dawkins\n- Theo Jackson
+ \n- Joshua Metellus\n- Byron Murphy Jr.\n- Domonique Orange\n- Ivan Pace J
+ r.\n- James Pierre\n- Jalen Redmond\n- Isaiah Rodgers (Questionable)\n- Le
+ vi Drake Rodriguez\n- Harrison Smith\n- Jacob Thomas\n- Jakobe Thomas\n- D
+ allas Turner\n- Andrew Van Ginkel (Questionable)\n- Kyle Van Noy\n- Zemaia
+ h Vaughn\n- Jay Ward (Questionable)\n- Elijah Williams\n- Eric Wilson\n- A
+ ndrew DePaola\n- Will Reichard\n- Brett Thorson\n- Jamal Adams (Injured Re
+ serve)\n- Jordan Addison (Out)\n- Tyler Batty (Injured Reserve)\n- Demond 
+ Claiborne (Injured Reserve)\n- Donovan Jackson (Injured Reserve)\n- Dwight
+  McGlothern Jr.\n- Josh Oliver (Injured Reserve)\n- Bo Richter (Injured Re
+ serve)\n- Nick Samac (Injured Reserve)\nเริ่ม: จ. 23 พ.ย. 
+ 08:20 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
