@@ -243,9 +243,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873067@rustlyr.github.io
-SEQUENCE:18
-DTSTAMP:20261119T024701Z
-LAST-MODIFIED:20261119T024701Z
+SEQUENCE:19
+DTSTAMP:20261119T214701Z
+LAST-MODIFIED:20261119T214701Z
 DTSTART;TZID=Asia/Bangkok:20261123T010000
 DTEND;TZID=Asia/Bangkok:20261123T041500
 SUMMARY:Kansas City Chiefs - Arizona Cardinals
@@ -258,42 +258,42 @@ DESCRIPTION:Kansas City Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- Kahlil
   Diego Pounds\n- Rashee Rice\n- Jalen Royals\n- Trey Smith (Questionable)\
  n- Kingsley Suamataia\n- Ben VanSumeren\n- Kenneth Walker III (Questionabl
  e)\n- Justin Watson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Ba
- ssa\n- Nick Bolton (Questionable)\n- Jadon Canady\n- Jack Cochrane\n- Cham
- arri Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton
-  Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\n- Chris Jones\n
- - George Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott (Questionable)\
- n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin Smith Jr.\n- R Mason T
- homas\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woods\n
- - Matt Araiza\n- Harrison Butker\n- James Winchester\n- Jeff Caldwell (Inj
- ured Reserve)\n- Ethan Downs (Injured Reserve)\n- John Michael Gyllenborg 
- (Injured Reserve)\n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Inju
- red Reserve)\n- Brashard Smith (Injured Reserve)\n- L'Jarius Sneed (Injure
- d Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Matt Waletzko (Injured 
- Reserve)\n- Jared Wiley (Injured Reserve)\n\nArizona Cardinals\n- Joey Agu
- ilar\n- Tyler Allgeier\n- Carson Beck\n- Shawn Bowman\n- Jalen Brooks (Inj
- ured Reserve)\n- Hayden Conner\n- Devin Duvernay\n- Kingsley Eguakun\n- Si
- mi Fehoko\n- Jerome Ford\n- Hjalte Froholdt (Questionable)\n- Josh Fryar\n
- - Jon Gaines II (Questionable)\n- Elijah Higgins\n- Evan Hull\n- Josh John
- son\n- Zay Jones\n- Bam Knight\n- Hunter Long\n- Trey McBride\n- Teagan Qu
- itoriano\n- Isaac Seumalo\n- Reggie Virgil\n- Harrison Wallace III\n- Elij
- ah Wilkinson\n- Jayden Williams (Questionable)\n- Jedrick Wills Jr.\n- Bud
- da Baker\n- Andrew Billings\n- Baron Browning\n- Denzel Burke\n- Kei'Trel 
- Clark\n- L.J. Collier\n- Zaven Collins\n- Kitan Crawford\n- Jack Gibbens\n
- - Art Green\n- Jared Harrison-Hunte\n- Kalen King\n- Eku Leota\n- Roy Lope
- z (Questionable)\n- Max Melton (Questionable)\n- Walter Nolen III (Questio
- nable)\n- Cameron Robertson\n- Darius Robinson\n- Karson Sharar\n- Cody Si
- mon\n- Dante Stills\n- Josh Sweat\n- Dadrion Taylor-Demerson\n- Starling T
- homas V\n- Garrett Williams\n- Wydett Williams Jr.\n- Mack Wilson Sr.\n- B
- lake Gillikin\n- Casey Kreiter\n- Chad Ryland\n- Isaiah Adams\n- Trey Bens
- on (Injured Reserve)\n- Chase Bisontis (Injured Reserve)\n- Joey Blount (I
- njured Reserve)\n- Kendrick Bourne (Injured Reserve)\n- Jordan Burch (Inju
- red Reserve)\n- Zachary Carter (Injured Reserve)\n- James Conner (Injured 
- Reserve)\n- Will Johnson (Injured Reserve)\n- Paris Johnson Jr. (Injured R
- eserve)\n- Jeremiyah Love (Injured Reserve)\n- Josh Minkins (Questionable)
- \n- Gardner Minshew II (Injured Reserve)\n- Kaleb Proctor (Injured Reserve
- )\n- Tip Reiman (Out)\n- Xavier Weaver (Questionable)\n- Michael Wilson (I
- njured Reserve)\n- Andrew Wingard (Injured Reserve)\nเริ่ม: จ.
-  23 พ.ย. 01:00 น. (เวลาไทย)
+ ssa\n- Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- 
+ Mansoor Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Al
+ ohi Gilman\n- Marcus Harris\n- Jaden Hicks\n- Chris Jones\n- George Karlaf
+ tis\n- Cooper McDonald\n- Omarr Norman-Lott (Questionable)\n- Xavier Nwank
+ pa\n- Chris Roland-Wallace\n- Melvin Smith Jr.\n- R Mason Thomas\n- Khyiri
+ s Tonga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n
+ - Harrison Butker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n
+ - Ethan Downs (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserv
+ e)\n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n-
+  Brashard Smith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- T
+ yquan Thornton (Injured Reserve)\n- Matt Waletzko (Injured Reserve)\n- Jar
+ ed Wiley (Injured Reserve)\n\nArizona Cardinals\n- Joey Aguilar\n- Tyler A
+ llgeier\n- Carson Beck\n- Shawn Bowman\n- Jalen Brooks (Injured Reserve)\n
+ - Hayden Conner\n- Devin Duvernay\n- Kingsley Eguakun\n- Simi Fehoko\n- Je
+ rome Ford\n- Hjalte Froholdt (Questionable)\n- Josh Fryar\n- Jon Gaines II
+  (Questionable)\n- Elijah Higgins\n- Evan Hull\n- Josh Johnson\n- Zay Jone
+ s\n- Bam Knight\n- Hunter Long\n- Trey McBride\n- Teagan Quitoriano\n- Isa
+ ac Seumalo\n- Reggie Virgil\n- Harrison Wallace III\n- Elijah Wilkinson\n-
+  Jayden Williams (Questionable)\n- Jedrick Wills Jr.\n- Budda Baker\n- And
+ rew Billings\n- Baron Browning\n- Denzel Burke\n- Kei'Trel Clark\n- L.J. C
+ ollier\n- Zaven Collins\n- Kitan Crawford\n- Jack Gibbens\n- Art Green\n- 
+ Jared Harrison-Hunte\n- Kalen King\n- Eku Leota\n- Roy Lopez (Questionable
+ )\n- Max Melton (Questionable)\n- Walter Nolen III (Questionable)\n- Camer
+ on Robertson\n- Darius Robinson\n- Karson Sharar\n- Cody Simon\n- Dante St
+ ills\n- Josh Sweat\n- Dadrion Taylor-Demerson\n- Starling Thomas V\n- Garr
+ ett Williams\n- Wydett Williams Jr.\n- Mack Wilson Sr.\n- Blake Gillikin\n
+ - Casey Kreiter\n- Chad Ryland\n- Isaiah Adams\n- Trey Benson (Injured Res
+ erve)\n- Chase Bisontis (Injured Reserve)\n- Joey Blount (Injured Reserve)
+ \n- Kendrick Bourne (Injured Reserve)\n- Jordan Burch (Injured Reserve)\n-
+  Zachary Carter (Injured Reserve)\n- James Conner (Injured Reserve)\n- Wil
+ l Johnson (Injured Reserve)\n- Paris Johnson Jr. (Injured Reserve)\n- Jere
+ miyah Love (Injured Reserve)\n- Josh Minkins (Questionable)\n- Gardner Min
+ shew II (Injured Reserve)\n- Kaleb Proctor (Injured Reserve)\n- Tip Reiman
+  (Out)\n- Xavier Weaver (Questionable)\n- Michael Wilson (Injured Reserve)
+ \n- Andrew Wingard (Injured Reserve)\nเริ่ม: จ. 23 พ.ย. 01
+ :00 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -310,9 +310,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873082@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261119T174702Z
-LAST-MODIFIED:20261119T174702Z
+SEQUENCE:2
+DTSTAMP:20261119T214701Z
+LAST-MODIFIED:20261119T214701Z
 DTSTART;TZID=Asia/Bangkok:20261127T082000
 DTEND;TZID=Asia/Bangkok:20261127T113500
 SUMMARY:Buffalo Bills - Kansas City Chiefs
@@ -325,11 +325,11 @@ DESCRIPTION:Buffalo Bills\n- Josh Allen\n- Kyle Allen\n- Alec Anderson\n- S
  wson Knox\n- Keleki Latu\n- Connor McGovern\n- DJ Moore\n- Khalil Shakir\n
  - Tyrell Shavers\n- O'Cyrus Torrence\n- Dee Alford (Questionable)\n- Joe A
  ndreessen\n- Christian Benford (Questionable)\n- Terrel Bernard\n- Cole Bi
- shop (Questionable)\n- DeWayne Carter\n- Bradley Chubb\n- Mike Danna\n- Ka
- leb Elarms-Orr\n- Sam Franklin Jr.\n- Greg Gaines\n- Maxwell Hairston\n- D
- amar Hamlin (Questionable)\n- Jordan Hancock\n- Michael Hoecht\n- Amani Ho
- oker (Questionable)\n- Davison Igbinosun\n- Landon Jackson\n- Jalon Kilgor
- e\n- Ed Oliver\n- TJ Parker\n- Greg Rousseau\n- T.J. Sanders\n- Javon Solo
+ shop\n- DeWayne Carter\n- Bradley Chubb\n- Mike Danna\n- Kaleb Elarms-Orr\
+ n- Sam Franklin Jr.\n- Greg Gaines\n- Maxwell Hairston\n- Damar Hamlin (Qu
+ estionable)\n- Jordan Hancock\n- Michael Hoecht\n- Amani Hooker (Questiona
+ ble)\n- Davison Igbinosun\n- Landon Jackson\n- Jalon Kilgore\n- Ed Oliver\
+ n- TJ Parker\n- Greg Rousseau\n- T.J. Sanders (Questionable)\n- Javon Solo
  mon\n- Deone Walker\n- Kani Walker\n- Dorian Williams (Questionable)\n- Ty
  ler Bass\n- Tommy Doman Jr.\n- Reid Ferguson\n- Zane Durant (Injured Reser
  ve)\n- Joshua Palmer (Injured Reserve)\n- Ar'maj Reed-Adams (Injured Reser
@@ -341,19 +341,19 @@ DESCRIPTION:Buffalo Bills\n- Josh Allen\n- Kyle Allen\n- Alec Anderson\n- S
  ier\n- Jaydn Ott\n- Diego Pounds\n- Rashee Rice\n- Jalen Royals\n- Trey Sm
  ith (Questionable)\n- Kingsley Suamataia\n- Ben VanSumeren\n- Kenneth Walk
  er III (Questionable)\n- Justin Watson\n- Xavier Worthy\n- Felix Anudike-U
- zomah\n- Jeffrey Bassa\n- Nick Bolton (Questionable)\n- Jadon Canady\n- Ja
- ck Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristi
- an Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hic
- ks\n- Chris Jones\n- George Karlaftis\n- Cooper McDonald\n- Omarr Norman-L
- ott (Questionable)\n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin Smi
- th Jr.\n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Willia
- ms\n- Peter Woods\n- Matt Araiza\n- Harrison Butker\n- James Winchester\n-
-  Jeff Caldwell (Injured Reserve)\n- Ethan Downs (Injured Reserve)\n- John 
- Michael Gyllenborg (Injured Reserve)\n- Jimmy Holiday (Injured Reserve)\n-
-  Josh Simmons (Injured Reserve)\n- Brashard Smith (Injured Reserve)\n- L'J
- arius Sneed (Injured Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Matt
-  Waletzko (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่
- ม: ศ. 27 พ.ย. 08:20 น. (เวลาไทย)
+ zomah\n- Jeffrey Bassa\n- Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- 
+ Chamarri Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristian Fulton\n- As
+ hton Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\n- Chris Jon
+ es\n- George Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott (Questionab
+ le)\n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin Smith Jr.\n- R Mas
+ on Thomas\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woo
+ ds\n- Matt Araiza\n- Harrison Butker\n- James Winchester\n- Jeff Caldwell 
+ (Injured Reserve)\n- Ethan Downs (Injured Reserve)\n- John Michael Gyllenb
+ org (Injured Reserve)\n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (
+ Injured Reserve)\n- Brashard Smith (Injured Reserve)\n- L'Jarius Sneed (In
+ jured Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Matt Waletzko (Inju
+ red Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 27 
+ พ.ย. 08:20 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
