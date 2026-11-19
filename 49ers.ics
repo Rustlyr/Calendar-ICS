@@ -1,0 +1,484 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL · San Francisco 49ers
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873063@rustlyr.github.io
+SEQUENCE:63
+DTSTAMP:20261117T214701Z
+LAST-MODIFIED:20261117T214701Z
+DTSTART;TZID=Asia/Bangkok:19930201T063000
+DTEND;TZID=Asia/Bangkok:20261116T074000
+SUMMARY:Dallas Cowboys - San Francisco 49ers
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n40-46\n\nQ1 10-7\nQ2 6-10\nQ3 
+ 3-14\nQ4 21-15
+URL:https://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dallas Cowboys - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dallas Cowboys - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401872657@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20260911T073500
+DTEND;TZID=Asia/Bangkok:20260911T105000
+SUMMARY:Los Angeles Rams - San Francisco 49ers
+LOCATION:Melbourne Cricket Ground\, Melbourne\, VIC
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n7-27\n\nQ1 0-3\nQ2 7-7\nQ3 0-7
+ \nQ4 0-10
+URL:https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Rams - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Rams - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401872942@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20260921T032500
+DTEND;TZID=Asia/Bangkok:20260921T064000
+SUMMARY:San Francisco 49ers - Miami Dolphins
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n35-13\n\nQ1 7-0\nQ2 7-6\nQ3 21
+ -0\nQ4 0-7
+URL:https://www.espn.com/nfl/game/_/gameId/401872942/dolphins-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Miami Dolphins
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Miami Dolphins
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401872958@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20260928T030500
+DTEND;TZID=Asia/Bangkok:20260928T062000
+SUMMARY:San Francisco 49ers - Arizona Cardinals
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n36-30\n\nQ1 7-0\nQ2 10-6\nQ3 6
+ -7\nQ4 13-17
+URL:https://www.espn.com/nfl/game/_/gameId/401872958/cardinals-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Arizona Cardinals
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Arizona Cardinals
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401872975@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261005T032500
+DTEND;TZID=Asia/Bangkok:20261005T064000
+SUMMARY:San Francisco 49ers - Denver Broncos
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n24-14\n\nQ1 0-3\nQ2 3-0\nQ3 7-
+ 0\nQ4 14-11
+URL:https://www.espn.com/nfl/game/_/gameId/401872975/broncos-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Denver Broncos
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Denver Broncos
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401872992@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261012T032500
+DTEND;TZID=Asia/Bangkok:20261012T064000
+SUMMARY:Seattle Seahawks - San Francisco 49ers
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n29-32\n\nQ1 7-7\nQ2 6-14\nQ3 1
+ 3-0\nQ4 3-11
+URL:https://www.espn.com/nfl/game/_/gameId/401872992/49ers-seahawks
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seattle Seahawks - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seattle Seahawks - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873008@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261020T071500
+DTEND;TZID=Asia/Bangkok:20261020T103000
+SUMMARY:San Francisco 49ers - Washington Commanders
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n23-17\n\nQ1 13-3\nQ2 7-0\nQ3 3
+ -7\nQ4 0-7
+URL:https://www.espn.com/nfl/game/_/gameId/401873008/commanders-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Washington Commanders
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Washington Commanders
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873017@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261026T000000
+DTEND;TZID=Asia/Bangkok:20261026T031500
+SUMMARY:Atlanta Falcons - San Francisco 49ers
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:FINAL : San Francisco 49ers LOSE\n29-20\n\nQ1 3-7\nQ2 9-7\nQ3 7
+ -0\nQ4 10-6
+URL:https://www.espn.com/nfl/game/_/gameId/401873017/49ers-falcons
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atlanta Falcons - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atlanta Falcons - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873047@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261109T042500
+DTEND;TZID=Asia/Bangkok:20261109T074000
+SUMMARY:San Francisco 49ers - Las Vegas Raiders
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:FINAL : San Francisco 49ers WIN\n38-17\n\nQ1 14-0\nQ2 7-10\nQ3 
+ 14-7\nQ4 3-0
+URL:https://www.espn.com/nfl/game/_/gameId/401873047/raiders-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Las Vegas Raiders
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Las Vegas Raiders
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873077@rustlyr.github.io
+SEQUENCE:14
+DTSTAMP:20261118T234701Z
+LAST-MODIFIED:20261118T234701Z
+DTSTART;TZID=Asia/Bangkok:20261123T082000
+DTEND;TZID=Asia/Bangkok:20261123T113500
+SUMMARY:San Francisco 49ers - Minnesota Vikings
+LOCATION:Estadio Banorte\, Mexico City\, Mexico
+DESCRIPTION:San Francisco 49ers\n- Brandon Aiyuk (Out)\n- Keenan Allen\n- K
+ aelon Black\n- Jake Brendel\n- Connor Colby\n- Brandin Cooks\n- Jacob Cowi
+ ng\n- Enrique Cruz Jr.\n- Mike Evans (Questionable)\n- Luke Farrell\n- Kha
+ Darel Hodge\n- Jordan James\n- Mac Jones (Questionable)\n- Kyle Juszczyk\n
+ - George Kittle\n- Vederian Lowe\n- Christian McCaffrey\n- Colton McKivitz
+ \n- Jarrett Patterson\n- Dominick Puni\n- Brock Purdy\n- Demarcus Robinson
+ \n- Kurtis Rourke\n- Deebo Samuel Sr.\n- Jack Stoll\n- Jordan Watkins\n- T
+ rent Williams\n- Brayden Willis\n- Carver Willis\n- Tatum Bethune\n- Nick 
+ Bosa\n- Ji'Ayir Brown (Questionable)\n- DeForest Buckner\n- Ashtyn Davis\n
+ - Jaden Dugger\n- Luke Gifford (Questionable)\n- Jalen Graham\n- Renardo G
+ reen (Questionable)\n- Dre Greenlaw (Questionable)\n- Romello Height\n- Kh
+ alid Kareem (Questionable)\n- Deommodore Lenoir\n- Malik Mustapha\n- Siran
+  Neal (Questionable)\n- Osa Odighizuwa\n- Ogbo Okoronkwo\n- Ephesians Prys
+ ock\n- Marques Sigle\n- Upton Stout (Questionable)\n- James Thompson Jr.\n
+ - Sebastian Valdez\n- Garret Wallow\n- Fred Warner\n- Keion White\n- Mykel
+  Williams\n- Eddy Pineiro\n- Corliss Waitman\n- Jon Weeks\n- Alfred Collin
+ s (Injured Reserve)\n- Andrew Farmer II (Injured Reserve)\n- Darrick Forre
+ st (Injured Reserve)\n- Isaac Guerendo (Out)\n- Gracen Halton (Injured Res
+ erve)\n- Nate Hobbs (Injured Reserve)\n- Mikail Kamara (Injured Reserve)\n
+ - Christian Kirk (Injured Reserve)\n- Nick Martin (Injured Reserve)\n- Sam
+  Okuayinonu (Injured Reserve)\n- Ricky Pearsall (Injured Reserve)\n- Auste
+ n Pleasants (Injured Reserve)\n- De'Zhaun Stribling (Injured Reserve)\n- J
+ ake Tonges (Injured Reserve)\n- Brett Toth (Questionable)\n- C.J. West (In
+ jured Reserve)\n- Nick Zakelj (Injured Reserve)\n\nMinnesota Vikings\n- Ga
+ vin Bartholomew\n- Dillon Bell\n- Blake Brandel\n- Max Bredeson\n- Max Bro
+ smer\n- Kirk Cousins\n- Devin Culp\n- DeeJay Dallas\n- Christian Darrisaw\
+ n- Tai Felton\n- Will Fries\n- T.J. Hockenson (Questionable)\n- Joe Huber\
+ n- Justin Jefferson\n- Jauan Jennings\n- Jeshaun Jones (Questionable)\n- A
+ aron Jones Sr.\n- Michael Jurgens\n- Jordan Mason\n- Kyler Murray (Out)\n-
+  Brian O'Neill\n- Myles Price\n- Caleb Tiernan\n- Ryan Van Demark\n- Carso
+ n Wentz\n- Ben Yurosek\n- Caleb Banks\n- Blake Cashman (Questionable)\n- C
+ haz Chambliss\n- Charles Demmings\n- Jake Golday\n- Tyrion Ingram-Dawkins\
+ n- Theo Jackson\n- Joshua Metellus\n- Byron Murphy Jr.\n- Domonique Orange
+ \n- Ivan Pace Jr.\n- James Pierre\n- Jalen Redmond\n- Isaiah Rodgers\n- Le
+ vi Drake Rodriguez\n- Harrison Smith\n- Jacob Thomas\n- Jakobe Thomas\n- D
+ allas Turner\n- Andrew Van Ginkel (Questionable)\n- Kyle Van Noy (Question
+ able)\n- Zemaiah Vaughn\n- Jay Ward (Questionable)\n- Elijah Williams\n- E
+ ric Wilson\n- Andrew DePaola\n- Will Reichard\n- Brett Thorson\n- Jamal Ad
+ ams (Injured Reserve)\n- Jordan Addison (Out)\n- Tyler Batty (Injured Rese
+ rve)\n- Demond Claiborne (Injured Reserve)\n- Donovan Jackson (Injured Res
+ erve)\n- Dwight McGlothern Jr.\n- Josh Oliver (Injured Reserve)\n- Bo Rich
+ ter (Injured Reserve)\n- Nick Samac (Injured Reserve)\nเริ่ม: 
+ จ. 23 พ.ย. 08:20 น. (เวลาไทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Minnesota Vikings
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Minnesota Vikings
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873091@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261130T042500
+DTEND;TZID=Asia/Bangkok:20261130T074000
+SUMMARY:San Francisco 49ers - Seattle Seahawks
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:เริ่ม: จ. 30 พ.ย. 04:25 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873091/seahawks-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Seattle Seahawks
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Seattle Seahawks
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873095@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261207T010000
+DTEND;TZID=Asia/Bangkok:20261207T041500
+SUMMARY:New York Giants - San Francisco 49ers
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:เริ่ม: จ. 7 ธ.ค. 01:00 น. (เวลาไท
+ ย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873095/49ers-giants
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:New York Giants - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:New York Giants - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873120@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261214T042500
+DTEND;TZID=Asia/Bangkok:20261214T074000
+SUMMARY:San Francisco 49ers - Los Angeles Rams
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:เริ่ม: จ. 14 ธ.ค. 04:25 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873120/rams-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Los Angeles Rams
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Los Angeles Rams
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873124@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261218T081500
+DTEND;TZID=Asia/Bangkok:20261218T113000
+SUMMARY:Los Angeles Chargers - San Francisco 49ers
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:เริ่ม: ศ. 18 ธ.ค. 08:15 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873124/49ers-chargers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Chargers - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Chargers - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873153@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261228T042500
+DTEND;TZID=Asia/Bangkok:20261228T074000
+SUMMARY:Kansas City Chiefs - San Francisco 49ers
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:เริ่ม: จ. 28 ธ.ค. 04:25 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873153/49ers-chiefs
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873170@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20270104T082000
+DTEND;TZID=Asia/Bangkok:20270104T113500
+SUMMARY:San Francisco 49ers - Philadelphia Eagles
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:เริ่ม: จ. 4 ม.ค. 08:20 น. (เวลาไท
+ ย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Philadelphia Eagles
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Francisco 49ers - Philadelphia Eagles
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-25-401873184@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Arizona Cardinals - San Francisco 49ers
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:
+URL:https://www.espn.com/nfl/game/_/gameId/401873184/49ers-cardinals
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arizona Cardinals - San Francisco 49ers
+TRIGGER:PT8H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arizona Cardinals - San Francisco 49ers
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

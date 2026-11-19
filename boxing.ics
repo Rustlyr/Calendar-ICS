@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boxing (PBC / Riyadh / DAZN / Netflix)
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:boxcal-1000000049@boxingscene.com
+SEQUENCE:5
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261114T230000
+DTEND;TZID=Asia/Bangkok:20261115T030000
+SUMMARY:Carlos Adames vs Gerome Warburton
+LOCATION:The Venue\, Riyadh
+DESCRIPTION:RIYADH SEASON - ZUFFA BOXING\nLIVE : Sky Sports\, Paramount+\n\
+ n• Carlos Adames Vs. Gerome Warburton\nSTATUS: W1 Unanimous Decision\n
+ • Jason Moloney Vs. Andres Teran\nSTATUS: W1 Unanimous Decision\n• Bru
+ no Surace Vs. Kamil Bednarek\nSTATUS: W1 Unanimous Decision\n• Ivan Orti
+ z Vs. Dariial Kuchmenov\n• Radzhab Butaev Vs. Alexander Castro
+URL:https://www.boxingscene.com/events/carlos-adames-vs-gerome-warburton
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carlos Adames vs Gerome Warburton
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carlos Adames vs Gerome Warburton
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-8092@boxingscene.com
+SEQUENCE:2
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261121T080000
+DTEND;TZID=Asia/Bangkok:20261121T120000
+SUMMARY:Gabriela Fundora vs Jasmina Zapotoczna
+LOCATION:Fantasy Springs Resort Casino\, Indio\, California
+DESCRIPTION:GOLDEN BOY\nLIVE : DAZN\n\n• Gabriela Fundora Vs. Jasmina Zap
+ otoczna\n• Amari Jones Vs. DeAundre Pettus
+URL:https://www.boxingscene.com/events/gabriela-fundora-jasmina-zapotoczna
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gabriela Fundora vs Jasmina Zapotoczna
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gabriela Fundora vs Jasmina Zapotoczna
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7926@boxingscene.com
+SEQUENCE:3
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261129T010000
+DTEND;TZID=Asia/Bangkok:20261129T050000
+SUMMARY:Agit Kabayel vs Nelson Hysa
+LOCATION:Merkur Spiel-Arena\, Düsseldorf\, Germany
+DESCRIPTION:LIVE : DAZN\n\n• Agit Kabayel Vs. Nelson Hysa
+URL:https://www.boxingscene.com/events/agit-kabayel-nelson-hysa
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agit Kabayel vs Nelson Hysa
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agit Kabayel vs Nelson Hysa
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000050@boxingscene.com
+SEQUENCE:2
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261206T080000
+DTEND;TZID=Asia/Bangkok:20261206T120000
+SUMMARY:David Benavidez vs Michal Cieslak
+LOCATION:Desert Diamond Arena\, Glendale\, Arizona
+DESCRIPTION:LIVE : DAZN & Prime Video\n\n• David Benavidez Vs. Michal Cie
+ slak\n• Vergil Ortiz Jr. Vs. Keith Thurman\n• Emiliano Vargas Vs. Omar
+  Juarez\n• Nikita Tszyu Vs. Roberto Valenzuela Jr.\n• Marco Romero Vs.
+  Cruse Stewart
+URL:https://www.boxingscene.com/events/david-benavidez-vs-micha-cieslak
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:David Benavidez vs Michal Cieslak
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:David Benavidez vs Michal Cieslak
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000051@boxingscene.com
+SEQUENCE:1
+DTSTAMP:20261106T131705Z
+LAST-MODIFIED:20261106T131705Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Emiliano Vargas vs Omar Juarez
+LOCATION:
+DESCRIPTION:LIVE : DAZN & Prime Video\n\n• Emiliano Vargas Vs. Omar Juare
+ z
+URL:https://www.boxingscene.com/events/emiliano-vargas-vs-omar-juarez
+STATUS:CANCELLED
+X-BOXCAL-PHASE:cancelled
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7893@boxingscene.com
+SEQUENCE:4
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261212T080000
+DTEND;TZID=Asia/Bangkok:20261212T120000
+SUMMARY:Tyson Fury vs Anthony Joshua
+LOCATION:Principality Stadium\, Cardiff\, United Kingdom
+DESCRIPTION:LIVE : Netflix\n\n• Tyson Fury Vs. Anthony Joshua\n• Deonta
+ y Wilder Vs. Jai Opetaia\n• Frazer Clarke Vs. Joseph Parker
+URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tyson Fury vs Anthony Joshua
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tyson Fury vs Anthony Joshua
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000045@boxingscene.com
+SEQUENCE:4
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261213T063000
+DTEND;TZID=Asia/Bangkok:20261213T103000
+SUMMARY:Tim Tszyu vs Erislandy Lara
+LOCATION:Cbus Super Stadium\, Gold Coast\, Australia
+DESCRIPTION:LIVE : DAZN\n\n• Tim Tszyu Vs. Erislandy Lara\n• Jermell Ch
+ arlo Vs. Brock Jarvis\n• Liam Wilson Vs. Elnur Samedov\n• Kirra Ruston
+  Vs. Sanderson Diaz\n• Callum Peters Vs. Saulo Saldivar
+URL:https://www.boxingscene.com/events/tim-tszyu-vs-erislandy-lara
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tim Tszyu vs Erislandy Lara
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tim Tszyu vs Erislandy Lara
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7691@boxingscene.com
+SEQUENCE:3
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261212T210000
+DTEND;TZID=Asia/Bangkok:20261213T010000
+SUMMARY:Dmitry Bivol vs Callum Smith
+LOCATION:UMMC Arena\, Yekaterinburg\, Russia
+DESCRIPTION:LIVE : DAZN\n\n• Dmitry Bivol Vs. Callum Smith
+URL:https://www.boxingscene.com/events/dmitry-bivol-callum-smith
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dmitry Bivol vs Callum Smith
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dmitry Bivol vs Callum Smith
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000044@boxingscene.com
+SEQUENCE:2
+DTSTAMP:20261115T055758Z
+LAST-MODIFIED:20261115T055758Z
+DTSTART;TZID=Asia/Bangkok:20261220T080000
+DTEND;TZID=Asia/Bangkok:20261220T120000
+SUMMARY:Devin Haney vs Liam Paro
+LOCATION:Chase Center\, San Francisco\, California
+DESCRIPTION:LIVE : DAZN\n\n• Devin Haney Vs. Liam Paro\n• Brian Norman 
+ Jr. Vs. Abel Ramos
+URL:https://www.boxingscene.com/events/devin-haney-vs-liam-paro
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Devin Haney vs Liam Paro
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Devin Haney vs Liam Paro
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

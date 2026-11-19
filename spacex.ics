@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SpaceX Launches
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-spacex-0f867f0c-5422-4d44-93b8-d7faaae7019b@rustlyr.github.io
+SEQUENCE:25
+DTSTAMP:20261115T224701Z
+LAST-MODIFIED:20261115T224701Z
+DTSTART;TZID=Asia/Bangkok:20261114T054736
+DTEND;TZID=Asia/Bangkok:20261114T064736
+SUMMARY:Starship · Starlink Group 31-2 (Starship Flight 15)
+LOCATION:Orbital Launch Pad 2\, SpaceX Starbase\, TX\, USA
+DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
+ ยสำเร็จ\nผล: ปล่อยสำเร็จ\nผล: 
+ ปล่อยสำเร็จ\nผล: ปล่อยสำเร็
+ จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อยส
+ ำเร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล
+ ่อยสำเร็จ\nผล: ปล่อยสำเร็จ\n
+ ผล: ปล่อยสำเร็จ\nผล: ปล่อยสำ
+ เร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล่
+ อยสำเร็จ\nผล: ปล่อยสำเร็จ\nผ
+ ล: ปล่อยสำเร็จ\nผล: ปล่อยสำเ
+ ร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อ
+ ยสำเร็จ\nผล: ปล่อยสำเร็จ\nผล: 
+ ปล่อยสำเร็จ\nผล: ปล่อยสำเร็
+ จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อยส
+ ำเร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล
+ ่อยสำเร็จ\nถ่ายทอดสด:\nhttps://www.you
+ tube.com/watch?v=dl4O6RqbvOs\nhttps://x.com/i/broadcasts/2brajgZlOKRMka\nh
+ ttps://www.youtube.com/watch?v=QlR1agMLyMk\nhttps://www.youtube.com/watch?
+ v=9XM0lpVlvo0\nhttps://www.youtube.com/watch?v=QJFdKoKNn2M
+URL:https://www.youtube.com/watch?v=dl4O6RqbvOs
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:final
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starship · Starlink Group 31-2 (Starship Flight 15)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starship · Starlink Group 31-2 (Starship Flight 15)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539@rustlyr.github.io
+SEQUENCE:9
+DTSTAMP:20261119T154701Z
+LAST-MODIFIED:20261119T154701Z
+DTSTART;TZID=Asia/Bangkok:20261120T113255
+DTEND;TZID=Asia/Bangkok:20261120T123255
+SUMMARY:Falcon 9 · USSF-317
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=Z
+ i7vbfr5FPI\nhttps://www.youtube.com/watch?v=fk84K7QVWgw\nhttps://x.com/i/b
+ roadcasts/2lgkMvaRVPMdYR\nเริ่ม: ศ. 20 พ.ย. 11:32 น. (
+ เวลาไทย)
+URL:https://www.youtube.com/watch?v=Zi7vbfr5FPI
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-317
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-317
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261114T200026Z
+LAST-MODIFIED:20261114T200026Z
+DTSTART;TZID=Asia/Bangkok:20261121T193000
+DTEND;TZID=Asia/Bangkok:20261121T203000
+SUMMARY:Falcon 9 · NROL-136
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2yboJa
+ pzrmYNbe\nเริ่ม: ส. 21 พ.ย. 19:30 น. (เวลาไท
+ ย)
+URL:https://x.com/i/broadcasts/2yboJapzrmYNbe
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · NROL-136
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · NROL-136
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
+SEQUENCE:4
+DTSTAMP:20261114T200026Z
+LAST-MODIFIED:20261114T200026Z
+DTSTART;TZID=Asia/Bangkok:20261123T230400
+DTEND;TZID=Asia/Bangkok:20261124T000400
+SUMMARY:Falcon 9 · USSF-266
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2JQXBj
+ LyYOQrpX\nเริ่ม: จ. 23 พ.ย. 23:04 น. (เวลาไท
+ ย)
+URL:https://x.com/i/broadcasts/2JQXBjLyYOQrpX
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-266
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-266
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-b0d27def-0a88-44c3-a947-1fd5b8503e2c@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261118T194701Z
+LAST-MODIFIED:20261118T194701Z
+DTSTART;TZID=Asia/Bangkok:20261128T115300
+DTEND;TZID=Asia/Bangkok:20261128T125300
+SUMMARY:Falcon 9 · USSF-380
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2ybQqg
+ pAAEJmBB\nเริ่ม: ส. 28 พ.ย. 11:53 น. (เวลาไท
+ ย)
+URL:https://x.com/i/broadcasts/2ybQqgpAAEJmBB
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-380
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-380
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-d74afbc7-0de5-491c-be05-4e9c31f736ac@rustlyr.github.io
+SEQUENCE:4
+DTSTAMP:20261119T124701Z
+LAST-MODIFIED:20261119T124701Z
+DTSTART;TZID=Asia/Bangkok:20261129T224700
+DTEND;TZID=Asia/Bangkok:20261129T234700
+SUMMARY:Falcon 9 · Cygnus CRS-2 NG-25
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://plus.nasa.gov/scheduled-v
+ ideo/nasas-northrop-grumman-commercial-resupply-services-25-launch/\nเ
+ ริ่ม: อา. 29 พ.ย. 22:47 น. (เวลาไทย)
+URL:https://plus.nasa.gov/scheduled-video/nasas-northrop-grumman-commercial
+ -resupply-services-25-launch/
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · Cygnus CRS-2 NG-25
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · Cygnus CRS-2 NG-25
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261114T200026Z
+LAST-MODIFIED:20261114T200026Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Falcon Heavy · Griffin Mission One
+LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
+DESCRIPTION:
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon Heavy · Griffin Mission One
+TRIGGER:PT8H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon Heavy · Griffin Mission One
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
