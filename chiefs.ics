@@ -243,9 +243,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873067@rustlyr.github.io
-SEQUENCE:20
-DTSTAMP:20261119T224701Z
-LAST-MODIFIED:20261119T224701Z
+SEQUENCE:21
+DTSTAMP:20261119T234701Z
+LAST-MODIFIED:20261119T234701Z
 DTSTART;TZID=Asia/Bangkok:20261123T010000
 DTEND;TZID=Asia/Bangkok:20261123T041500
 SUMMARY:Kansas City Chiefs - Arizona Cardinals
@@ -276,24 +276,24 @@ DESCRIPTION:Kansas City Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- Kahlil
  - Jon Gaines II (Questionable)\n- Elijah Higgins\n- Evan Hull\n- Josh John
  son\n- Zay Jones\n- Bam Knight\n- Hunter Long\n- Trey McBride\n- Teagan Qu
  itoriano\n- Isaac Seumalo\n- Reggie Virgil\n- Harrison Wallace III\n- Elij
- ah Wilkinson\n- Jayden Williams (Questionable)\n- Jedrick Wills Jr.\n- Bud
- da Baker\n- Andrew Billings\n- Baron Browning\n- Denzel Burke\n- Kei'Trel 
- Clark\n- L.J. Collier\n- Zaven Collins\n- Kitan Crawford\n- Jack Gibbens\n
- - Art Green\n- Jared Harrison-Hunte\n- Kalen King\n- Eku Leota\n- Roy Lope
- z (Questionable)\n- Max Melton (Questionable)\n- Walter Nolen III (Questio
- nable)\n- Cameron Robertson\n- Darius Robinson\n- Karson Sharar\n- Cody Si
- mon\n- Dante Stills\n- Josh Sweat\n- Dadrion Taylor-Demerson\n- Starling T
- homas V\n- Garrett Williams\n- Wydett Williams Jr.\n- Mack Wilson Sr.\n- B
- lake Gillikin\n- Casey Kreiter\n- Chad Ryland\n- Isaiah Adams\n- Trey Bens
- on (Injured Reserve)\n- Chase Bisontis (Injured Reserve)\n- Joey Blount (I
- njured Reserve)\n- Kendrick Bourne (Injured Reserve)\n- Jordan Burch (Inju
- red Reserve)\n- Zachary Carter (Injured Reserve)\n- James Conner (Injured 
- Reserve)\n- Will Johnson (Injured Reserve)\n- Paris Johnson Jr. (Injured R
- eserve)\n- Jeremiyah Love (Injured Reserve)\n- Josh Minkins (Questionable)
- \n- Gardner Minshew II (Injured Reserve)\n- Kaleb Proctor (Injured Reserve
- )\n- Tip Reiman (Out)\n- Xavier Weaver (Questionable)\n- Michael Wilson (I
- njured Reserve)\n- Andrew Wingard (Injured Reserve)\nเริ่ม: จ.
-  23 พ.ย. 01:00 น. (เวลาไทย)
+ ah Wilkinson\n- Jayden Williams\n- Jedrick Wills Jr.\n- Budda Baker\n- And
+ rew Billings\n- Baron Browning\n- Denzel Burke\n- Kei'Trel Clark\n- L.J. C
+ ollier\n- Zaven Collins\n- Kitan Crawford\n- Jack Gibbens\n- Art Green\n- 
+ Jared Harrison-Hunte\n- Kalen King\n- Eku Leota\n- Roy Lopez (Questionable
+ )\n- Max Melton\n- Walter Nolen III\n- Cameron Robertson\n- Darius Robinso
+ n\n- Karson Sharar\n- Cody Simon\n- Dante Stills\n- Josh Sweat\n- Dadrion 
+ Taylor-Demerson\n- Starling Thomas V\n- Garrett Williams\n- Wydett William
+ s Jr.\n- Mack Wilson Sr.\n- Blake Gillikin\n- Casey Kreiter\n- Chad Ryland
+ \n- Isaiah Adams\n- Trey Benson (Injured Reserve)\n- Chase Bisontis (Injur
+ ed Reserve)\n- Joey Blount (Injured Reserve)\n- Kendrick Bourne (Injured R
+ eserve)\n- Jordan Burch (Injured Reserve)\n- Zachary Carter (Injured Reser
+ ve)\n- James Conner (Injured Reserve)\n- Will Johnson (Injured Reserve)\n-
+  Paris Johnson Jr. (Injured Reserve)\n- Jeremiyah Love (Injured Reserve)\n
+ - Josh Minkins (Questionable)\n- Gardner Minshew II (Injured Reserve)\n- K
+ aleb Proctor (Injured Reserve)\n- Tip Reiman (Out)\n- Xavier Weaver (Quest
+ ionable)\n- Michael Wilson (Injured Reserve)\n- Andrew Wingard (Injured Re
+ serve)\nเริ่ม: จ. 23 พ.ย. 01:00 น. (เวลาไท
+ ย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
