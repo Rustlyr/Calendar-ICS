@@ -393,24 +393,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910022@rustlyr.github.io
-SEQUENCE:11
-DTSTAMP:20261118T234701Z
-LAST-MODIFIED:20261118T234701Z
+SEQUENCE:12
+DTSTAMP:20261120T011501Z
+LAST-MODIFIED:20261120T011501Z
 DTSTART;TZID=Asia/Bangkok:20261120T080000
 DTEND;TZID=Asia/Bangkok:20261120T103000
 SUMMARY:San Antonio Spurs - LA Clippers
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
- ryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gi
- llespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- 
- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintanc
- e (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\n\nLA Cli
- ppers\n- Bradley Beal (Out)\n- Cam Christie\n- Gradey Dick\n- Kris Dunn\n-
-  Darius Garland\n- Rui Hachimura\n- Brandon Ingram (Out)\n- Isaiah Jackson
- \n- Derrick Jones Jr.\n- Brook Lopez\n- Nick Martinelli\n- Baba Miller\n- 
- Jordan Miller (Out)\n- Yanic Konan Niederhauser\n- Jalen Pickett\n- Kobe S
- anders\n- Max Strus\n- Keaton Wagler\n- Blake Wesley\nเริ่ม: ศ
- . 20 พ.ย. 08:00 น. (เวลาไทย)
+DESCRIPTION:LIVE : 8:40 - 1st\n8-10\n\nQ1 8-10\nเริ่ม: ศ. 20 
+ พ.ย. 08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910022/clippers-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
