@@ -59,33 +59,6 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539@rustlyr.github.io
-SEQUENCE:10
-DTSTAMP:20261120T004701Z
-LAST-MODIFIED:20261120T004701Z
-DTSTART;TZID=Asia/Bangkok:20261120T134359
-DTEND;TZID=Asia/Bangkok:20261120T144359
-SUMMARY:Falcon 9 · USSF-317
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=Z
- i7vbfr5FPI\nhttps://www.youtube.com/watch?v=fk84K7QVWgw\nhttps://x.com/i/b
- roadcasts/2lgkMvaRVPMdYR\nเริ่ม: ศ. 20 พ.ย. 13:43 น. (
- เวลาไทย)
-URL:https://www.youtube.com/watch?v=Zi7vbfr5FPI
-STATUS:CONFIRMED
-X-BOXCAL-PHASE:scheduled
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Falcon 9 · USSF-317
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Falcon 9 · USSF-317
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539-was-202611200432@r
  ustlyr.github.io
 SEQUENCE:0
@@ -101,6 +74,50 @@ DESCRIPTION:เลื่อนไป ศ. 20 พ.ย. 13:43 น. (เวล
 URL:https://www.youtube.com/watch?v=Zi7vbfr5FPI
 STATUS:CANCELLED
 X-BOXCAL-PHASE:cancelled
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539-was-202611200643@r
+ ustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261120T034701Z
+LAST-MODIFIED:20261120T034701Z
+DTSTART;TZID=Asia/Bangkok:20261120T134359
+DTEND;TZID=Asia/Bangkok:20261120T144359
+SUMMARY:Falcon 9 · USSF-317
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:เลื่อนไป ส. 21 พ.ย. 09:32 น. (เวล
+ าไทย)\nเริ่ม: ศ. 20 พ.ย. 13:43 น. (เวลา
+ ไทย)
+URL:https://www.youtube.com/watch?v=Zi7vbfr5FPI
+STATUS:CANCELLED
+X-BOXCAL-PHASE:cancelled
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539@rustlyr.github.io
+SEQUENCE:11
+DTSTAMP:20261120T034701Z
+LAST-MODIFIED:20261120T034701Z
+DTSTART;TZID=Asia/Bangkok:20261121T093200
+DTEND;TZID=Asia/Bangkok:20261121T103200
+SUMMARY:Falcon 9 · USSF-317
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=Z
+ i7vbfr5FPI\nhttps://www.youtube.com/watch?v=fk84K7QVWgw\nhttps://x.com/i/b
+ roadcasts/2lgkMvaRVPMdYR\nเริ่ม: ส. 21 พ.ย. 09:32 น. (
+ เวลาไทย)
+URL:https://www.youtube.com/watch?v=Zi7vbfr5FPI
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-317
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · USSF-317
+TRIGGER:PT0S
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
