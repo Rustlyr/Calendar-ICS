@@ -393,14 +393,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910022@rustlyr.github.io
-SEQUENCE:13
-DTSTAMP:20261120T012009Z
-LAST-MODIFIED:20261120T012009Z
+SEQUENCE:14
+DTSTAMP:20261120T012509Z
+LAST-MODIFIED:20261120T012509Z
 DTSTART;TZID=Asia/Bangkok:20261120T080000
 DTEND;TZID=Asia/Bangkok:20261120T103000
 SUMMARY:San Antonio Spurs - LA Clippers
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:LIVE : 6:13 - 1st\n12-14\n\nQ1 12-14\nเริ่ม: ศ. 20 
+DESCRIPTION:LIVE : 3:51 - 1st\n18-18\n\nQ1 18-18\nเริ่ม: ศ. 20 
  พ.ย. 08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game?gameId=401910022
 STATUS:CONFIRMED
@@ -452,24 +452,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910045@rustlyr.github.io
-SEQUENCE:7
-DTSTAMP:20261118T234701Z
-LAST-MODIFIED:20261118T234701Z
+SEQUENCE:8
+DTSTAMP:20261120T012509Z
+LAST-MODIFIED:20261120T012509Z
 DTSTART;TZID=Asia/Bangkok:20261124T100000
 DTEND;TZID=Asia/Bangkok:20261124T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Sacramento Kings\n- Precious Achiuwa\n- Darius Acuff Jr.\n- Lea
- ky Black\n- Dylan Cardwell\n- De'Andre Hunter\n- Alex Karaban\n- Zach LaVi
- ne\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- Sean Pedulla\n- Dae
- qwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n- Domantas Sabonis\
- n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Antonio Spurs\n- Harrison Bar
- nes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julian Champagnie
- \n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harr
- is (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan 
- McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\
- n- Victor Wembanyama\nเริ่ม: อ. 24 พ.ย. 10:00 น. (เว
- ลาไทย)
+DESCRIPTION:Sacramento Kings\n- Precious Achiuwa (Day-To-Day)\n- Darius Acu
+ ff Jr.\n- Leaky Black\n- Dylan Cardwell\n- De'Andre Hunter (Day-To-Day)\n-
+  Alex Karaban\n- Zach LaVine\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Mur
+ ray\n- Sean Pedulla\n- Daeqwon Plowden\n- Mason Plumlee\n- Maxime Raynaud 
+ (Out)\n- Domantas Sabonis\n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Ant
+ onio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon C
+ astle\n- Julian Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan H
+ arper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia
+ \n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris 
+ Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\nเริ่ม: อ. 24 
+ พ.ย. 10:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
