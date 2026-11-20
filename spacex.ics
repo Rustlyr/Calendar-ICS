@@ -120,18 +120,35 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261114T200026Z
-LAST-MODIFIED:20261114T200026Z
+UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac-was-202611211230@r
+ ustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261120T164701Z
+LAST-MODIFIED:20261120T164701Z
 DTSTART;TZID=Asia/Bangkok:20261121T193000
 DTEND;TZID=Asia/Bangkok:20261121T203000
 SUMMARY:Falcon 9 · NROL-136
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2yboJa
- pzrmYNbe\nเริ่ม: ส. 21 พ.ย. 19:30 น. (เวลาไท
- ย)
+DESCRIPTION:เลื่อนไป อา. 22 พ.ย. 19:16 น. (เว
+ ลาไทย)\nเริ่ม: ส. 21 พ.ย. 19:30 น. (เวล
+ าไทย)
 URL:https://x.com/i/broadcasts/2yboJapzrmYNbe
+STATUS:CANCELLED
+X-BOXCAL-PHASE:cancelled
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
+SEQUENCE:2
+DTSTAMP:20261120T164701Z
+LAST-MODIFIED:20261120T164701Z
+DTSTART;TZID=Asia/Bangkok:20261122T191600
+DTEND;TZID=Asia/Bangkok:20261122T201600
+SUMMARY:Falcon 9 · NROL-136
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=C
+ jN4lPx7mD8\nhttps://x.com/i/broadcasts/2yboJapzrmYNbe\nเริ่ม: 
+ อา. 22 พ.ย. 19:16 น. (เวลาไทย)
+URL:https://www.youtube.com/watch?v=CjN4lPx7mD8
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
