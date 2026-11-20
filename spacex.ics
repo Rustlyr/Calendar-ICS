@@ -146,16 +146,33 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
-SEQUENCE:4
-DTSTAMP:20261114T200026Z
-LAST-MODIFIED:20261114T200026Z
+UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09-was-202611231604@r
+ ustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261120T184701Z
+LAST-MODIFIED:20261120T184701Z
 DTSTART;TZID=Asia/Bangkok:20261123T230400
 DTEND;TZID=Asia/Bangkok:20261124T000400
 SUMMARY:Falcon 9 · USSF-266
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:เลื่อนไป อ. 24 พ.ย. 22:55 น. (เวล
+ าไทย)\nเริ่ม: จ. 23 พ.ย. 23:04 น. (เวลา
+ ไทย)
+URL:https://x.com/i/broadcasts/2JQXBjLyYOQrpX
+STATUS:CANCELLED
+X-BOXCAL-PHASE:cancelled
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
+SEQUENCE:5
+DTSTAMP:20261120T184701Z
+LAST-MODIFIED:20261120T184701Z
+DTSTART;TZID=Asia/Bangkok:20261124T225500
+DTEND;TZID=Asia/Bangkok:20261124T235500
+SUMMARY:Falcon 9 · USSF-266
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2JQXBj
- LyYOQrpX\nเริ่ม: จ. 23 พ.ย. 23:04 น. (เวลาไท
+ LyYOQrpX\nเริ่ม: อ. 24 พ.ย. 22:55 น. (เวลาไท
  ย)
 URL:https://x.com/i/broadcasts/2JQXBjLyYOQrpX
 STATUS:CONFIRMED
@@ -172,17 +189,34 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sportcal-spacex-b0d27def-0a88-44c3-a947-1fd5b8503e2c@rustlyr.github.io
+UID:sportcal-spacex-b0d27def-0a88-44c3-a947-1fd5b8503e2c-was-202611280453@r
+ ustlyr.github.io
 SEQUENCE:0
-DTSTAMP:20261118T194701Z
-LAST-MODIFIED:20261118T194701Z
+DTSTAMP:20261120T184701Z
+LAST-MODIFIED:20261120T184701Z
 DTSTART;TZID=Asia/Bangkok:20261128T115300
 DTEND;TZID=Asia/Bangkok:20261128T125300
 SUMMARY:Falcon 9 · USSF-380
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:เลื่อนไป อา. 29 พ.ย. 11:39 น. (เว
+ ลาไทย)\nเริ่ม: ส. 28 พ.ย. 11:53 น. (เวล
+ าไทย)
+URL:https://x.com/i/broadcasts/2ybQqgpAAEJmBB
+STATUS:CANCELLED
+X-BOXCAL-PHASE:cancelled
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-b0d27def-0a88-44c3-a947-1fd5b8503e2c@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261120T184701Z
+LAST-MODIFIED:20261120T184701Z
+DTSTART;TZID=Asia/Bangkok:20261129T113900
+DTEND;TZID=Asia/Bangkok:20261129T123900
+SUMMARY:Falcon 9 · USSF-380
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2ybQqg
- pAAEJmBB\nเริ่ม: ส. 28 พ.ย. 11:53 น. (เวลาไท
- ย)
+ pAAEJmBB\nเริ่ม: อา. 29 พ.ย. 11:39 น. (เวลาไ
+ ทย)
 URL:https://x.com/i/broadcasts/2ybQqgpAAEJmBB
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
