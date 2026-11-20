@@ -495,24 +495,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909325@rustlyr.github.io
-SEQUENCE:2
-DTSTAMP:20261118T234701Z
-LAST-MODIFIED:20261118T234701Z
+SEQUENCE:3
+DTSTAMP:20261120T004509Z
+LAST-MODIFIED:20261120T004509Z
 DTSTART;TZID=Asia/Bangkok:20261126T100000
 DTEND;TZID=Asia/Bangkok:20261126T123000
 SUMMARY:Portland Trail Blazers - San Antonio Spurs
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Portland Trail Blazers\n- Deni Avdija (Day-To-Day)\n- Toumani C
- amara (Day-To-Day)\n- Branden Carlson\n- Sidy Cissoko\n- Donovan Clingan\n
- - Yang Hansen\n- Scoot Henderson\n- Jrue Holiday\n- Jayson Kent\n- Vit Kre
- jci (Out)\n- Damian Lillard\n- Ja Morant (Out)\n- Micah Potter\n- Shaedon 
- Sharpe (Out)\n- John Tonje\n- Robert Williams III (Out)\n- Chris Youngbloo
- d (Out)\n\nSan Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
- ryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gi
- llespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- 
- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintanc
- e (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\nเร
- ิ่ม: พฤ. 26 พ.ย. 10:00 น. (เวลาไทย)
+DESCRIPTION:Portland Trail Blazers\n- Deni Avdija (Out)\n- Toumani Camara\n
+ - Branden Carlson\n- Sidy Cissoko\n- Donovan Clingan\n- Yang Hansen\n- Sco
+ ot Henderson\n- Jrue Holiday\n- Jayson Kent\n- Vit Krejci (Out)\n- Damian 
+ Lillard\n- Ja Morant (Out)\n- Micah Potter\n- Shaedon Sharpe (Out)\n- John
+  Tonje\n- Robert Williams III (Out)\n- Chris Youngblood (Out)\n\nSan Anton
+ io Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Cas
+ tle\n- Julian Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Har
+ per (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n
+ - Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Re
+ ed Jr.\n- Devin Vassell\n- Victor Wembanyama\nเริ่ม: พฤ. 26 
+ พ.ย. 10:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
