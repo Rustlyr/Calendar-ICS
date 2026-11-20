@@ -18,19 +18,34 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sportcal-ipo-ant-2026@rustlyr.github.io
-SEQUENCE:6
-DTSTAMP:20261119T214001Z
-LAST-MODIFIED:20261119T214001Z
+SEQUENCE:7
+DTSTAMP:20261120T134701Z
+LAST-MODIFIED:20261120T134701Z
 DTSTART;TZID=Asia/Bangkok:20261119T213000
 DTEND;TZID=Asia/Bangkok:20261120T040000
 SUMMARY:ANT IPO
 LOCATION:Nasdaq
-DESCRIPTION:ยกเลิก / เลื่อนออกไปยัง
- ไม่มีกำหนด\nเริ่ม: พฤ. 19 พ.ย. 21:30
-  น. (เวลาไทย)
+DESCRIPTION:Anthropic\, PBC\nราคาเสนอขาย: $83.00 ต
+ ่อหุ้น\nวันเข้าตลาดตามปฏิท
+ ิน IPO ของ Nasdaq (หุ้นใหม่มักเริ่
+ มซื้อขายช้ากว่าตลาดเปิด)\n
+ ข่าว: https://news.google.com/search?q=%22Anthropic%2C+PBC%22+IPO&
+ hl=en-US\nhttps://www.nasdaq.com/market-activity/ipos/overview?dealId=1407
+ 642-119728\nเริ่ม: พฤ. 19 พ.ย. 21:30 น. (เวลา
+ ไทย)
 URL:https://www.nasdaq.com/market-activity/ipos/overview?dealId=1407642-119
  728
-STATUS:CANCELLED
-X-BOXCAL-PHASE:cancelled
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ANT IPO
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ANT IPO
+TRIGGER:PT0S
+END:VALARM
 END:VEVENT
 END:VCALENDAR
