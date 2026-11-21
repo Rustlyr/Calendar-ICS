@@ -243,9 +243,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873067@rustlyr.github.io
-SEQUENCE:23
-DTSTAMP:20261120T224701Z
-LAST-MODIFIED:20261120T224701Z
+SEQUENCE:24
+DTSTAMP:20261121T194701Z
+LAST-MODIFIED:20261121T194701Z
 DTSTART;TZID=Asia/Bangkok:20261123T010000
 DTEND;TZID=Asia/Bangkok:20261123T041500
 SUMMARY:Kansas City Chiefs - Arizona Cardinals
@@ -270,29 +270,29 @@ DESCRIPTION:Kansas City Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- Kahlil
  ith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornt
  on (Injured Reserve)\n- Matt Waletzko (Injured Reserve)\n- Jared Wiley (In
  jured Reserve)\n\nArizona Cardinals\n- Joey Aguilar\n- Tyler Allgeier\n- C
- arson Beck (Questionable)\n- Shawn Bowman\n- Jalen Brooks (Injured Reserve
- )\n- Hayden Conner\n- Devin Duvernay\n- Kingsley Eguakun\n- Simi Fehoko\n-
-  Jerome Ford\n- Hjalte Froholdt\n- Josh Fryar\n- Jon Gaines II (Out)\n- El
- ijah Higgins\n- Evan Hull\n- Josh Johnson\n- Zay Jones\n- Bam Knight\n- Hu
- nter Long\n- Trey McBride\n- Teagan Quitoriano\n- Isaac Seumalo\n- Reggie 
- Virgil\n- Harrison Wallace III\n- Elijah Wilkinson\n- Jayden Williams\n- J
- edrick Wills Jr.\n- Budda Baker\n- Andrew Billings\n- Baron Browning\n- De
- nzel Burke\n- Kei'Trel Clark\n- L.J. Collier\n- Zaven Collins\n- Kitan Cra
- wford\n- Jack Gibbens\n- Art Green\n- Jared Harrison-Hunte\n- Kalen King\n
- - Eku Leota\n- Roy Lopez\n- Max Melton\n- Walter Nolen III\n- Cameron Robe
- rtson\n- Darius Robinson\n- Karson Sharar\n- Cody Simon\n- Dante Stills\n-
-  Josh Sweat\n- Dadrion Taylor-Demerson\n- Starling Thomas V\n- Garrett Wil
- liams\n- Wydett Williams Jr.\n- Mack Wilson Sr.\n- Blake Gillikin\n- Casey
-  Kreiter\n- Chad Ryland\n- Isaiah Adams\n- Trey Benson (Injured Reserve)\n
- - Chase Bisontis (Injured Reserve)\n- Joey Blount (Injured Reserve)\n- Ken
- drick Bourne (Injured Reserve)\n- Jordan Burch (Injured Reserve)\n- Zachar
- y Carter (Injured Reserve)\n- James Conner (Injured Reserve)\n- Will Johns
- on (Injured Reserve)\n- Paris Johnson Jr. (Injured Reserve)\n- Jeremiyah L
- ove (Injured Reserve)\n- Josh Minkins (Questionable)\n- Gardner Minshew II
-  (Injured Reserve)\n- Kaleb Proctor (Injured Reserve)\n- Tip Reiman (Out)\
- n- Xavier Weaver (Questionable)\n- Michael Wilson (Injured Reserve)\n- And
- rew Wingard (Injured Reserve)\nเริ่ม: จ. 23 พ.ย. 01:00 น
- . (เวลาไทย)
+ arson Beck (Out)\n- Shawn Bowman\n- Jalen Brooks (Injured Reserve)\n- Hayd
+ en Conner\n- Devin Duvernay\n- Kingsley Eguakun\n- Simi Fehoko\n- Jerome F
+ ord\n- Hjalte Froholdt\n- Josh Fryar\n- Jon Gaines II (Out)\n- Elijah Higg
+ ins\n- Evan Hull\n- Josh Johnson\n- Zay Jones\n- Bam Knight\n- Hunter Long
+ \n- Trey McBride\n- Teagan Quitoriano\n- Isaac Seumalo\n- Reggie Virgil\n-
+  Harrison Wallace III\n- Elijah Wilkinson\n- Jayden Williams\n- Jedrick Wi
+ lls Jr.\n- Budda Baker\n- Andrew Billings\n- Baron Browning\n- Denzel Burk
+ e\n- Kei'Trel Clark\n- L.J. Collier\n- Zaven Collins\n- Kitan Crawford\n- 
+ Jack Gibbens\n- Art Green\n- Jared Harrison-Hunte\n- Kalen King\n- Eku Leo
+ ta\n- Roy Lopez\n- Max Melton\n- Walter Nolen III\n- Cameron Robertson\n- 
+ Darius Robinson\n- Karson Sharar\n- Cody Simon\n- Dante Stills\n- Josh Swe
+ at\n- Dadrion Taylor-Demerson\n- Starling Thomas V\n- Garrett Williams\n- 
+ Wydett Williams Jr.\n- Mack Wilson Sr.\n- Blake Gillikin\n- Casey Kreiter\
+ n- Chad Ryland\n- Isaiah Adams\n- Trey Benson (Injured Reserve)\n- Chase B
+ isontis (Injured Reserve)\n- Joey Blount (Injured Reserve)\n- Kendrick Bou
+ rne (Injured Reserve)\n- Jordan Burch (Injured Reserve)\n- Zachary Carter 
+ (Injured Reserve)\n- James Conner (Injured Reserve)\n- Will Johnson (Injur
+ ed Reserve)\n- Paris Johnson Jr. (Injured Reserve)\n- Jeremiyah Love (Inju
+ red Reserve)\n- Josh Minkins (Questionable)\n- Gardner Minshew II (Injured
+  Reserve)\n- Kaleb Proctor (Injured Reserve)\n- Tip Reiman (Out)\n- Xavier
+  Weaver (Questionable)\n- Michael Wilson (Injured Reserve)\n- Andrew Winga
+ rd (Injured Reserve)\nเริ่ม: จ. 23 พ.ย. 01:00 น. (เว
+ ลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
