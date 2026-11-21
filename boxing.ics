@@ -46,15 +46,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-8092@boxingscene.com
-SEQUENCE:2
-DTSTAMP:20261115T055758Z
-LAST-MODIFIED:20261115T055758Z
+SEQUENCE:3
+DTSTAMP:20261121T055002Z
+LAST-MODIFIED:20261121T055002Z
 DTSTART;TZID=Asia/Bangkok:20261121T080000
 DTEND;TZID=Asia/Bangkok:20261121T120000
 SUMMARY:Gabriela Fundora vs Jasmina Zapotoczna
 LOCATION:Fantasy Springs Resort Casino\, Indio\, California
 DESCRIPTION:GOLDEN BOY\nLIVE : DAZN\n\n• Gabriela Fundora Vs. Jasmina Zap
- otoczna\n• Amari Jones Vs. DeAundre Pettus
+ otoczna\nSTATUS: W1 Unanimous Decision\n• Amari Jones Vs. DeAundre Pettu
+ s
 URL:https://www.boxingscene.com/events/gabriela-fundora-jasmina-zapotoczna
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
