@@ -486,24 +486,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909325@rustlyr.github.io
-SEQUENCE:5
-DTSTAMP:20261120T224701Z
-LAST-MODIFIED:20261120T224701Z
+SEQUENCE:6
+DTSTAMP:20261121T224701Z
+LAST-MODIFIED:20261121T224701Z
 DTSTART;TZID=Asia/Bangkok:20261126T100000
 DTEND;TZID=Asia/Bangkok:20261126T123000
 SUMMARY:Portland Trail Blazers - San Antonio Spurs
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Portland Trail Blazers\n- Deni Avdija (Day-To-Day)\n- Toumani C
- amara\n- Branden Carlson\n- Sidy Cissoko\n- Donovan Clingan\n- Yang Hansen
- \n- Scoot Henderson\n- Jrue Holiday\n- Jayson Kent\n- Vit Krejci (Out)\n- 
- Damian Lillard\n- Ja Morant (Out)\n- Micah Potter\n- Shaedon Sharpe (Out)\
- n- John Tonje\n- Robert Williams III\n- Chris Youngblood (Out)\n\nSan Anto
- nio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Ca
- stle\n- Julian Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Ha
- rper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\
- n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris R
- eed Jr.\n- Devin Vassell\n- Victor Wembanyama\nเริ่ม: พฤ. 26
-  พ.ย. 10:00 น. (เวลาไทย)
+DESCRIPTION:Portland Trail Blazers\n- Deni Avdija\n- Toumani Camara\n- Bran
+ den Carlson\n- Sidy Cissoko\n- Donovan Clingan\n- Yang Hansen\n- Scoot Hen
+ derson\n- Jrue Holiday\n- Jayson Kent\n- Vit Krejci (Out)\n- Damian Lillar
+ d\n- Ja Morant (Out)\n- Micah Potter\n- Shaedon Sharpe (Out)\n- John Tonje
+ \n- Robert Williams III\n- Chris Youngblood (Out)\n\nSan Antonio Spurs\n- 
+ Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julia
+ n Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n-
+  Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Korne
+ t\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- De
+ vin Vassell\n- Victor Wembanyama\nเริ่ม: พฤ. 26 พ.ย. 10:
+ 00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
