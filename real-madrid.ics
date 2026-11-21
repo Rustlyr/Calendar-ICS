@@ -587,16 +587,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-86-401882798@rustlyr.github.io
-SEQUENCE:11
-DTSTAMP:20261121T205509Z
-LAST-MODIFIED:20261121T205509Z
+SEQUENCE:12
+DTSTAMP:20261121T210001Z
+LAST-MODIFIED:20261121T210001Z
 DTSTART;TZID=Asia/Bangkok:20261122T030000
 DTEND;TZID=Asia/Bangkok:20261122T050000
 SUMMARY:Real Madrid - Celta Vigo
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
-DESCRIPTION:LIVE : 45'+2'\n0-1\n\n1st Half 0-1\n\nGoals:\n6' Pablo Durán 
- · Celta Vigo\nเริ่ม: อา. 22 พ.ย. 03:00 น. (เวล
- าไทย)
+DESCRIPTION:LIVE : HT\n0-1\n\n1st Half 0-1\n\nGoals:\n6' Pablo Durán · Ce
+ lta Vigo\nเริ่ม: อา. 22 พ.ย. 03:00 น. (เวลาไ
+ ทย)
 URL:https://www.espn.com/soccer/match/_/gameId/401882798
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
