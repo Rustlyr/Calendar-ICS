@@ -1396,20 +1396,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-f1-2026-21-qf@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261121T053009Z
-LAST-MODIFIED:20261121T053009Z
+SEQUENCE:2
+DTSTAMP:20261121T114701Z
+LAST-MODIFIED:20261121T114701Z
 DTSTART;TZID=Asia/Bangkok:20261121T110000
 DTEND;TZID=Asia/Bangkok:20261121T120000
 SUMMARY:F1 QF (USA\, Las Vegas)
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
-DESCRIPTION:P1 : Kimi Antonelli\nP2 : Max Verstappen\nP3 : George Russell\n
- P4 : Lando Norris\nP5 : Isack Hadjar\nP6 : Arvid Lindblad\nP7 : Oscar Pias
- tri\nP8 : Liam Lawson\nP9 : Pierre Gasly\nP10 : Franco Colapinto\nP11 : Ch
- arles Leclerc\nP12 : Lewis Hamilton\nP13 : Nico Hülkenberg\nP14 : Carlos 
- Sainz\nP15 : Gabriel Bortoleto\nP16 : Alexander Albon\nP17 : Rafael Câmar
- a\nP18 : Sergio Pérez\nP19 : Fernando Alonso\nP20 : Lance Stroll\nP21 : V
- altteri Bottas\nP22 : Oliver Bearman
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Max Verstappen\nP3 : George Ru
+ ssell\nP4 : Lando Norris\nP5 : Isack Hadjar\nP6 : Arvid Lindblad\nP7 : Osc
+ ar Piastri\nP8 : Liam Lawson\nP9 : Pierre Gasly\nP10 : Franco Colapinto\nP
+ 11 : Charles Leclerc\nP12 : Lewis Hamilton\nP13 : Nico Hülkenberg\nP14 : 
+ Carlos Sainz\nP15 : Gabriel Bortoleto\nP16 : Alexander Albon\nP17 : Rafael
+  Camara\nP18 : Sergio Pérez\nP19 : Fernando Alonso\nP20 : Lance Stroll\nP
+ 21 : Valtteri Bottas\nP22 : Oliver Bearman
 URL:https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
