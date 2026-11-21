@@ -587,20 +587,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-86-401882798@rustlyr.github.io
-SEQUENCE:23
-DTSTAMP:20261121T220001Z
-LAST-MODIFIED:20261121T220001Z
+SEQUENCE:24
+DTSTAMP:20261121T220501Z
+LAST-MODIFIED:20261121T220501Z
 DTSTART;TZID=Asia/Bangkok:20261122T030000
-DTEND;TZID=Asia/Bangkok:20261122T050000
+DTEND;TZID=Asia/Bangkok:20261122T050207
 SUMMARY:Real Madrid - Celta Vigo
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
-DESCRIPTION:LIVE : 90'+3'\n2-1\n\n1st Half 0-1\n2nd Half 2-0\n\nGoals:\n6' 
- Pablo Durán · Celta Vigo\n66' Jude Bellingham · Real Madrid\n85' Carlos
-  Espí · Real Madrid\nเริ่ม: อา. 22 พ.ย. 03:00 น. (
- เวลาไทย)
-URL:https://www.espn.com/soccer/match/_/gameId/401882798
+DESCRIPTION:FINAL : Real Madrid WIN\n2-1\n\n1st Half 0-1\n2nd Half 2-0\n\nG
+ oals:\n6' Pablo Durán · Celta Vigo\n66' Jude Bellingham · Real Madrid\n
+ 85' Carlos Espí · Real Madrid
+URL:https://www.espn.com/soccer/match/_/gameId/401882798/celta-vigo-real-ma
+ drid
 STATUS:CONFIRMED
-X-BOXCAL-PHASE:scheduled
+X-BOXCAL-PHASE:final
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Real Madrid - Celta Vigo
