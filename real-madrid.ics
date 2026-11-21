@@ -587,17 +587,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-86-401882798@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261121T201001Z
+LAST-MODIFIED:20261121T201001Z
 DTSTART;TZID=Asia/Bangkok:20261122T030000
 DTEND;TZID=Asia/Bangkok:20261122T050000
 SUMMARY:Real Madrid - Celta Vigo
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
-DESCRIPTION:Spanish LALIGA\nเริ่ม: อา. 22 พ.ย. 03:00 น.
-  (เวลาไทย)
-URL:https://www.espn.com/soccer/match/_/gameId/401882798/celta-vigo-real-ma
- drid
+DESCRIPTION:LIVE : 2'\n0-0\n\n1st Half 0-0\nเริ่ม: อา. 22 พ
+ .ย. 03:00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401882798
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
