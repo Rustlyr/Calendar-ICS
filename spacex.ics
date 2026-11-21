@@ -85,40 +85,6 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539-was-202611210232@r
- ustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261120T174701Z
-LAST-MODIFIED:20261120T174701Z
-DTSTART;TZID=Asia/Bangkok:20261121T093200
-DTEND;TZID=Asia/Bangkok:20261121T103200
-SUMMARY:Falcon 9 · USSF-317
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:เลื่อนไป ส. 21 พ.ย. 11:20 น. (เวล
- าไทย)\nเริ่ม: ส. 21 พ.ย. 09:32 น. (เวลา
- ไทย)
-URL:https://www.youtube.com/watch?v=Zi7vbfr5FPI
-STATUS:CANCELLED
-X-BOXCAL-PHASE:cancelled
-END:VEVENT
-BEGIN:VEVENT
-UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac-was-202611211230@r
- ustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261120T164701Z
-LAST-MODIFIED:20261120T164701Z
-DTSTART;TZID=Asia/Bangkok:20261121T193000
-DTEND;TZID=Asia/Bangkok:20261121T203000
-SUMMARY:Falcon 9 · NROL-136
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:เลื่อนไป อา. 22 พ.ย. 19:16 น. (เว
- ลาไทย)\nเริ่ม: ส. 21 พ.ย. 19:30 น. (เวล
- าไทย)
-URL:https://x.com/i/broadcasts/2yboJapzrmYNbe
-STATUS:CANCELLED
-X-BOXCAL-PHASE:cancelled
-END:VEVENT
-BEGIN:VEVENT
 UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
 SEQUENCE:2
 DTSTAMP:20261120T164701Z
