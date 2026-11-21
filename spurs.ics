@@ -452,24 +452,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910045@rustlyr.github.io
-SEQUENCE:9
-DTSTAMP:20261120T214701Z
-LAST-MODIFIED:20261120T214701Z
+SEQUENCE:10
+DTSTAMP:20261121T024701Z
+LAST-MODIFIED:20261121T024701Z
 DTSTART;TZID=Asia/Bangkok:20261124T100000
 DTEND;TZID=Asia/Bangkok:20261124T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
 LOCATION:Golden 1 Center\, Sacramento\, CA
 DESCRIPTION:Sacramento Kings\n- Precious Achiuwa (Out)\n- Darius Acuff Jr.\
- n- Leaky Black\n- Dylan Cardwell\n- De'Andre Hunter (Day-To-Day)\n- Alex K
- araban\n- Zach LaVine\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- 
- Sean Pedulla\n- Daeqwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n
- - Domantas Sabonis\n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Antonio Sp
- urs\n- Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n
- - Julian Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Harper (
- Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luk
- e Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr
- .\n- Devin Vassell\n- Victor Wembanyama\nเริ่ม: อ. 24 พ.ย.
-  10:00 น. (เวลาไทย)
+ n- Leaky Black\n- Dylan Cardwell\n- De'Andre Hunter\n- Alex Karaban\n- Zac
+ h LaVine\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- Sean Pedulla\
+ n- Daeqwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n- Domantas Sa
+ bonis\n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Antonio Spurs\n- Harris
+ on Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julian Cham
+ pagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobia
+ s Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Kornet\n- J
+ ordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Va
+ ssell\n- Victor Wembanyama\nเริ่ม: อ. 24 พ.ย. 10:00 น. (
+ เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
