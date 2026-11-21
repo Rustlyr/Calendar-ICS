@@ -51,9 +51,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-ufc-600061665@rustlyr.github.io
-SEQUENCE:38
-DTSTAMP:20261121T185501Z
-LAST-MODIFIED:20261121T185501Z
+SEQUENCE:39
+DTSTAMP:20261121T190502Z
+LAST-MODIFIED:20261121T190502Z
 DTSTART;TZID=Asia/Bangkok:20261121T220000
 DTEND;TZID=Asia/Bangkok:20261122T050000
 SUMMARY:UFC Fight Night: Procházka vs. Stirling
@@ -64,7 +64,7 @@ DESCRIPTION:Prelims\n\n• Yousaf VS Mitchell\nSTATUS: W2 R1 KO/TKO\n\n•
   Decision\n\n• Albazi VS Costa\nSTATUS: W1 R3 Submission\n\n• Gaziev V
  S Teixeira\nSTATUS: W2 Unanimous Decision\n\n• Topuria VS Luna\nSTATUS: 
  W2 Split Decision\n\nMain Card\n\n• Cannonier VS Aliskerov\nSTATUS: W2 U
- nanimous Decision\n\n• Horiguchi VS Almabayev\nSTATUS: LIVE R2\n\n• Ho
+ nanimous Decision\n\n• Horiguchi VS Almabayev\nSTATUS: LIVE R3\n\n• Ho
  oker VS Ortega\n\n• Sterling VS Vallejos\n\n• Procházka VS Stirling\n
  เริ่ม: ส. 21 พ.ย. 22:00 น. (เวลาไทย)
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
