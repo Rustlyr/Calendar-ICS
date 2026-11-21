@@ -51,9 +51,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-ufc-600061665@rustlyr.github.io
-SEQUENCE:48
-DTSTAMP:20261121T202002Z
-LAST-MODIFIED:20261121T202002Z
+SEQUENCE:49
+DTSTAMP:20261121T204002Z
+LAST-MODIFIED:20261121T204002Z
 DTSTART;TZID=Asia/Bangkok:20261121T220000
 DTEND;TZID=Asia/Bangkok:20261122T050000
 SUMMARY:UFC Fight Night: Procházka vs. Stirling
@@ -67,7 +67,7 @@ DESCRIPTION:Prelims\n\n• Yousaf VS Mitchell\nSTATUS: W2 R1 KO/TKO\n\n•
  nanimous Decision\n\n• Horiguchi VS Almabayev\nSTATUS: W1 Unanimous Deci
  sion\n\n• Hooker VS Ortega\nSTATUS: W1 Unanimous Decision\n\n• Sterlin
  g VS Vallejos\nSTATUS: W2 Unanimous Decision\n\n• Procházka VS Stirling
- \nSTATUS: LIVE R0\nเริ่ม: ส. 21 พ.ย. 22:00 น. (เวล
+ \nSTATUS: LIVE R1\nเริ่ม: ส. 21 พ.ย. 22:00 น. (เวล
  าไทย)
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 STATUS:CONFIRMED
