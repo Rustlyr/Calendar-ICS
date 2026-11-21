@@ -51,9 +51,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-ufc-600061665@rustlyr.github.io
-SEQUENCE:20
-DTSTAMP:20261121T164701Z
-LAST-MODIFIED:20261121T164701Z
+SEQUENCE:21
+DTSTAMP:20261121T165512Z
+LAST-MODIFIED:20261121T165512Z
 DTSTART;TZID=Asia/Bangkok:20261121T220000
 DTEND;TZID=Asia/Bangkok:20261122T050000
 SUMMARY:UFC Fight Night: Procházka vs. Stirling
@@ -61,7 +61,7 @@ LOCATION:ABHA Arena\, Doha\, Qatar
 DESCRIPTION:Prelims\n\n• Yousaf VS Mitchell\nSTATUS: W2 R1 KO/TKO\n\n• 
  Nurgozhay VS Lorenz\nSTATUS: W1 R2 KO/TKO\n\n• Motta VS Mar Fan\nSTATUS:
   W2 Unanimous Decision\n\n• Matthews VS Abdullayev\nSTATUS: W2 Unanimous
-  Decision\n\n• Albazi VS Costa\nSTATUS: LIVE R1\n\n• Gaziev VS Teixeir
+  Decision\n\n• Albazi VS Costa\nSTATUS: LIVE R2\n\n• Gaziev VS Teixeir
  a\n\n• Topuria VS Luna\n\nMain Card\n\n• Cannonier VS Aliskerov\n\n•
   Horiguchi VS Almabayev\n\n• Hooker VS Ortega\n\n• Sterling VS Vallejo
  s\n\n• Procházka VS Stirling\nเริ่ม: ส. 21 พ.ย. 22:00 
