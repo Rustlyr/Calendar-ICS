@@ -84,9 +84,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-ufc-600062700@rustlyr.github.io
-SEQUENCE:2
-DTSTAMP:20261121T191509Z
-LAST-MODIFIED:20261121T191509Z
+SEQUENCE:3
+DTSTAMP:20261121T195509Z
+LAST-MODIFIED:20261121T195509Z
 DTSTART;TZID=Asia/Bangkok:20261205T220000
 DTEND;TZID=Asia/Bangkok:20261206T050000
 SUMMARY:UFC Fight Night: Adesanya vs Magomedov
@@ -94,8 +94,8 @@ LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 DESCRIPTION:Prelims\n\n• Chokheli VS Dulatov\n\n• Hussein VS Sosa\n\n
  • Rodrigues VS Letho Duclos\n\n• Andrusca VS Osmanli\n\n• Tulio VS P
  ark\n\n• Satybaldiev VS Gnizditskiy\n\n• Silva VS Filho\n\nMain Card\n
- \n• Riley VS Santos\n\n• Tuchalov VS Cutelaba\n\n• Santos VS Abdulla
- ev\n\n• Spivac VS Pinto\n\n• Machado Garry VS Amosov\n\n• Adesanya V
+ \n• Tuchalov VS Cutelaba\n\n• Santos VS Abdullaev\n\n• Riley VS Sant
+ os\n\n• Spivac VS Pinto\n\n• Machado Garry VS Amosov\n\n• Adesanya V
  S Magomedov\nเริ่ม: ส. 5 ธ.ค. 22:00 น. (เวลาไ
  ทย)
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
