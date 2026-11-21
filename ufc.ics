@@ -51,14 +51,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-ufc-600061665@rustlyr.github.io
-SEQUENCE:6
-DTSTAMP:20261121T150001Z
-LAST-MODIFIED:20261121T150001Z
+SEQUENCE:7
+DTSTAMP:20261121T151501Z
+LAST-MODIFIED:20261121T151501Z
 DTSTART;TZID=Asia/Bangkok:20261121T220000
 DTEND;TZID=Asia/Bangkok:20261122T050000
 SUMMARY:UFC Fight Night: Procházka vs. Stirling
 LOCATION:ABHA Arena\, Doha\, Qatar
-DESCRIPTION:Prelims\n\n• Yousaf VS Mitchell\nSTATUS: LIVE R0\n\n• Nurgo
+DESCRIPTION:Prelims\n\n• Yousaf VS Mitchell\nSTATUS: LIVE R1\n\n• Nurgo
  zhay VS Lorenz\n\n• Motta VS Mar Fan\n\n• Matthews VS Abdullayev\n\n
  • Albazi VS Costa\n\n• Gaziev VS Teixeira\n\n• Topuria VS Luna\n\nMa
  in Card\n\n• Cannonier VS Aliskerov\n\n• Horiguchi VS Almabayev\n\n•
