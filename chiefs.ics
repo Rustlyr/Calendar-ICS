@@ -243,56 +243,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873067@rustlyr.github.io
-SEQUENCE:26
-DTSTAMP:20261122T164701Z
-LAST-MODIFIED:20261122T164701Z
+SEQUENCE:27
+DTSTAMP:20261122T180501Z
+LAST-MODIFIED:20261122T180501Z
 DTSTART;TZID=Asia/Bangkok:20261123T010000
 DTEND;TZID=Asia/Bangkok:20261123T041500
 SUMMARY:Kansas City Chiefs - Arizona Cardinals
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
-DESCRIPTION:Kansas City Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- Kahlil
-  Benson\n- Jake Briningstool\n- Mike Caliendo\n- Nate Carter\n- Jacob De J
- esus\n- Josh Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray\n- Creed
-  Humphrey\n- Emmett Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jaylon M
- oore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier (Out)\n- Pete Nygra\n- J
- aydn Ott\n- Diego Pounds\n- Rashee Rice\n- Jalen Royals\n- Trey Smith (Out
- )\n- Kingsley Suamataia\n- Ben VanSumeren\n- Kenneth Walker III (Out)\n- J
- ustin Watson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- 
- Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor
-  Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gil
- man\n- Marcus Harris\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- 
- Cooper McDonald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Rola
- nd-Wallace\n- Melvin Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris Tonga\n-
-  Drue Tranquill\n- Nohl Williams\n- Peter Woods (Out)\n- Matt Araiza\n- Ha
- rrison Butker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Et
- han Downs (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n
- - Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Bra
- shard Smith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyqua
- n Thornton (Injured Reserve)\n- Matt Waletzko (Injured Reserve)\n- Jared W
- iley (Injured Reserve)\n\nArizona Cardinals\n- Joey Aguilar\n- Tyler Allge
- ier\n- Carson Beck (Out)\n- Shawn Bowman\n- Jalen Brooks (Injured Reserve)
- \n- Hayden Conner\n- Devin Duvernay\n- Kingsley Eguakun (Out)\n- Simi Feho
- ko\n- Jerome Ford\n- Hjalte Froholdt\n- Josh Fryar\n- Jon Gaines II (Out)\
- n- Elijah Higgins\n- Evan Hull\n- Josh Johnson\n- Zay Jones\n- Bam Knight\
- n- Hunter Long\n- Trey McBride\n- Teagan Quitoriano\n- Isaac Seumalo\n- Re
- ggie Virgil\n- Harrison Wallace III\n- Elijah Wilkinson\n- Jayden Williams
- \n- Jedrick Wills Jr.\n- Budda Baker\n- Andrew Billings (Out)\n- Baron Bro
- wning\n- Denzel Burke\n- Kei'Trel Clark\n- L.J. Collier\n- Zaven Collins\n
- - Kitan Crawford\n- Jack Gibbens\n- Art Green\n- Jared Harrison-Hunte\n- K
- alen King\n- Eku Leota\n- Roy Lopez\n- Max Melton\n- Walter Nolen III\n- C
- ameron Robertson\n- Darius Robinson\n- Karson Sharar\n- Cody Simon\n- Dant
- e Stills\n- Josh Sweat\n- Dadrion Taylor-Demerson\n- Starling Thomas V (Ou
- t)\n- Garrett Williams\n- Wydett Williams Jr.\n- Mack Wilson Sr.\n- Blake 
- Gillikin\n- Casey Kreiter\n- Chad Ryland\n- Isaiah Adams\n- Trey Benson (I
- njured Reserve)\n- Chase Bisontis (Injured Reserve)\n- Joey Blount (Injure
- d Reserve)\n- Kendrick Bourne (Injured Reserve)\n- Jordan Burch (Injured R
- eserve)\n- Zachary Carter (Injured Reserve)\n- James Conner (Injured Reser
- ve)\n- Will Johnson (Injured Reserve)\n- Paris Johnson Jr. (Injured Reserv
- e)\n- Jeremiyah Love (Injured Reserve)\n- Josh Minkins (Questionable)\n- G
- ardner Minshew II (Injured Reserve)\n- Kaleb Proctor (Injured Reserve)\n- 
- Tip Reiman (Out)\n- Xavier Weaver (Questionable)\n- Michael Wilson (Injure
- d Reserve)\n- Andrew Wingard (Injured Reserve)\nเริ่ม: จ. 23 
- พ.ย. 01:00 น. (เวลาไทย)
+DESCRIPTION:LIVE : 13:57 - 1st\n0-0\n\nQ1 0-0\nเริ่ม: จ. 23 พ
+ .ย. 01:00 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
