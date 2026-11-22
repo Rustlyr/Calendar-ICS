@@ -60,16 +60,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539@rustlyr.github.io
-SEQUENCE:14
-DTSTAMP:20261121T064701Z
-LAST-MODIFIED:20261121T064701Z
+SEQUENCE:15
+DTSTAMP:20261122T044701Z
+LAST-MODIFIED:20261122T044701Z
 DTSTART;TZID=Asia/Bangkok:20261121T112035
 DTEND;TZID=Asia/Bangkok:20261121T122035
 SUMMARY:Falcon 9 · USSF-317
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:ผล: ปล่อยสำเร็จ\nถ่ายทอ
- ดสด:\nhttps://www.youtube.com/watch?v=NejEgXnJzBM\nhttps://www.youtu
- be.com/watch?v=fk84K7QVWgw\nhttps://x.com/i/broadcasts/2lgkMvaRVPMdYR
+DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
+ ยสำเร็จ\nถ่ายทอดสด:\nhttps://www.youtube.c
+ om/watch?v=NejEgXnJzBM\nhttps://www.youtube.com/watch?v=fk84K7QVWgw\nhttps
+ ://x.com/i/broadcasts/2lgkMvaRVPMdYR
 URL:https://www.youtube.com/watch?v=NejEgXnJzBM
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
