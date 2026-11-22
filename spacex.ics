@@ -86,16 +86,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
-SEQUENCE:3
-DTSTAMP:20261121T214701Z
-LAST-MODIFIED:20261121T214701Z
+SEQUENCE:4
+DTSTAMP:20261122T034701Z
+LAST-MODIFIED:20261122T034701Z
 DTSTART;TZID=Asia/Bangkok:20261122T192356
 DTEND;TZID=Asia/Bangkok:20261122T202356
 SUMMARY:Falcon 9 · NROL-136
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=C
- jN4lPx7mD8\nhttps://x.com/i/broadcasts/2yboJapzrmYNbe\nเริ่ม: 
- อา. 22 พ.ย. 19:23 น. (เวลาไทย)
+ jN4lPx7mD8\nhttps://www.youtube.com/watch?v=um48_-sSFrE\nhttps://x.com/i/b
+ roadcasts/2yboJapzrmYNbe\nเริ่ม: อา. 22 พ.ย. 19:23 น. 
+ (เวลาไทย)
 URL:https://www.youtube.com/watch?v=CjN4lPx7mD8
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
