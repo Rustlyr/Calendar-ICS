@@ -596,17 +596,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-360-401878755@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261122T163502Z
+LAST-MODIFIED:20261122T163502Z
 DTSTART;TZID=Asia/Bangkok:20261122T233000
 DTEND;TZID=Asia/Bangkok:20261123T013000
 SUMMARY:Liverpool - Manchester United
 LOCATION:Anfield\, Liverpool\, England
-DESCRIPTION:English Premier League\nเริ่ม: อา. 22 พ.ย. 23
- :30 น. (เวลาไทย)
-URL:https://www.espn.com/soccer/match/_/gameId/401878755/manchester-united-
- liverpool
+DESCRIPTION:LIVE : 5'\n0-0\n\n1st Half 0-0\nเริ่ม: อา. 22 พ
+ .ย. 23:30 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878755
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
