@@ -243,16 +243,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873067@rustlyr.github.io
-SEQUENCE:27
-DTSTAMP:20261122T180501Z
-LAST-MODIFIED:20261122T180501Z
+SEQUENCE:28
+DTSTAMP:20261122T181001Z
+LAST-MODIFIED:20261122T181001Z
 DTSTART;TZID=Asia/Bangkok:20261123T010000
 DTEND;TZID=Asia/Bangkok:20261123T041500
 SUMMARY:Kansas City Chiefs - Arizona Cardinals
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
-DESCRIPTION:LIVE : 13:57 - 1st\n0-0\n\nQ1 0-0\nเริ่ม: จ. 23 พ
+DESCRIPTION:LIVE : 11:10 - 1st\n0-0\n\nQ1 0-0\nเริ่ม: จ. 23 พ
  .ย. 01:00 น. (เวลาไทย)
-URL:https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs
+URL:https://www.espn.com/nfl/game?gameId=401873067
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
