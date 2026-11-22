@@ -1426,18 +1426,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-f1-2026-21-race@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261122T104701Z
+LAST-MODIFIED:20261122T104701Z
 DTSTART;TZID=Asia/Bangkok:20261122T110000
-DTEND;TZID=Asia/Bangkok:20261122T130000
+DTEND;TZID=Asia/Bangkok:20261122T122739
 SUMMARY:F1 Race (USA\, Las Vegas)
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
-DESCRIPTION:Las Vegas Grand Prix\nเริ่ม: อา. 22 พ.ย. 11:0
- 0 น. (เวลาไทย)
+DESCRIPTION:P1 : Max Verstappen\nP2 : Lando Norris\nP3 : Oscar Piastri\nP4 
+ : Andrea Kimi Antonelli\nP5 : Pierre Gasly\nP6 : Franco Colapinto\nP7 : Le
+ wis Hamilton\nP8 : Carlos Sainz\nP9 : George Russell\nP10 : Charles Lecler
+ c\nP11 : Nico Hülkenberg\nP12 : Gabriel Bortoleto\nP13 : Oliver Bearman\n
+ P14 : Liam Lawson\nP15 : Isack Hadjar\nP16 : Rafael Camara\nP17 : Lance St
+ roll\nP18 : Valtteri Bottas\nP19 : Fernando Alonso\nDNF : Arvid Lindblad\,
+  Sergio Pérez\nDNS : Alexander Albon
 URL:https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
 STATUS:CONFIRMED
-X-BOXCAL-PHASE:scheduled
+X-BOXCAL-PHASE:final
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:F1 Race (USA\, Las Vegas)
