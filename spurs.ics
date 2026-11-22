@@ -545,9 +545,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910052@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261122T174702Z
-LAST-MODIFIED:20261122T174702Z
+SEQUENCE:2
+DTSTAMP:20261122T214701Z
+LAST-MODIFIED:20261122T214701Z
 DTSTART;TZID=Asia/Bangkok:20261130T040000
 DTEND;TZID=Asia/Bangkok:20261130T063000
 SUMMARY:San Antonio Spurs - Boston Celtics
@@ -558,11 +558,11 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintanc
  e (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\n\nBoston
   Celtics\n- Devin Carter\n- Chris Cenac Jr.\n- Mike Conley\n- Luka Garza\n
- - Paul George\n- Hugo Gonzalez\n- Ron Harper Jr.\n- Sam Hauser\n- Dillon M
- itchell\n- Payton Pritchard\n- Neemias Queta\n- Mitchell Robinson (Day-To-
- Day)\n- Baylor Scheierman\n- Jayson Tatum (Day-To-Day)\n- Jordan Walsh\n- 
- Derrick White (Day-To-Day)\n- Amari Williams\nเริ่ม: จ. 30 พ
- .ย. 04:00 น. (เวลาไทย)
+ - Paul George (Out)\n- Hugo Gonzalez\n- Ron Harper Jr.\n- Sam Hauser\n- Di
+ llon Mitchell\n- Payton Pritchard\n- Neemias Queta\n- Mitchell Robinson (O
+ ut)\n- Baylor Scheierman\n- Jayson Tatum\n- Jordan Walsh\n- Derrick White\
+ n- Amari Williams\nเริ่ม: จ. 30 พ.ย. 04:00 น. (เวล
+ าไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
