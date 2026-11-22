@@ -596,16 +596,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-360-401878755@rustlyr.github.io
-SEQUENCE:16
-DTSTAMP:20261122T175501Z
-LAST-MODIFIED:20261122T175501Z
+SEQUENCE:17
+DTSTAMP:20261122T180001Z
+LAST-MODIFIED:20261122T180001Z
 DTSTART;TZID=Asia/Bangkok:20261122T233000
 DTEND;TZID=Asia/Bangkok:20261123T013000
 SUMMARY:Liverpool - Manchester United
 LOCATION:Anfield\, Liverpool\, England
-DESCRIPTION:LIVE : 66'\n2-0\n\n1st Half 2-0\n2nd Half 0-0\n\nGoals:\n10' Do
- minik Szoboszlai · Liverpool\n13' Florian Wirtz · Liverpool\nเริ
- ่ม: อา. 22 พ.ย. 23:30 น. (เวลาไทย)
+DESCRIPTION:LIVE : 70'\n3-0\n\n1st Half 2-0\n2nd Half 1-0\n\nGoals:\n10' Do
+ minik Szoboszlai · Liverpool\n13' Florian Wirtz · Liverpool\n66' Rio Ngu
+ moha · Liverpool\nเริ่ม: อา. 22 พ.ย. 23:30 น. (เว
+ ลาไทย)
 URL:https://www.espn.com/soccer/match/_/gameId/401878755
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
