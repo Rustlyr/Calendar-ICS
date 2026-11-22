@@ -162,15 +162,15 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-7893@boxingscene.com
-SEQUENCE:4
-DTSTAMP:20261115T055758Z
-LAST-MODIFIED:20261115T055758Z
+SEQUENCE:5
+DTSTAMP:20261122T161704Z
+LAST-MODIFIED:20261122T161704Z
 DTSTART;TZID=Asia/Bangkok:20261212T080000
 DTEND;TZID=Asia/Bangkok:20261212T120000
 SUMMARY:Tyson Fury vs Anthony Joshua
 LOCATION:Principality Stadium\, Cardiff\, United Kingdom
 DESCRIPTION:LIVE : Netflix\n\n• Tyson Fury Vs. Anthony Joshua\n• Deonta
- y Wilder Vs. Jai Opetaia\n• Frazer Clarke Vs. Joseph Parker
+ y Wilder Vs. TBA\n• Frazer Clarke Vs. Joseph Parker
 URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
