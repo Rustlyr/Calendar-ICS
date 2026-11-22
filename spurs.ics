@@ -418,15 +418,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910027@rustlyr.github.io
-SEQUENCE:27
-DTSTAMP:20261122T015001Z
-LAST-MODIFIED:20261122T015001Z
+SEQUENCE:28
+DTSTAMP:20261122T015501Z
+LAST-MODIFIED:20261122T015501Z
 DTSTART;TZID=Asia/Bangkok:20261122T080000
 DTEND;TZID=Asia/Bangkok:20261122T103000
 SUMMARY:San Antonio Spurs - New Orleans Pelicans
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:LIVE : 7:40 - 2nd\n48-34\n\nQ1 32-29\nQ2 16-5\nเริ่ม:
-  อา. 22 พ.ย. 08:00 น. (เวลาไทย)
+DESCRIPTION:LIVE : 5:37 - 2nd\n49-40\n\nQ1 32-29\nQ2 17-11\nเริ่ม
+ : อา. 22 พ.ย. 08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game?gameId=401910027
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -443,24 +443,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910045@rustlyr.github.io
-SEQUENCE:11
-DTSTAMP:20261121T154701Z
-LAST-MODIFIED:20261121T154701Z
+SEQUENCE:12
+DTSTAMP:20261122T015501Z
+LAST-MODIFIED:20261122T015501Z
 DTSTART;TZID=Asia/Bangkok:20261124T100000
 DTEND;TZID=Asia/Bangkok:20261124T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Sacramento Kings\n- Precious Achiuwa (Day-To-Day)\n- Darius Acu
- ff Jr.\n- Leaky Black\n- Dylan Cardwell\n- De'Andre Hunter\n- Alex Karaban
- \n- Zach LaVine\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- Sean P
- edulla\n- Daeqwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n- Doma
- ntas Sabonis\n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Antonio Spurs\n-
-  Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Juli
- an Champagnie\n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n
- - Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Korn
- et\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- D
- evin Vassell\n- Victor Wembanyama\nเริ่ม: อ. 24 พ.ย. 10:00
-  น. (เวลาไทย)
+DESCRIPTION:Sacramento Kings\n- Precious Achiuwa\n- Darius Acuff Jr.\n- Lea
+ ky Black\n- Dylan Cardwell\n- De'Andre Hunter\n- Alex Karaban\n- Zach LaVi
+ ne\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- Sean Pedulla\n- Dae
+ qwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n- Domantas Sabonis\
+ n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Antonio Spurs\n- Harrison Bar
+ nes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julian Champagnie
+ \n- De'Aaron Fox\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harr
+ is (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan 
+ McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\
+ n- Victor Wembanyama\nเริ่ม: อ. 24 พ.ย. 10:00 น. (เว
+ ลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
