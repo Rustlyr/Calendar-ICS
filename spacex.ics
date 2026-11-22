@@ -60,9 +60,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-76617033-4dc0-4448-b50c-e5b0d5a18539@rustlyr.github.io
-SEQUENCE:21
-DTSTAMP:20261122T104701Z
-LAST-MODIFIED:20261122T104701Z
+SEQUENCE:22
+DTSTAMP:20261122T114701Z
+LAST-MODIFIED:20261122T114701Z
 DTSTART;TZID=Asia/Bangkok:20261121T112035
 DTEND;TZID=Asia/Bangkok:20261121T122035
 SUMMARY:Falcon 9 · USSF-317
@@ -71,10 +71,10 @@ DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
  ยสำเร็จ\nผล: ปล่อยสำเร็จ\nผล: 
  ปล่อยสำเร็จ\nผล: ปล่อยสำเร็
  จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อยส
- ำเร็จ\nผล: ปล่อยสำเร็จ\nถ่าย
- ทอดสด:\nhttps://www.youtube.com/watch?v=NejEgXnJzBM\nhttps://www
- .youtube.com/watch?v=fk84K7QVWgw\nhttps://x.com/i/broadcasts/2lgkMvaRVPMdY
- R
+ ำเร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล
+ ่อยสำเร็จ\nถ่ายทอดสด:\nhttps://www.you
+ tube.com/watch?v=NejEgXnJzBM\nhttps://www.youtube.com/watch?v=fk84K7QVWgw\
+ nhttps://x.com/i/broadcasts/2lgkMvaRVPMdYR
 URL:https://www.youtube.com/watch?v=NejEgXnJzBM
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
