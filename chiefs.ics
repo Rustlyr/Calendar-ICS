@@ -243,18 +243,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873067@rustlyr.github.io
-SEQUENCE:58
-DTSTAMP:20261122T204502Z
-LAST-MODIFIED:20261122T204502Z
+SEQUENCE:59
+DTSTAMP:20261122T204701Z
+LAST-MODIFIED:20261122T204701Z
 DTSTART;TZID=Asia/Bangkok:20261123T010000
 DTEND;TZID=Asia/Bangkok:20261123T041500
 SUMMARY:Kansas City Chiefs - Arizona Cardinals
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
-DESCRIPTION:LIVE : 1:11 - 4th\n34-7\n\nQ1 14-0\nQ2 13-7\nQ3 0-0\nQ4 7-0\n
- เริ่ม: จ. 23 พ.ย. 01:00 น. (เวลาไทย)
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n34-7\n\nQ1 14-0\nQ2 13-7\nQ3 0-
+ 0\nQ4 7-0
 URL:https://www.espn.com/nfl/game?gameId=401873067
 STATUS:CONFIRMED
-X-BOXCAL-PHASE:scheduled
+X-BOXCAL-PHASE:final
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kansas City Chiefs - Arizona Cardinals
@@ -268,9 +268,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873082@rustlyr.github.io
-SEQUENCE:10
-DTSTAMP:20261122T193501Z
-LAST-MODIFIED:20261122T193501Z
+SEQUENCE:11
+DTSTAMP:20261122T204701Z
+LAST-MODIFIED:20261122T204701Z
 DTSTART;TZID=Asia/Bangkok:20261127T082000
 DTEND;TZID=Asia/Bangkok:20261127T113500
 SUMMARY:Buffalo Bills - Kansas City Chiefs
@@ -293,24 +293,24 @@ DESCRIPTION:Buffalo Bills\n- Josh Allen\n- Kyle Allen\n- Alec Anderson\n- S
  dams (Injured Reserve)\n- Dorian Strong (Out)\n\nKansas City Chiefs\n- Cyr
  us Allen\n- Andrew Armstrong\n- Kahlil Benson\n- Jake Briningstool\n- Mike
   Caliendo\n- Nate Carter\n- Jacob De Jesus\n- Josh Downs\n- Joshua Ezeudu\
- n- Justin Fields\n- Noah Gray\n- Creed Humphrey\n- Emmett Johnson\n- Travi
- s Kelce\n- Patrick Mahomes\n- Jaylon Moore (Out)\n- Hunter Nourzad\n- Garr
- ett Nussmeier (Out)\n- Pete Nygra\n- Jaydn Ott\n- Diego Pounds\n- Rashee R
- ice\n- Jalen Royals\n- Trey Smith (Out)\n- Kingsley Suamataia\n- Ben VanSu
- meren\n- Kenneth Walker III (Out)\n- Justin Watson\n- Xavier Worthy\n- Fel
- ix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton\n- Jadon Canady\n- Jack 
- Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristian 
- Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\
- n- Chris Jones\n- George Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott
-  (Out)\n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin Smith Jr. (Out)
- \n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Williams\n- 
- Peter Woods (Out)\n- Matt Araiza\n- Harrison Butker\n- James Winchester\n-
-  Jeff Caldwell (Injured Reserve)\n- Ethan Downs (Injured Reserve)\n- John 
- Michael Gyllenborg (Injured Reserve)\n- Jimmy Holiday (Injured Reserve)\n-
-  Josh Simmons (Injured Reserve)\n- Brashard Smith (Injured Reserve)\n- L'J
- arius Sneed (Injured Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Matt
-  Waletzko (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่
- ม: ศ. 27 พ.ย. 08:20 น. (เวลาไทย)
+ n- Justin Fields\n- Noah Gray (Questionable)\n- Creed Humphrey\n- Emmett J
+ ohnson\n- Travis Kelce\n- Patrick Mahomes\n- Jaylon Moore (Out)\n- Hunter 
+ Nourzad\n- Garrett Nussmeier (Out)\n- Pete Nygra\n- Jaydn Ott\n- Diego Pou
+ nds\n- Rashee Rice\n- Jalen Royals\n- Trey Smith (Out)\n- Kingsley Suamata
+ ia\n- Ben VanSumeren\n- Kenneth Walker III (Out)\n- Justin Watson\n- Xavie
+ r Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton\n- Jadon 
+ Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- Bryson Eas
+ on\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus Harris\
+ n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- Cooper McDonald\n- Om
+ arr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin 
+ Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tranquill\n- No
+ hl Williams\n- Peter Woods (Out)\n- Matt Araiza\n- Harrison Butker\n- Jame
+ s Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Downs (Injured Re
+ serve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimmy Holiday (Inju
+ red Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard Smith (Injured 
+ Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornton (Injured R
+ eserve)\n- Matt Waletzko (Injured Reserve)\n- Jared Wiley (Injured Reserve
+ )\nเริ่ม: ศ. 27 พ.ย. 08:20 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
