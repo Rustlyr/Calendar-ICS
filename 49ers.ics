@@ -268,9 +268,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-25-401873091@rustlyr.github.io
-SEQUENCE:6
-DTSTAMP:20261123T194701Z
-LAST-MODIFIED:20261123T194701Z
+SEQUENCE:7
+DTSTAMP:20261123T234702Z
+LAST-MODIFIED:20261123T234702Z
 DTSTART;TZID=Asia/Bangkok:20261130T042500
 DTEND;TZID=Asia/Bangkok:20261130T074000
 SUMMARY:San Francisco 49ers - Seattle Seahawks
@@ -299,22 +299,22 @@ DESCRIPTION:San Francisco 49ers\n- Brandon Aiyuk\n- Keenan Allen\n- Kaelon
  Toth (Questionable)\n- Nick Zakelj (Injured Reserve)\n\nSeattle Seahawks\n
  - AJ Barner\n- Anthony Bradford\n- Zach Charbonnet\n- Irv Charles\n- Charl
  es Cross (Out)\n- Sam Darnold (Out)\n- Montorie Foster Jr.\n- Bobby Hart\n
- - George Holani (Questionable)\n- Tory Horton\n- Josh Jones\n- Nick Kaller
- up\n- Cooper Kupp\n- Drew Lock\n- Abraham Lucas (Questionable)\n- Jalen Mi
- lroe\n- Quenton Nelson (Out)\n- Olu Oluwatimi\n- Jadarian Price\n- Brady R
- ussell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon Smith-Njigba\n- Beau Ste
- phens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Zabel\n- Terrion Arnold (
- Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fowler Jr.\n- Derick Hall\
- n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- Tyrice Knight\n- DeMarcus
-  Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Morris\n- Byron Murphy II\
- n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'Toole\n- Ty Okada\n- Bra
- ndon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Questionable)\n- Avery Smi
- th\n- Chazz Surratt\n- Drake Thomas\n- Rodney Thomas II\n- Leonard William
- s (Out)\n- Devon Witherspoon\n- Michael Dickson\n- Jason Myers\n- Chris St
- oll\n- Elijah Arroyo (Injured Reserve)\n- Jake Bobo (Injured Reserve)\n- B
- ud Clark (Injured Reserve)\n- Julian Neal (Injured Reserve)\n- Robbie Ouzt
- s (Injured Reserve)\n- Mason Richman (Injured Reserve)\nเริ่ม: 
- จ. 30 พ.ย. 04:25 น. (เวลาไทย)
+ - George Holani (Injured Reserve)\n- Tory Horton\n- Josh Jones\n- Nick Kal
+ lerup\n- Cooper Kupp\n- Drew Lock\n- Abraham Lucas (Questionable)\n- Jalen
+  Milroe\n- Quenton Nelson (Out)\n- Olu Oluwatimi\n- Jadarian Price\n- Brad
+ y Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon Smith-Njigba\n- Beau 
+ Stephens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Zabel\n- Terrion Arnol
+ d (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fowler Jr.\n- Derick Ha
+ ll\n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- Tyrice Knight\n- DeMar
+ cus Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Morris\n- Byron Murphy 
+ II\n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'Toole\n- Ty Okada\n- 
+ Brandon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Questionable)\n- Avery 
+ Smith\n- Chazz Surratt\n- Drake Thomas\n- Rodney Thomas II\n- Leonard Will
+ iams (Out)\n- Devon Witherspoon\n- Michael Dickson\n- Jason Myers\n- Chris
+  Stoll\n- Elijah Arroyo (Injured Reserve)\n- Jake Bobo (Injured Reserve)\n
+ - Bud Clark (Injured Reserve)\n- Julian Neal (Injured Reserve)\n- Robbie O
+ uzts (Injured Reserve)\n- Mason Richman (Injured Reserve)\nเริ่ม
+ : จ. 30 พ.ย. 04:25 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873091/seahawks-49ers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
