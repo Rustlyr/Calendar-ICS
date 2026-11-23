@@ -443,9 +443,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910045@rustlyr.github.io
-SEQUENCE:14
-DTSTAMP:20261123T054702Z
-LAST-MODIFIED:20261123T054702Z
+SEQUENCE:15
+DTSTAMP:20261123T214701Z
+LAST-MODIFIED:20261123T214701Z
 DTSTART;TZID=Asia/Bangkok:20261124T100000
 DTEND;TZID=Asia/Bangkok:20261124T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
@@ -454,13 +454,13 @@ DESCRIPTION:Sacramento Kings\n- Precious Achiuwa\n- Darius Acuff Jr.\n- Lea
  ky Black\n- Dylan Cardwell\n- De'Andre Hunter\n- Alex Karaban\n- Zach LaVi
  ne\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- Sean Pedulla\n- Dae
  qwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n- Domantas Sabonis\
- n- Emanuel Sharp\n- Ben Simmons (Out)\n\nSan Antonio Spurs\n- Harrison Bar
- nes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julian Champagnie
- \n- De'Aaron Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n
- - Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Korn
- et\n- Jordan McLaughlin (Day-To-Day)\n- Jayden Quaintance (Out)\n- Tarris 
- Reed Jr.\n- Devin Vassell\n- Victor Wembanyama (Day-To-Day)\nเริ่
- ม: อ. 24 พ.ย. 10:00 น. (เวลาไทย)
+ n- Emanuel Sharp\n- Ben Simmons (Out)\n- Gabe Vincent\n\nSan Antonio Spurs
+ \n- Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- J
+ ulian Champagnie\n- De'Aaron Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dyla
+ n Harper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Gar
+ cia\n- Luke Kornet\n- Jordan McLaughlin (Day-To-Day)\n- Jayden Quaintance 
+ (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama (Day-To-Day
+ )\nเริ่ม: อ. 24 พ.ย. 10:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -546,9 +546,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910052@rustlyr.github.io
-SEQUENCE:5
-DTSTAMP:20261123T154701Z
-LAST-MODIFIED:20261123T154701Z
+SEQUENCE:6
+DTSTAMP:20261123T214701Z
+LAST-MODIFIED:20261123T214701Z
 DTSTART;TZID=Asia/Bangkok:20261130T040000
 DTEND;TZID=Asia/Bangkok:20261130T063000
 SUMMARY:San Antonio Spurs - Boston Celtics
@@ -559,11 +559,11 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  n Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin (Day-T
  o-Day)\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- V
  ictor Wembanyama (Day-To-Day)\n\nBoston Celtics\n- Devin Carter\n- Chris C
- enac Jr.\n- Mike Conley\n- Luka Garza\n- Paul George (Day-To-Day)\n- Hugo 
- Gonzalez\n- Ron Harper Jr.\n- Sam Hauser\n- Dillon Mitchell\n- Payton Prit
- chard\n- Neemias Queta\n- Mitchell Robinson (Out)\n- Baylor Scheierman\n- 
- Jayson Tatum\n- Jordan Walsh\n- Derrick White\n- Amari Williams\nเริ
- ่ม: จ. 30 พ.ย. 04:00 น. (เวลาไทย)
+ enac Jr.\n- Mike Conley\n- Luka Garza\n- Paul George\n- Hugo Gonzalez\n- R
+ on Harper Jr.\n- Sam Hauser\n- Dillon Mitchell\n- Payton Pritchard\n- Neem
+ ias Queta\n- Mitchell Robinson (Out)\n- Baylor Scheierman\n- Jayson Tatum\
+ n- Jordan Walsh\n- Derrick White\n- Amari Williams\nเริ่ม: จ. 
+ 30 พ.ย. 04:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
