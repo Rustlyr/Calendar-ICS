@@ -580,15 +580,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910066@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261123T174701Z
+LAST-MODIFIED:20261123T174701Z
 DTSTART;TZID=Asia/Bangkok:20261201T080000
 DTEND;TZID=Asia/Bangkok:20261201T103000
 SUMMARY:Milwaukee Bucks - San Antonio Spurs
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:เริ่ม: อ. 1 ธ.ค. 08:00 น. (เวลาไท
- ย)
+DESCRIPTION:Milwaukee Bucks\n- Nate Ament\n- Brayden Burries\n- Ousmane Die
+ ng (Out)\n- AJ Green\n- Tyler Herro\n- Kasparas Jakucionis\n- Jaime Jaquez
+  Jr.\n- Kam Jones\n- Kyle Kuzma\n- Caris LeVert\n- Bogoljub Markovic\n- Pe
+ te Nance\n- Ryan Rollins\n- Cormac Ryan\n- Jericho Sims\n- Gary Trent Jr.\
+ n- Myles Turner\n- Kel'el Ware\n\nSan Antonio Spurs\n- Harrison Barnes\n- 
+ Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julian Champagnie\n- De'
+ Aaron Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobia
+ s Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Kornet\n- J
+ ordan McLaughlin (Day-To-Day)\n- Jayden Quaintance (Out)\n- Tarris Reed Jr
+ .\n- Devin Vassell\n- Victor Wembanyama (Day-To-Day)\nเริ่ม: อ
+ . 1 ธ.ค. 08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910066/spurs-bucks
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
