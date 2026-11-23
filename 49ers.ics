@@ -268,9 +268,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-25-401873091@rustlyr.github.io
-SEQUENCE:3
-DTSTAMP:20261123T025002Z
-LAST-MODIFIED:20261123T025002Z
+SEQUENCE:4
+DTSTAMP:20261123T134701Z
+LAST-MODIFIED:20261123T134701Z
 DTSTART;TZID=Asia/Bangkok:20261130T042500
 DTEND;TZID=Asia/Bangkok:20261130T074000
 SUMMARY:San Francisco 49ers - Seattle Seahawks
@@ -285,36 +285,36 @@ DESCRIPTION:San Francisco 49ers\n- Brandon Aiyuk (Out)\n- Keenan Allen\n- K
  n Willis\n- Carver Willis\n- Tatum Bethune\n- Nick Bosa\n- Ji'Ayir Brown\n
  - DeForest Buckner\n- Ashtyn Davis\n- Jaden Dugger\n- Luke Gifford\n- Jale
  n Graham\n- Renardo Green\n- Dre Greenlaw (Out)\n- Romello Height\n- Khali
- d Kareem (Out)\n- Deommodore Lenoir\n- Malik Mustapha\n- Siran Neal\n- Osa
-  Odighizuwa\n- Ogbo Okoronkwo\n- Ephesians Prysock\n- Marques Sigle\n- Upt
- on Stout\n- James Thompson Jr.\n- Sebastian Valdez\n- Garret Wallow\n- Fre
- d Warner\n- C.J. West\n- Keion White\n- Mykel Williams\n- Eddy Pineiro\n- 
- Corliss Waitman\n- Jon Weeks\n- Alfred Collins (Injured Reserve)\n- Andrew
-  Farmer II (Injured Reserve)\n- Darrick Forrest (Injured Reserve)\n- Isaac
-  Guerendo (Out)\n- Gracen Halton (Injured Reserve)\n- Nate Hobbs (Injured 
- Reserve)\n- Mikail Kamara (Injured Reserve)\n- Christian Kirk (Injured Res
- erve)\n- Nick Martin (Injured Reserve)\n- Sam Okuayinonu (Injured Reserve)
- \n- Ricky Pearsall (Injured Reserve)\n- Austen Pleasants (Injured Reserve)
- \n- De'Zhaun Stribling (Injured Reserve)\n- Jake Tonges (Injured Reserve)\
- n- Brett Toth (Questionable)\n- Nick Zakelj (Injured Reserve)\n\nSeattle S
- eahawks\n- AJ Barner\n- Anthony Bradford\n- Zach Charbonnet\n- Irv Charles
- \n- Charles Cross (Out)\n- Sam Darnold (Out)\n- Montorie Foster Jr.\n- Bob
- by Hart\n- George Holani (Questionable)\n- Tory Horton\n- Josh Jones\n- Ni
- ck Kallerup\n- Cooper Kupp\n- Drew Lock\n- Abraham Lucas (Questionable)\n-
-  Jalen Milroe\n- Quenton Nelson (Out)\n- Olu Oluwatimi\n- Jadarian Price\n
- - Brady Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon Smith-Njigba\n-
-  Beau Stephens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Zabel\n- Terrion
-  Arnold (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fowler Jr.\n- Der
- ick Hall\n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- Tyrice Knight\n-
-  DeMarcus Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Morris\n- Byron M
- urphy II\n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'Toole\n- Ty Oka
- da\n- Brandon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Questionable)\n- 
- Avery Smith\n- Chazz Surratt\n- Drake Thomas\n- Rodney Thomas II\n- Leonar
- d Williams (Out)\n- Devon Witherspoon\n- Michael Dickson\n- Jason Myers\n-
-  Chris Stoll\n- Elijah Arroyo (Injured Reserve)\n- Jake Bobo (Injured Rese
- rve)\n- Bud Clark (Injured Reserve)\n- Julian Neal (Injured Reserve)\n- Ro
- bbie Ouzts (Injured Reserve)\n- Mason Richman (Injured Reserve)\nเริ
- ่ม: จ. 30 พ.ย. 04:25 น. (เวลาไทย)
+ d Kareem (Out)\n- Deommodore Lenoir (Questionable)\n- Malik Mustapha\n- Si
+ ran Neal\n- Osa Odighizuwa\n- Ogbo Okoronkwo\n- Ephesians Prysock\n- Marqu
+ es Sigle\n- Upton Stout\n- James Thompson Jr.\n- Sebastian Valdez\n- Garre
+ t Wallow\n- Fred Warner\n- C.J. West\n- Keion White\n- Mykel Williams\n- E
+ ddy Pineiro\n- Corliss Waitman\n- Jon Weeks\n- Alfred Collins (Injured Res
+ erve)\n- Andrew Farmer II (Injured Reserve)\n- Darrick Forrest (Injured Re
+ serve)\n- Isaac Guerendo (Out)\n- Gracen Halton (Injured Reserve)\n- Nate 
+ Hobbs (Injured Reserve)\n- Mikail Kamara (Injured Reserve)\n- Christian Ki
+ rk (Injured Reserve)\n- Nick Martin (Injured Reserve)\n- Sam Okuayinonu (I
+ njured Reserve)\n- Ricky Pearsall (Injured Reserve)\n- Austen Pleasants (I
+ njured Reserve)\n- De'Zhaun Stribling (Injured Reserve)\n- Jake Tonges (In
+ jured Reserve)\n- Brett Toth (Questionable)\n- Nick Zakelj (Injured Reserv
+ e)\n\nSeattle Seahawks\n- AJ Barner\n- Anthony Bradford\n- Zach Charbonnet
+ \n- Irv Charles\n- Charles Cross (Out)\n- Sam Darnold (Out)\n- Montorie Fo
+ ster Jr.\n- Bobby Hart\n- George Holani (Questionable)\n- Tory Horton\n- J
+ osh Jones\n- Nick Kallerup\n- Cooper Kupp\n- Drew Lock\n- Abraham Lucas (Q
+ uestionable)\n- Jalen Milroe\n- Quenton Nelson (Out)\n- Olu Oluwatimi\n- J
+ adarian Price\n- Brady Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon 
+ Smith-Njigba\n- Beau Stephens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Z
+ abel\n- Terrion Arnold (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fo
+ wler Jr.\n- Derick Hall\n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- T
+ yrice Knight\n- DeMarcus Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Mo
+ rris\n- Byron Murphy II\n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'
+ Toole\n- Ty Okada\n- Brandon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Qu
+ estionable)\n- Avery Smith\n- Chazz Surratt\n- Drake Thomas\n- Rodney Thom
+ as II\n- Leonard Williams (Out)\n- Devon Witherspoon\n- Michael Dickson\n-
+  Jason Myers\n- Chris Stoll\n- Elijah Arroyo (Injured Reserve)\n- Jake Bob
+ o (Injured Reserve)\n- Bud Clark (Injured Reserve)\n- Julian Neal (Injured
+  Reserve)\n- Robbie Ouzts (Injured Reserve)\n- Mason Richman (Injured Rese
+ rve)\nเริ่ม: จ. 30 พ.ย. 04:25 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873091/seahawks-49ers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
