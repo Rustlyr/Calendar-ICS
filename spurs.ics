@@ -443,9 +443,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910045@rustlyr.github.io
-SEQUENCE:13
-DTSTAMP:20261123T014701Z
-LAST-MODIFIED:20261123T014701Z
+SEQUENCE:14
+DTSTAMP:20261123T054702Z
+LAST-MODIFIED:20261123T054702Z
 DTSTART;TZID=Asia/Bangkok:20261124T100000
 DTEND;TZID=Asia/Bangkok:20261124T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
@@ -459,8 +459,8 @@ DESCRIPTION:Sacramento Kings\n- Precious Achiuwa\n- Darius Acuff Jr.\n- Lea
  \n- De'Aaron Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n
  - Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Korn
  et\n- Jordan McLaughlin (Day-To-Day)\n- Jayden Quaintance (Out)\n- Tarris 
- Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\nเริ่ม: อ. 24 
- พ.ย. 10:00 น. (เวลาไทย)
+ Reed Jr.\n- Devin Vassell\n- Victor Wembanyama (Day-To-Day)\nเริ่
+ ม: อ. 24 พ.ย. 10:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -477,9 +477,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909325@rustlyr.github.io
-SEQUENCE:7
-DTSTAMP:20261123T014701Z
-LAST-MODIFIED:20261123T014701Z
+SEQUENCE:8
+DTSTAMP:20261123T054702Z
+LAST-MODIFIED:20261123T054702Z
 DTSTART;TZID=Asia/Bangkok:20261126T100000
 DTEND;TZID=Asia/Bangkok:20261126T123000
 SUMMARY:Portland Trail Blazers - San Antonio Spurs
@@ -493,8 +493,8 @@ DESCRIPTION:Portland Trail Blazers\n- Deni Avdija\n- Toumani Camara\n- Bran
  n Champagnie\n- De'Aaron Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dylan Ha
  rper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\
  n- Luke Kornet\n- Jordan McLaughlin (Day-To-Day)\n- Jayden Quaintance (Out
- )\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\nเริ่
- ม: พฤ. 26 พ.ย. 10:00 น. (เวลาไทย)
+ )\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama (Day-To-Day)\n
+ เริ่ม: พฤ. 26 พ.ย. 10:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -511,9 +511,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909333@rustlyr.github.io
-SEQUENCE:2
-DTSTAMP:20261123T014701Z
-LAST-MODIFIED:20261123T014701Z
+SEQUENCE:3
+DTSTAMP:20261123T054702Z
+LAST-MODIFIED:20261123T054702Z
 DTSTART;TZID=Asia/Bangkok:20261128T093000
 DTEND;TZID=Asia/Bangkok:20261128T120000
 SUMMARY:San Antonio Spurs - Los Angeles Lakers
@@ -523,12 +523,13 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldo
  n Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin (Day-T
  o-Day)\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- V
- ictor Wembanyama\n\nLos Angeles Lakers\n- Cameron Carr\n- Carson Cooper\n-
-  Luka Doncic\n- Quentin Grimes\n- Jaden Hardy\n- Bronny James\n- Arthur Ka
- luma\n- Walker Kessler\n- Jake LaRavia\n- Kevon Looney\n- Sandro Mamukelas
- hvili\n- Chris Manon\n- AK Okereke\n- Austin Reaves (Out)\n- Collin Sexton
- \n- Adou Thiero\n- Matisse Thybulle\n- Jarred Vanderbilt\n- Ziaire William
- s\nเริ่ม: ส. 28 พ.ย. 09:30 น. (เวลาไทย)
+ ictor Wembanyama (Day-To-Day)\n\nLos Angeles Lakers\n- Cameron Carr\n- Car
+ son Cooper\n- Luka Doncic\n- Quentin Grimes\n- Jaden Hardy\n- Bronny James
+ \n- Arthur Kaluma\n- Walker Kessler\n- Jake LaRavia\n- Kevon Looney\n- San
+ dro Mamukelashvili\n- Chris Manon\n- AK Okereke\n- Austin Reaves (Out)\n- 
+ Collin Sexton\n- Adou Thiero\n- Matisse Thybulle\n- Jarred Vanderbilt\n- Z
+ iaire Williams\nเริ่ม: ส. 28 พ.ย. 09:30 น. (เวลา
+ ไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -545,9 +546,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910052@rustlyr.github.io
-SEQUENCE:3
-DTSTAMP:20261123T014701Z
-LAST-MODIFIED:20261123T014701Z
+SEQUENCE:4
+DTSTAMP:20261123T054702Z
+LAST-MODIFIED:20261123T054702Z
 DTSTART;TZID=Asia/Bangkok:20261130T040000
 DTEND;TZID=Asia/Bangkok:20261130T063000
 SUMMARY:San Antonio Spurs - Boston Celtics
@@ -557,12 +558,12 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldo
  n Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin (Day-T
  o-Day)\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- V
- ictor Wembanyama\n\nBoston Celtics\n- Devin Carter\n- Chris Cenac Jr.\n- M
- ike Conley\n- Luka Garza\n- Paul George (Out)\n- Hugo Gonzalez\n- Ron Harp
- er Jr.\n- Sam Hauser\n- Dillon Mitchell\n- Payton Pritchard\n- Neemias Que
- ta\n- Mitchell Robinson (Out)\n- Baylor Scheierman\n- Jayson Tatum\n- Jord
- an Walsh\n- Derrick White\n- Amari Williams\nเริ่ม: จ. 30 พ.
- ย. 04:00 น. (เวลาไทย)
+ ictor Wembanyama (Day-To-Day)\n\nBoston Celtics\n- Devin Carter\n- Chris C
+ enac Jr.\n- Mike Conley\n- Luka Garza\n- Paul George (Out)\n- Hugo Gonzale
+ z\n- Ron Harper Jr.\n- Sam Hauser\n- Dillon Mitchell\n- Payton Pritchard\n
+ - Neemias Queta\n- Mitchell Robinson (Out)\n- Baylor Scheierman\n- Jayson 
+ Tatum\n- Jordan Walsh\n- Derrick White\n- Amari Williams\nเริ่ม:
+  จ. 30 พ.ย. 04:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
