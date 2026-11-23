@@ -101,9 +101,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
-SEQUENCE:10
-DTSTAMP:20261123T154701Z
-LAST-MODIFIED:20261123T154701Z
+SEQUENCE:11
+DTSTAMP:20261123T164701Z
+LAST-MODIFIED:20261123T164701Z
 DTSTART;TZID=Asia/Bangkok:20261122T192356
 DTEND;TZID=Asia/Bangkok:20261122T202356
 SUMMARY:Falcon 9 · NROL-136
@@ -111,9 +111,9 @@ LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
  ยสำเร็จ\nผล: ปล่อยสำเร็จ\nผล: 
  ปล่อยสำเร็จ\nผล: ปล่อยสำเร็
- จ\nถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=NFIjyRF
- TPao\nhttps://www.youtube.com/watch?v=um48_-sSFrE\nhttps://x.com/i/broadca
- sts/2yboJapzrmYNbe
+ จ\nผล: ปล่อยสำเร็จ\nถ่ายทอดส
+ ด:\nhttps://www.youtube.com/watch?v=NFIjyRFTPao\nhttps://www.youtube.com
+ /watch?v=um48_-sSFrE\nhttps://x.com/i/broadcasts/2yboJapzrmYNbe
 URL:https://www.youtube.com/watch?v=NFIjyRFTPao
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
@@ -240,6 +240,30 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Falcon 9 · Cygnus CRS-2 NG-25
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-spacex-5591cfa3-6336-41ab-a37a-7c57aa28ab5f@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261123T164701Z
+LAST-MODIFIED:20261123T164701Z
+DTSTART;TZID=Asia/Bangkok:20261203T033000
+DTEND;TZID=Asia/Bangkok:20261203T043000
+SUMMARY:Falcon 9 · NROL-132
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:เริ่ม: พฤ. 3 ธ.ค. 03:30 น. (เวลาไ
+ ทย)
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · NROL-132
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Falcon 9 · NROL-132
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
