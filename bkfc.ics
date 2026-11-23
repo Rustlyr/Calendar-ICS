@@ -18,11 +18,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sportcal-bkfc-2026-bkfc-fight-night-hershey@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261123T071857Z
-LAST-MODIFIED:20261123T071857Z
-DTSTART;TZID=Asia/Bangkok:20261205T080000
-DTEND;TZID=Asia/Bangkok:20261205T120000
+SEQUENCE:1
+DTSTAMP:20261123T204701Z
+LAST-MODIFIED:20261123T204701Z
+DTSTART;TZID=Asia/Bangkok:20261205T070000
+DTEND;TZID=Asia/Bangkok:20261205T110000
 SUMMARY:BKFC Fight Night Hershey: Pague vs. Richman
 LOCATION:Giant Center\, Hershey\, Pennsylvania
 DESCRIPTION:Fight Card\n\n• Pague VS Richman\n\n• Alvey VS Miller\n\n
@@ -30,7 +30,7 @@ DESCRIPTION:Fight Card\n\n• Pague VS Richman\n\n• Alvey VS Miller\n\n
  n\n• Harris VS Morris\n\n• Haas VS Peralta\n\n• Starner VS Shutt\n\n
  • Ludlow VS Liberto\n\n• Yanc VS Schuyler\n\n• Pannell VS Shingara\n
  \n• Reeser VS Berrun\n\n• Newman VS Reed\nเริ่ม: ส. 5 ธ.
- ค. 08:00 น. (เวลาไทย)
+ ค. 07:00 น. (เวลาไทย)
 URL:https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championshi
  p
 STATUS:CONFIRMED
