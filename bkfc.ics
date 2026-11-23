@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BKFC
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-bkfc-2026-bkfc-fight-night-hershey@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261123T071857Z
+LAST-MODIFIED:20261123T071857Z
+DTSTART;TZID=Asia/Bangkok:20261205T080000
+DTEND;TZID=Asia/Bangkok:20261205T120000
+SUMMARY:BKFC Fight Night Hershey: Pague vs. Richman
+LOCATION:Giant Center\, Hershey\, Pennsylvania
+DESCRIPTION:Fight Card\n\n• Pague VS Richman\n\n• Alvey VS Miller\n\n
+ • Semelsberger VS Manno\n\n• Moser VS Valencia\n\n• Carroll VS Best\
+ n\n• Harris VS Morris\n\n• Haas VS Peralta\n\n• Starner VS Shutt\n\n
+ • Ludlow VS Liberto\n\n• Yanc VS Schuyler\n\n• Pannell VS Shingara\n
+ \n• Reeser VS Berrun\n\n• Newman VS Reed\nเริ่ม: ส. 5 ธ.
+ ค. 08:00 น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championshi
+ p
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC Fight Night Hershey: Pague vs. Richman
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC Fight Night Hershey: Pague vs. Richman
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-bkfc-2026-bkfc-97-hollywood-fl@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261123T071857Z
+LAST-MODIFIED:20261123T071857Z
+DTSTART;TZID=Asia/Bangkok:20261212T070000
+DTEND;TZID=Asia/Bangkok:20261212T110000
+SUMMARY:BKFC 97 Hollywood\, FL: Henry vs. Collard
+LOCATION:Seminole Hard Rock Hotel & Casino Hollywood\, Hollywood\, Florida
+DESCRIPTION:Fight Card\n\n• Henry VS Collard\n\n• Slaveski VS Elmore\n\
+ n• Eye VS Yanez\n\n• Ricchi VS Vincent\n\n• Alfano VS Davis\n\n• K
+ azgan VS Rodriguez\n\n• Davis VS Brito\n\n• Acanda VS Walters\nเร
+ ิ่ม: ส. 12 ธ.ค. 07:00 น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championshi
+ p
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC 97 Hollywood\, FL: Henry vs. Collard
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC 97 Hollywood\, FL: Henry vs. Collard
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-bkfc-2027-bkfsea-bruise-cruise@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261123T071857Z
+LAST-MODIFIED:20261123T071857Z
+DTSTART;TZID=Asia/Bangkok:20270124T090000
+DTEND;TZID=Asia/Bangkok:20270124T130000
+SUMMARY:BKFSea Bruise Cruise: Stewart vs. Duran
+LOCATION:Norwegian Jewel\, The Bahamas
+DESCRIPTION:Fight Card\n\n• Stewart VS Duran\n\n• Thorpe VS Kuhne\n\n
+ • Rivera VS Meneses\n\n• Rodriguez VS Mota\n\n• Figueroa VS Whitehea
+ d\n\n• Famez VS Marer\n\n• Gambino VS Denning\n\n• Ferrell VS Collin
+ s\nเริ่ม: อา. 24 ม.ค. 09:00 น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2027_in_Bare_Knuckle_Fighting_Championshi
+ p
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFSea Bruise Cruise: Stewart vs. Duran
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFSea Bruise Cruise: Stewart vs. Duran
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-bkfc-2027-bkfc-fight-night-palm-desert@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261123T071857Z
+LAST-MODIFIED:20261123T071857Z
+DTSTART;TZID=Asia/Bangkok:20270206T090000
+DTEND;TZID=Asia/Bangkok:20270206T130000
+SUMMARY:BKFC Fight Night Palm Desert: Kurdanov vs. Peralta
+LOCATION:Acrisure Arena\, Palm Desert\, California
+DESCRIPTION:Fight Card\n\n• Kurdanov VS Peralta\nเริ่ม: ส. 6 
+ ก.พ. 09:00 น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2027_in_Bare_Knuckle_Fighting_Championshi
+ p
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC Fight Night Palm Desert: Kurdanov vs. Peralta
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC Fight Night Palm Desert: Kurdanov vs. Peralta
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-bkfc-2027-bkfc-99-sheffield@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261123T071857Z
+LAST-MODIFIED:20261123T071857Z
+DTSTART;TZID=Asia/Bangkok:20270214T020000
+DTEND;TZID=Asia/Bangkok:20270214T060000
+SUMMARY:BKFC 99 Sheffield: Bonner vs. Franco
+LOCATION:Utilita Arena Sheffield\, Sheffield\, England
+DESCRIPTION:Fight Card\n\n• (c) VS Franco\n\n• Sweeney VS Lilley\nเ
+ ริ่ม: อา. 14 ก.พ. 02:00 น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2027_in_Bare_Knuckle_Fighting_Championshi
+ p
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC 99 Sheffield: Bonner vs. Franco
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BKFC 99 Sheffield: Bonner vs. Franco
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
