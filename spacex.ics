@@ -101,9 +101,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
-SEQUENCE:23
-DTSTAMP:20261124T054701Z
-LAST-MODIFIED:20261124T054701Z
+SEQUENCE:24
+DTSTAMP:20261124T064701Z
+LAST-MODIFIED:20261124T064701Z
 DTSTART;TZID=Asia/Bangkok:20261122T192356
 DTEND;TZID=Asia/Bangkok:20261122T202356
 SUMMARY:Falcon 9 · NROL-136
@@ -118,9 +118,10 @@ DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
  เร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล่
  อยสำเร็จ\nผล: ปล่อยสำเร็จ\nผ
  ล: ปล่อยสำเร็จ\nผล: ปล่อยสำเ
- ร็จ\nผล: ปล่อยสำเร็จ\nถ่ายทอ
- ดสด:\nhttps://www.youtube.com/watch?v=NFIjyRFTPao\nhttps://www.youtu
- be.com/watch?v=um48_-sSFrE\nhttps://x.com/i/broadcasts/2yboJapzrmYNbe
+ ร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อ
+ ยสำเร็จ\nถ่ายทอดสด:\nhttps://www.youtube.c
+ om/watch?v=NFIjyRFTPao\nhttps://www.youtube.com/watch?v=um48_-sSFrE\nhttps
+ ://x.com/i/broadcasts/2yboJapzrmYNbe
 URL:https://www.youtube.com/watch?v=NFIjyRFTPao
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
