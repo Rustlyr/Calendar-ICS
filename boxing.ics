@@ -162,15 +162,15 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-7893@boxingscene.com
-SEQUENCE:5
-DTSTAMP:20261122T161704Z
-LAST-MODIFIED:20261122T161704Z
+SEQUENCE:6
+DTSTAMP:20261124T201706Z
+LAST-MODIFIED:20261124T201706Z
 DTSTART;TZID=Asia/Bangkok:20261212T080000
 DTEND;TZID=Asia/Bangkok:20261212T120000
 SUMMARY:Tyson Fury vs Anthony Joshua
 LOCATION:Principality Stadium\, Cardiff\, United Kingdom
 DESCRIPTION:LIVE : Netflix\n\n• Tyson Fury Vs. Anthony Joshua\n• Deonta
- y Wilder Vs. TBA\n• Frazer Clarke Vs. Joseph Parker
+ y Wilder Vs. Martin Bakole\n• Frazer Clarke Vs. Joseph Parker
 URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -187,16 +187,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-1000000045@boxingscene.com
-SEQUENCE:4
-DTSTAMP:20261115T055758Z
-LAST-MODIFIED:20261115T055758Z
+SEQUENCE:5
+DTSTAMP:20261124T201706Z
+LAST-MODIFIED:20261124T201706Z
 DTSTART;TZID=Asia/Bangkok:20261213T063000
 DTEND;TZID=Asia/Bangkok:20261213T103000
 SUMMARY:Tim Tszyu vs Erislandy Lara
 LOCATION:Cbus Super Stadium\, Gold Coast\, Australia
 DESCRIPTION:LIVE : DAZN\n\n• Tim Tszyu Vs. Erislandy Lara\n• Jermell Ch
  arlo Vs. Brock Jarvis\n• Liam Wilson Vs. Elnur Samedov\n• Kirra Ruston
-  Vs. Sanderson Diaz\n• Callum Peters Vs. Saulo Saldivar
+  Vs. Sanderson Diaz\n• Callum Peters Vs. Winston Hill
 URL:https://www.boxingscene.com/events/tim-tszyu-vs-erislandy-lara
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
