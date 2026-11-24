@@ -211,17 +211,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-d74afbc7-0de5-491c-be05-4e9c31f736ac@rustlyr.github.io
-SEQUENCE:5
-DTSTAMP:20261120T174701Z
-LAST-MODIFIED:20261120T174701Z
-DTSTART;TZID=Asia/Bangkok:20261129T225000
-DTEND;TZID=Asia/Bangkok:20261129T235000
+SEQUENCE:6
+DTSTAMP:20261124T194701Z
+LAST-MODIFIED:20261124T194701Z
+DTSTART;TZID=Asia/Bangkok:20261129T224700
+DTEND;TZID=Asia/Bangkok:20261129T234700
 SUMMARY:Falcon 9 · Cygnus CRS-2 NG-25
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://plus.nasa.gov/scheduled-v
  ideo/nasas-northrop-grumman-commercial-resupply-services-25-launch/\nhttps
  ://x.com/i/broadcasts/2gqOaJVRyzQolq\nเริ่ม: อา. 29 พ.ย.
-  22:50 น. (เวลาไทย)
+  22:47 น. (เวลาไทย)
 URL:https://plus.nasa.gov/scheduled-video/nasas-northrop-grumman-commercial
  -resupply-services-25-launch/
 STATUS:CONFIRMED
