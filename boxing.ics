@@ -96,14 +96,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-1000000061@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261122T151709Z
-LAST-MODIFIED:20261122T151709Z
+SEQUENCE:1
+DTSTAMP:20261124T211707Z
+LAST-MODIFIED:20261124T211707Z
 DTSTART;TZID=Asia/Bangkok:20261205T020000
 DTEND;TZID=Asia/Bangkok:20261205T060000
 SUMMARY:Adam Azim vs Gabriel Valenzuela
 LOCATION:Copper Box Arena\, London\, United Kingdom
-DESCRIPTION:LIVE : DAZN\n\n• Adam Azim Vs. Gabriel Valenzuela
+DESCRIPTION:LIVE : DAZN\n\n• Adam Azim Vs. Gabriel Valenzuela\n• France
+ sca Hennessy Vs. Johanna Wonyou
 URL:https://www.boxingscene.com/events/adam-azim-vs-gabriel-valenzuela
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -162,15 +163,16 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-7893@boxingscene.com
-SEQUENCE:6
-DTSTAMP:20261124T201706Z
-LAST-MODIFIED:20261124T201706Z
+SEQUENCE:7
+DTSTAMP:20261124T211707Z
+LAST-MODIFIED:20261124T211707Z
 DTSTART;TZID=Asia/Bangkok:20261212T080000
 DTEND;TZID=Asia/Bangkok:20261212T120000
 SUMMARY:Tyson Fury vs Anthony Joshua
 LOCATION:Principality Stadium\, Cardiff\, United Kingdom
 DESCRIPTION:LIVE : Netflix\n\n• Tyson Fury Vs. Anthony Joshua\n• Deonta
- y Wilder Vs. Martin Bakole\n• Frazer Clarke Vs. Joseph Parker
+ y Wilder Vs. Martin Bakole\n• Frazer Clarke Vs. Joseph Parker\n• Da’
+ Mazion Vanhouter Vs. Michael Essomba
 URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
