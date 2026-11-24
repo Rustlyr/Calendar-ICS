@@ -158,18 +158,18 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
-SEQUENCE:7
-DTSTAMP:20261124T024701Z
-LAST-MODIFIED:20261124T024701Z
+SEQUENCE:8
+DTSTAMP:20261124T164701Z
+LAST-MODIFIED:20261124T164701Z
 DTSTART;TZID=Asia/Bangkok:20261124T230859
 DTEND;TZID=Asia/Bangkok:20261125T000859
 SUMMARY:Falcon 9 · USSF-266
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=o
- ELkxR9uY8Q\nhttps://www.youtube.com/watch?v=Mx26fq3CcnQ\nhttps://www.youtu
+DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=F
+ b7P2xSoF28\nhttps://www.youtube.com/watch?v=Mx26fq3CcnQ\nhttps://www.youtu
  be.com/watch?v=0HG7obl5IAo\nhttps://x.com/i/broadcasts/2JQXBjLyYOQrpX\nเ
  ริ่ม: อ. 24 พ.ย. 23:08 น. (เวลาไทย)
-URL:https://www.youtube.com/watch?v=oELkxR9uY8Q
+URL:https://www.youtube.com/watch?v=Fb7P2xSoF28
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
