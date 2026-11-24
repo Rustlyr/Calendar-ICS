@@ -268,9 +268,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873082@rustlyr.github.io
-SEQUENCE:16
-DTSTAMP:20261124T134701Z
-LAST-MODIFIED:20261124T134701Z
+SEQUENCE:17
+DTSTAMP:20261124T194701Z
+LAST-MODIFIED:20261124T194701Z
 DTSTART;TZID=Asia/Bangkok:20261127T082000
 DTEND;TZID=Asia/Bangkok:20261127T113500
 SUMMARY:Buffalo Bills - Kansas City Chiefs
@@ -298,21 +298,21 @@ DESCRIPTION:Buffalo Bills\n- Josh Allen\n- Kyle Allen\n- Alec Anderson\n- S
  tt Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jaylon Moore (Questionabl
  e)\n- Hunter Nourzad\n- Garrett Nussmeier\n- Pete Nygra\n- Jaydn Ott\n- Di
  ego Pounds\n- Rashee Rice\n- Jalen Royals\n- Trey Smith (Questionable)\n- 
- Kingsley Suamataia\n- Ben VanSumeren (Questionable)\n- Kenneth Walker III 
- (Questionable)\n- Justin Watson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n
- - Jeffrey Bassa\n- Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- Chamarr
- i Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton Gi
- llotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\n- Chris Jones\n- G
- eorge Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott\n- Xavier Nwankpa\
- n- Chris Roland-Wallace\n- Melvin Smith Jr.\n- R Mason Thomas\n- Khyiris T
- onga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n- H
- arrison Butker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- E
- than Downs (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\
- n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Br
- ashard Smith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyqu
- an Thornton (Injured Reserve)\n- Matt Waletzko (Injured Reserve)\n- Jared 
- Wiley (Injured Reserve)\nเริ่ม: ศ. 27 พ.ย. 08:20 น. (เ
- วลาไทย)
+ Kingsley Suamataia\n- Ben VanSumeren (Injured Reserve)\n- Kenneth Walker I
+ II (Questionable)\n- Justin Watson\n- Xavier Worthy\n- Felix Anudike-Uzoma
+ h\n- Jeffrey Bassa\n- Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- Cham
+ arri Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton
+  Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\n- Chris Jones\n
+ - George Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott (Questionable)\
+ n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin Smith Jr.\n- R Mason T
+ homas\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woods\n
+ - Matt Araiza\n- Harrison Butker\n- James Winchester\n- Jeff Caldwell (Inj
+ ured Reserve)\n- Ethan Downs (Injured Reserve)\n- John Michael Gyllenborg 
+ (Injured Reserve)\n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Inju
+ red Reserve)\n- Brashard Smith (Injured Reserve)\n- L'Jarius Sneed (Injure
+ d Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Matt Waletzko (Injured 
+ Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 27 พ.
+ ย. 08:20 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
