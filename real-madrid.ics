@@ -614,17 +614,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-86-401915298@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261124T200502Z
+LAST-MODIFIED:20261124T200502Z
 DTSTART;TZID=Asia/Bangkok:20261125T030000
 DTEND;TZID=Asia/Bangkok:20261125T050000
 SUMMARY:Real Madrid - PSV Eindhoven
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
-DESCRIPTION:UEFA Champions League\nเริ่ม: พ. 25 พ.ย. 03:00 
- น. (เวลาไทย)
-URL:https://www.espn.com/soccer/match/_/gameId/401915298/psv-eindhoven-real
- -madrid
+DESCRIPTION:LIVE : 4'\n0-0\n\n1st Half 0-0\nเริ่ม: พ. 25 พ.
+ ย. 03:00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401915298
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
