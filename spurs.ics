@@ -443,25 +443,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910045@rustlyr.github.io
-SEQUENCE:16
-DTSTAMP:20261124T014701Z
-LAST-MODIFIED:20261124T014701Z
+SEQUENCE:17
+DTSTAMP:20261124T031501Z
+LAST-MODIFIED:20261124T031501Z
 DTSTART;TZID=Asia/Bangkok:20261124T100000
 DTEND;TZID=Asia/Bangkok:20261124T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Sacramento Kings\n- Precious Achiuwa\n- Darius Acuff Jr.\n- Lea
- ky Black\n- Dylan Cardwell\n- De'Andre Hunter\n- Alex Karaban\n- Zach LaVi
- ne\n- Jonathan Mogbo\n- Malik Monk\n- Keegan Murray\n- Sean Pedulla\n- Dae
- qwon Plowden\n- Mason Plumlee\n- Maxime Raynaud (Out)\n- Domantas Sabonis\
- n- Emanuel Sharp\n- Ben Simmons (Out)\n- Gabe Vincent\n\nSan Antonio Spurs
- \n- Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- J
- ulian Champagnie\n- De'Aaron Fox (Out)\n- Ja'Kobi Gillespie\n- Dylan Harpe
- r (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- 
- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed
-  Jr.\n- Devin Vassell\n- Victor Wembanyama (Out)\nเริ่ม: อ. 24
-  พ.ย. 10:00 น. (เวลาไทย)
-URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
+DESCRIPTION:LIVE : 8:44 - 1st\n6-6\n\nQ1 6-6\nเริ่ม: อ. 24 พ.
+ ย. 10:00 น. (เวลาไทย)
+URL:https://www.espn.com/nba/game?gameId=401910045
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
