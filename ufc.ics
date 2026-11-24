@@ -84,20 +84,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-ufc-600062700@rustlyr.github.io
-SEQUENCE:5
-DTSTAMP:20261123T014701Z
-LAST-MODIFIED:20261123T014701Z
+SEQUENCE:6
+DTSTAMP:20261124T044701Z
+LAST-MODIFIED:20261124T044701Z
 DTSTART;TZID=Asia/Bangkok:20261205T220000
 DTEND;TZID=Asia/Bangkok:20261206T050000
 SUMMARY:UFC Fight Night: Adesanya vs Magomedov
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
-DESCRIPTION:Prelims\n\n• Hussein VS Sosa\n\n• Rodrigues VS Letho Duclos
- \n\n• Andrusca VS Osmanli\n\n• Tulio VS Park\n\n• Satybaldiev VS Gni
- zditskiy\n\n• Silva VS Filho\n\nMain Card\n\n• Tuchalov VS Cutelaba\n\
- n• Santos VS Abdullaev\n\n• Chokheli VS Dulatov\n\n• Riley VS Santos
- \n\n• Spivac VS Pinto\n\n• Machado Garry VS Amosov\n\n• Adesanya VS 
- Magomedov\nเริ่ม: ส. 5 ธ.ค. 22:00 น. (เวลาไท
- ย)
+DESCRIPTION:Prelims\n\n• Rębecki VS Brener\n\n• Hussein VS Sosa\n\n•
+  Rodrigues VS Letho Duclos\n\n• Andrusca VS Osmanli\n\n• Tulio VS Park
+ \n\n• Satybaldiev VS Gnizditskiy\n\n• Silva VS Filho\n\nMain Card\n\n
+ • Tuchalov VS Cutelaba\n\n• Santos VS Abdullaev\n\n• Chokheli VS Dul
+ atov\n\n• Riley VS Santos\n\n• Spivac VS Pinto\n\n• Machado Garry VS
+  Amosov\n\n• Adesanya VS Magomedov\nเริ่ม: ส. 5 ธ.ค. 22:
+ 00 น. (เวลาไทย)
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
