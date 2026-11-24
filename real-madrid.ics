@@ -614,14 +614,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-86-401915298@rustlyr.github.io
-SEQUENCE:17
-DTSTAMP:20261124T213501Z
-LAST-MODIFIED:20261124T213501Z
+SEQUENCE:18
+DTSTAMP:20261124T214001Z
+LAST-MODIFIED:20261124T214001Z
 DTSTART;TZID=Asia/Bangkok:20261125T030000
 DTEND;TZID=Asia/Bangkok:20261125T050000
 SUMMARY:Real Madrid - PSV Eindhoven
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
-DESCRIPTION:LIVE : 75'\n3-1\n\n1st Half 0-1\n2nd Half 3-0\n\nGoals:\n32' Iv
+DESCRIPTION:LIVE : 80'\n3-1\n\n1st Half 0-1\n2nd Half 3-0\n\nGoals:\n32' Iv
  an Perisic · PSV Eindhoven\n50' Federico Valverde · Real Madrid\n60' Jud
  e Bellingham · Real Madrid\n64' Kylian Mbappé · Real Madrid\nเริ
  ่ม: พ. 25 พ.ย. 03:00 น. (เวลาไทย)
