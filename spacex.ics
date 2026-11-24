@@ -101,9 +101,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-951a341f-236b-42fe-a667-4ab2fcf36eac@rustlyr.github.io
-SEQUENCE:19
-DTSTAMP:20261124T014701Z
-LAST-MODIFIED:20261124T014701Z
+SEQUENCE:20
+DTSTAMP:20261124T024701Z
+LAST-MODIFIED:20261124T024701Z
 DTSTART;TZID=Asia/Bangkok:20261122T192356
 DTEND;TZID=Asia/Bangkok:20261122T202356
 SUMMARY:Falcon 9 · NROL-136
@@ -116,9 +116,10 @@ DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
  ่อยสำเร็จ\nผล: ปล่อยสำเร็จ\n
  ผล: ปล่อยสำเร็จ\nผล: ปล่อยสำ
  เร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล่
- อยสำเร็จ\nถ่ายทอดสด:\nhttps://www.youtub
- e.com/watch?v=NFIjyRFTPao\nhttps://www.youtube.com/watch?v=um48_-sSFrE\nht
- tps://x.com/i/broadcasts/2yboJapzrmYNbe
+ อยสำเร็จ\nผล: ปล่อยสำเร็จ\nถ
+ ่ายทอดสด:\nhttps://www.youtube.com/watch?v=NFIjyRFTPao\nht
+ tps://www.youtube.com/watch?v=um48_-sSFrE\nhttps://x.com/i/broadcasts/2ybo
+ JapzrmYNbe
 URL:https://www.youtube.com/watch?v=NFIjyRFTPao
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
@@ -152,17 +153,17 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
-SEQUENCE:6
-DTSTAMP:20261123T004701Z
-LAST-MODIFIED:20261123T004701Z
-DTSTART;TZID=Asia/Bangkok:20261124T225500
-DTEND;TZID=Asia/Bangkok:20261124T235500
+SEQUENCE:7
+DTSTAMP:20261124T024701Z
+LAST-MODIFIED:20261124T024701Z
+DTSTART;TZID=Asia/Bangkok:20261124T230859
+DTEND;TZID=Asia/Bangkok:20261125T000859
 SUMMARY:Falcon 9 · USSF-266
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=o
- ELkxR9uY8Q\nhttps://www.youtube.com/watch?v=0HG7obl5IAo\nhttps://x.com/i/b
- roadcasts/2JQXBjLyYOQrpX\nเริ่ม: อ. 24 พ.ย. 22:55 น. (
- เวลาไทย)
+ ELkxR9uY8Q\nhttps://www.youtube.com/watch?v=Mx26fq3CcnQ\nhttps://www.youtu
+ be.com/watch?v=0HG7obl5IAo\nhttps://x.com/i/broadcasts/2JQXBjLyYOQrpX\nเ
+ ริ่ม: อ. 24 พ.ย. 23:08 น. (เวลาไทย)
 URL:https://www.youtube.com/watch?v=oELkxR9uY8Q
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
