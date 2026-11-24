@@ -468,9 +468,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909325@rustlyr.github.io
-SEQUENCE:9
-DTSTAMP:20261124T014701Z
-LAST-MODIFIED:20261124T014701Z
+SEQUENCE:10
+DTSTAMP:20261124T064701Z
+LAST-MODIFIED:20261124T064701Z
 DTSTART;TZID=Asia/Bangkok:20261126T100000
 DTEND;TZID=Asia/Bangkok:20261126T123000
 SUMMARY:Portland Trail Blazers - San Antonio Spurs
@@ -481,11 +481,11 @@ DESCRIPTION:Portland Trail Blazers\n- Deni Avdija\n- Toumani Camara\n- Bran
  d\n- Ja Morant (Out)\n- Micah Potter\n- Shaedon Sharpe (Out)\n- John Tonje
  \n- Robert Williams III\n- Chris Youngblood (Out)\n\nSan Antonio Spurs\n- 
  Harrison Barnes\n- Maliq Brown\n- Carter Bryant\n- Stephon Castle\n- Julia
- n Champagnie\n- De'Aaron Fox (Out)\n- Ja'Kobi Gillespie\n- Dylan Harper (O
- ut)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke
-  Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.
- \n- Devin Vassell\n- Victor Wembanyama (Out)\nเริ่ม: พฤ. 26 
- พ.ย. 10:00 น. (เวลาไทย)
+ n Champagnie\n- De'Aaron Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dylan Ha
+ rper (Out)\n- Tobias Harris (Out)\n- Keldon Johnson\n- David Jones Garcia\
+ n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris R
+ eed Jr.\n- Devin Vassell\n- Victor Wembanyama (Day-To-Day)\nเริ่
+ ม: พฤ. 26 พ.ย. 10:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -502,24 +502,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909333@rustlyr.github.io
-SEQUENCE:4
-DTSTAMP:20261124T014701Z
-LAST-MODIFIED:20261124T014701Z
+SEQUENCE:5
+DTSTAMP:20261124T064701Z
+LAST-MODIFIED:20261124T064701Z
 DTSTART;TZID=Asia/Bangkok:20261128T093000
 DTEND;TZID=Asia/Bangkok:20261128T120000
 SUMMARY:San Antonio Spurs - Los Angeles Lakers
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
- ryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox (Out)\n- Ja'K
- obi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldon Johns
- on\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Qua
- intance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama (Ou
- t)\n\nLos Angeles Lakers\n- Cameron Carr\n- Carson Cooper\n- Luka Doncic\n
- - Quentin Grimes\n- Jaden Hardy\n- Bronny James\n- Arthur Kaluma\n- Walker
-  Kessler\n- Jake LaRavia\n- Kevon Looney\n- Sandro Mamukelashvili\n- Chris
-  Manon\n- AK Okereke\n- Austin Reaves (Out)\n- Collin Sexton\n- Adou Thier
- o\n- Matisse Thybulle\n- Jarred Vanderbilt\n- Ziaire Williams\nเริ
- ่ม: ส. 28 พ.ย. 09:30 น. (เวลาไทย)
+ ryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox (Day-To-Day)\
+ n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldo
+ n Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jay
+ den Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembany
+ ama (Day-To-Day)\n\nLos Angeles Lakers\n- Cameron Carr\n- Carson Cooper\n-
+  Luka Doncic\n- Quentin Grimes\n- Jaden Hardy\n- Bronny James\n- Arthur Ka
+ luma\n- Walker Kessler\n- Jake LaRavia\n- Kevon Looney\n- Sandro Mamukelas
+ hvili\n- Chris Manon\n- AK Okereke\n- Austin Reaves (Out)\n- Collin Sexton
+ \n- Adou Thiero\n- Matisse Thybulle\n- Jarred Vanderbilt\n- Ziaire William
+ s\nเริ่ม: ส. 28 พ.ย. 09:30 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -536,24 +536,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910052@rustlyr.github.io
-SEQUENCE:7
-DTSTAMP:20261124T014701Z
-LAST-MODIFIED:20261124T014701Z
+SEQUENCE:8
+DTSTAMP:20261124T064701Z
+LAST-MODIFIED:20261124T064701Z
 DTSTART;TZID=Asia/Bangkok:20261130T040000
 DTEND;TZID=Asia/Bangkok:20261130T063000
 SUMMARY:San Antonio Spurs - Boston Celtics
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
- ryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox (Out)\n- Ja'K
- obi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldon Johns
- on\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Qua
- intance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama (Ou
- t)\n\nBoston Celtics\n- Devin Carter\n- Chris Cenac Jr.\n- Mike Conley\n- 
- Luka Garza\n- Paul George\n- Hugo Gonzalez\n- Ron Harper Jr.\n- Sam Hauser
- \n- Dillon Mitchell\n- Payton Pritchard\n- Neemias Queta\n- Mitchell Robin
- son (Out)\n- Baylor Scheierman\n- Jayson Tatum\n- Jordan Walsh\n- Derrick 
- White\n- Amari Williams\nเริ่ม: จ. 30 พ.ย. 04:00 น. (เ
- วลาไทย)
+ ryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox (Day-To-Day)\
+ n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out)\n- Keldo
+ n Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jay
+ den Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembany
+ ama (Day-To-Day)\n\nBoston Celtics\n- Devin Carter\n- Chris Cenac Jr.\n- M
+ ike Conley\n- Luka Garza\n- Paul George\n- Hugo Gonzalez\n- Ron Harper Jr.
+ \n- Sam Hauser\n- Dillon Mitchell\n- Payton Pritchard\n- Neemias Queta\n- 
+ Mitchell Robinson (Out)\n- Baylor Scheierman\n- Jayson Tatum\n- Jordan Wal
+ sh\n- Derrick White\n- Amari Williams\nเริ่ม: จ. 30 พ.ย. 0
+ 4:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -570,9 +570,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910066@rustlyr.github.io
-SEQUENCE:3
-DTSTAMP:20261124T014701Z
-LAST-MODIFIED:20261124T014701Z
+SEQUENCE:4
+DTSTAMP:20261124T064701Z
+LAST-MODIFIED:20261124T064701Z
 DTSTART;TZID=Asia/Bangkok:20261201T080000
 DTEND;TZID=Asia/Bangkok:20261201T103000
 SUMMARY:Milwaukee Bucks - San Antonio Spurs
@@ -583,11 +583,11 @@ DESCRIPTION:Milwaukee Bucks\n- Nate Ament\n- Brayden Burries\n- Ousmane Die
  ce\n- Ryan Rollins\n- Cormac Ryan\n- Jericho Sims\n- Gary Trent Jr.\n- Myl
  es Turner\n- Kel'el Ware\n\nSan Antonio Spurs\n- Harrison Barnes\n- Maliq 
  Brown\n- Carter Bryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron 
- Fox (Out)\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harris (Out
- )\n- Keldon Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaugh
- lin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Vict
- or Wembanyama (Out)\nเริ่ม: อ. 1 ธ.ค. 08:00 น. (เว
- ลาไทย)
+ Fox (Day-To-Day)\n- Ja'Kobi Gillespie\n- Dylan Harper (Out)\n- Tobias Harr
+ is (Out)\n- Keldon Johnson\n- David Jones Garcia\n- Luke Kornet\n- Jordan 
+ McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\
+ n- Victor Wembanyama (Day-To-Day)\nเริ่ม: อ. 1 ธ.ค. 08:00 
+ น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910066/spurs-bucks
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
