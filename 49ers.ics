@@ -268,9 +268,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-25-401873091@rustlyr.github.io
-SEQUENCE:10
-DTSTAMP:20261124T134701Z
-LAST-MODIFIED:20261124T134701Z
+SEQUENCE:11
+DTSTAMP:20261125T024701Z
+LAST-MODIFIED:20261125T024701Z
 DTSTART;TZID=Asia/Bangkok:20261130T042500
 DTEND;TZID=Asia/Bangkok:20261130T074000
 SUMMARY:San Francisco 49ers - Seattle Seahawks
@@ -299,20 +299,20 @@ DESCRIPTION:San Francisco 49ers\n- Keenan Allen\n- Kaelon Black\n- Jake Bre
   Toth (Questionable)\n- Nick Zakelj (Injured Reserve)\n\nSeattle Seahawks\
  n- AJ Barner\n- Anthony Bradford\n- Zach Charbonnet\n- Irv Charles\n- Char
  les Cross (Questionable)\n- Sam Darnold (Questionable)\n- Montorie Foster 
- Jr.\n- Bobby Hart\n- George Holani (Injured Reserve)\n- Tory Horton\n- Jos
- h Jones\n- Nick Kallerup\n- Cooper Kupp\n- Drew Lock\n- Abraham Lucas (Que
- stionable)\n- Jalen Milroe\n- Quenton Nelson (Doubtful)\n- Olu Oluwatimi\n
- - Jadarian Price\n- Brady Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jax
- on Smith-Njigba\n- Beau Stephens\n- Jalen Sundell\n- Emanuel Wilson\n- Gre
- y Zabel\n- Terrion Arnold (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante
-  Fowler Jr.\n- Derick Hall\n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n
- - Tyrice Knight\n- DeMarcus Lawrence\n- Julian Love\n- Rylie Mills\n- Mike
-  Morris\n- Byron Murphy II\n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor
-  O'Toole\n- Ty Okada\n- Brandon Pili\n- Nehemiah Pritchett\n- Jarran Reed 
- (Questionable)\n- Avery Smith\n- Chazz Surratt\n- Drake Thomas\n- Rodney T
- homas II\n- Leonard Williams (Questionable)\n- Devon Witherspoon\n- Michae
- l Dickson\n- Jason Myers\n- Chris Stoll\n- Elijah Arroyo (Injured Reserve)
- \n- Jake Bobo (Injured Reserve)\n- Bud Clark (Injured Reserve)\n- Julian N
+ Jr.\n- Bobby Hart\n- Tory Horton\n- Josh Jones\n- Nick Kallerup\n- Cooper 
+ Kupp\n- Drew Lock\n- Abraham Lucas (Questionable)\n- Chase Lundt\n- Jalen 
+ Milroe\n- Quenton Nelson (Doubtful)\n- Olu Oluwatimi\n- Jadarian Price\n- 
+ Brady Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon Smith-Njigba\n- B
+ eau Stephens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Zabel\n- Terrion A
+ rnold (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fowler Jr.\n- Deric
+ k Hall\n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- Tyrice Knight\n- D
+ eMarcus Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Morris\n- Byron Mur
+ phy II\n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'Toole\n- Ty Okada
+ \n- Brandon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Questionable)\n- Ch
+ azz Surratt\n- Drake Thomas\n- Rodney Thomas II\n- Leonard Williams (Quest
+ ionable)\n- Devon Witherspoon\n- Michael Dickson\n- Jason Myers\n- Chris S
+ toll\n- Elijah Arroyo (Injured Reserve)\n- Jake Bobo (Injured Reserve)\n- 
+ Bud Clark (Injured Reserve)\n- George Holani (Injured Reserve)\n- Julian N
  eal (Injured Reserve)\n- Robbie Ouzts (Injured Reserve)\n- Mason Richman (
  Injured Reserve)\nเริ่ม: จ. 30 พ.ย. 04:25 น. (เวล
  าไทย)
