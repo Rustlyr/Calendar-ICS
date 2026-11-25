@@ -215,14 +215,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-7691@boxingscene.com
-SEQUENCE:3
-DTSTAMP:20261115T055758Z
-LAST-MODIFIED:20261115T055758Z
+SEQUENCE:4
+DTSTAMP:20261125T121707Z
+LAST-MODIFIED:20261125T121707Z
 DTSTART;TZID=Asia/Bangkok:20261212T210000
 DTEND;TZID=Asia/Bangkok:20261213T010000
 SUMMARY:Dmitry Bivol vs Callum Smith
 LOCATION:UMMC Arena\, Yekaterinburg\, Russia
-DESCRIPTION:LIVE : DAZN\n\n• Dmitry Bivol Vs. Callum Smith
+DESCRIPTION:LIVE : DAZN\n\n• Dmitry Bivol Vs. Callum Smith\n• Albert Ra
+ mirez Vs. Sharabutdin Ataev\n• Vadim Tukov Vs. Lucas Bastida
 URL:https://www.boxingscene.com/events/dmitry-bivol-callum-smith
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -264,14 +265,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-1000000062@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261122T151709Z
-LAST-MODIFIED:20261122T151709Z
+SEQUENCE:1
+DTSTAMP:20261125T121707Z
+LAST-MODIFIED:20261125T121707Z
 DTSTART;TZID=Asia/Bangkok:20270110T070000
 DTEND;TZID=Asia/Bangkok:20270110T110000
 SUMMARY:Amanda Serrano vs Skye Falzon
 LOCATION:Coliseo de Puerto Rico\, San Juan\, Puerto Rico
-DESCRIPTION:LIVE : DAZN\n\n• Amanda Serrano Vs. Skye Falzon
+DESCRIPTION:LIVE : DAZN\n\n• Amanda Serrano Vs. Skye Falzon\n• Oscar Co
+ llazo Vs. Joey Canoy\n• Shurretta Metcalf Vs. Krystal Rosado
 URL:https://www.boxingscene.com/events/amanda-serrano-vs-skye-falzon
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
