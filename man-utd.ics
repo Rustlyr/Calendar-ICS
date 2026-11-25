@@ -623,17 +623,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-360-401915373@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261125T200501Z
+LAST-MODIFIED:20261125T200501Z
 DTSTART;TZID=Asia/Bangkok:20261126T030000
 DTEND;TZID=Asia/Bangkok:20261126T050000
 SUMMARY:Sporting CP - Manchester United
 LOCATION:Estádio José Alvalade\, Lisbon\, Portugal
-DESCRIPTION:UEFA Champions League\nเริ่ม: พฤ. 26 พ.ย. 03:
- 00 น. (เวลาไทย)
-URL:https://www.espn.com/soccer/match/_/gameId/401915373/manchester-united-
- sporting-cp
+DESCRIPTION:LIVE : 4'\n0-0\n\n1st Half 0-0\nเริ่ม: พฤ. 26 พ
+ .ย. 03:00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401915373
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
