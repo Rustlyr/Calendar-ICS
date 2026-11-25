@@ -268,9 +268,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-25-401873091@rustlyr.github.io
-SEQUENCE:11
-DTSTAMP:20261125T024701Z
-LAST-MODIFIED:20261125T024701Z
+SEQUENCE:12
+DTSTAMP:20261125T194701Z
+LAST-MODIFIED:20261125T194701Z
 DTSTART;TZID=Asia/Bangkok:20261130T042500
 DTEND;TZID=Asia/Bangkok:20261130T074000
 SUMMARY:San Francisco 49ers - Seattle Seahawks
@@ -279,43 +279,43 @@ DESCRIPTION:San Francisco 49ers\n- Keenan Allen\n- Kaelon Black\n- Jake Bre
  ndel\n- Connor Colby\n- Jacob Cowing\n- Enrique Cruz Jr.\n- Mike Evans\n- 
  Luke Farrell\n- KhaDarel Hodge\n- Jordan James\n- Mac Jones\n- Kyle Juszcz
  yk\n- George Kittle\n- Vederian Lowe\n- Christian McCaffrey\n- Colton McKi
- vitz (Out)\n- Jarrett Patterson\n- Dominick Puni\n- Brock Purdy\n- Demarcu
- s Robinson\n- Kurtis Rourke\n- Deebo Samuel Sr.\n- Jack Stoll\n- Jordan Wa
- tkins\n- Trent Williams\n- Brayden Willis\n- Carver Willis\n- Tatum Bethun
- e\n- Nick Bosa\n- Ji'Ayir Brown\n- DeForest Buckner\n- Ashtyn Davis\n- Jad
- en Dugger\n- Luke Gifford\n- Jalen Graham\n- Renardo Green\n- Dre Greenlaw
-  (Questionable)\n- Romello Height\n- Khalid Kareem (Questionable)\n- Deomm
- odore Lenoir (Questionable)\n- Malik Mustapha\n- Siran Neal\n- Osa Odighiz
- uwa\n- Ogbo Okoronkwo\n- Ephesians Prysock\n- Marques Sigle\n- Upton Stout
- \n- James Thompson Jr.\n- Sebastian Valdez\n- Garret Wallow\n- Fred Warner
- \n- C.J. West\n- Keion White\n- Mykel Williams\n- Eddy Pineiro\n- Corliss 
- Waitman\n- Jon Weeks\n- Alfred Collins (Injured Reserve)\n- Andrew Farmer 
- II (Injured Reserve)\n- Darrick Forrest (Injured Reserve)\n- Isaac Guerend
- o (Out)\n- Gracen Halton (Injured Reserve)\n- Nate Hobbs (Injured Reserve)
- \n- Mikail Kamara (Injured Reserve)\n- Christian Kirk (Injured Reserve)\n-
-  Nick Martin (Injured Reserve)\n- Sam Okuayinonu (Injured Reserve)\n- Rick
- y Pearsall (Injured Reserve)\n- Austen Pleasants (Injured Reserve)\n- De'Z
- haun Stribling (Injured Reserve)\n- Jake Tonges (Injured Reserve)\n- Brett
-  Toth (Questionable)\n- Nick Zakelj (Injured Reserve)\n\nSeattle Seahawks\
- n- AJ Barner\n- Anthony Bradford\n- Zach Charbonnet\n- Irv Charles\n- Char
- les Cross (Questionable)\n- Sam Darnold (Questionable)\n- Montorie Foster 
- Jr.\n- Bobby Hart\n- Tory Horton\n- Josh Jones\n- Nick Kallerup\n- Cooper 
- Kupp\n- Drew Lock\n- Abraham Lucas (Questionable)\n- Chase Lundt\n- Jalen 
- Milroe\n- Quenton Nelson (Doubtful)\n- Olu Oluwatimi\n- Jadarian Price\n- 
- Brady Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon Smith-Njigba\n- B
- eau Stephens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Zabel\n- Terrion A
- rnold (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fowler Jr.\n- Deric
- k Hall\n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- Tyrice Knight\n- D
- eMarcus Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Morris\n- Byron Mur
- phy II\n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'Toole\n- Ty Okada
- \n- Brandon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Questionable)\n- Ch
- azz Surratt\n- Drake Thomas\n- Rodney Thomas II\n- Leonard Williams (Quest
- ionable)\n- Devon Witherspoon\n- Michael Dickson\n- Jason Myers\n- Chris S
- toll\n- Elijah Arroyo (Injured Reserve)\n- Jake Bobo (Injured Reserve)\n- 
- Bud Clark (Injured Reserve)\n- George Holani (Injured Reserve)\n- Julian N
- eal (Injured Reserve)\n- Robbie Ouzts (Injured Reserve)\n- Mason Richman (
- Injured Reserve)\nเริ่ม: จ. 30 พ.ย. 04:25 น. (เวล
- าไทย)
+ vitz (Injured Reserve)\n- Jarrett Patterson\n- Dominick Puni\n- Brock Purd
+ y\n- Demarcus Robinson\n- Kurtis Rourke\n- Deebo Samuel Sr.\n- Jack Stoll\
+ n- Jordan Watkins\n- Trent Williams\n- Brayden Willis\n- Carver Willis\n- 
+ Tatum Bethune\n- Nick Bosa\n- Ji'Ayir Brown\n- DeForest Buckner\n- Ashtyn 
+ Davis\n- Jaden Dugger\n- Luke Gifford\n- Jalen Graham\n- Renardo Green\n- 
+ Dre Greenlaw (Questionable)\n- Romello Height\n- Khalid Kareem (Questionab
+ le)\n- Deommodore Lenoir (Questionable)\n- Malik Mustapha\n- Siran Neal\n-
+  Osa Odighizuwa\n- Ogbo Okoronkwo\n- Ephesians Prysock\n- Marques Sigle\n-
+  Upton Stout\n- James Thompson Jr.\n- Sebastian Valdez\n- Garret Wallow\n-
+  Fred Warner\n- C.J. West\n- Keion White\n- Mykel Williams\n- Eddy Pineiro
+ \n- Corliss Waitman\n- Jon Weeks\n- Alfred Collins (Injured Reserve)\n- An
+ drew Farmer II (Injured Reserve)\n- Darrick Forrest (Injured Reserve)\n- I
+ saac Guerendo (Out)\n- Gracen Halton (Injured Reserve)\n- Nate Hobbs\n- Mi
+ kail Kamara (Injured Reserve)\n- Christian Kirk (Injured Reserve)\n- Nick 
+ Martin (Injured Reserve)\n- Sam Okuayinonu (Injured Reserve)\n- Ricky Pear
+ sall (Injured Reserve)\n- Austen Pleasants (Injured Reserve)\n- De'Zhaun S
+ tribling (Injured Reserve)\n- Jake Tonges (Injured Reserve)\n- Brett Toth 
+ (Questionable)\n- Nick Zakelj (Injured Reserve)\n\nSeattle Seahawks\n- AJ 
+ Barner\n- Anthony Bradford\n- Zach Charbonnet\n- Irv Charles\n- Charles Cr
+ oss (Questionable)\n- Sam Darnold (Questionable)\n- Montorie Foster Jr.\n-
+  Bobby Hart\n- Tory Horton\n- Josh Jones\n- Nick Kallerup\n- Cooper Kupp\n
+ - Drew Lock\n- Abraham Lucas (Questionable)\n- Chase Lundt\n- Jalen Milroe
+ \n- Quenton Nelson (Doubtful)\n- Olu Oluwatimi\n- Jadarian Price\n- Brady 
+ Russell\n- Eric Saubert\n- Rashid Shaheed\n- Jaxon Smith-Njigba\n- Beau St
+ ephens\n- Jalen Sundell\n- Emanuel Wilson\n- Grey Zabel\n- Terrion Arnold 
+ (Out)\n- Trevon Diggs\n- Nick Emmanwori\n- Dante Fowler Jr.\n- Derick Hall
+ \n- Maxen Hook\n- Josh Jobe\n- Ernest Jones IV\n- Tyrice Knight\n- DeMarcu
+ s Lawrence\n- Julian Love\n- Rylie Mills\n- Mike Morris\n- Byron Murphy II
+ \n- Uchenna Nwosu\n- Patrick O'Connell\n- Connor O'Toole\n- Ty Okada\n- Br
+ andon Pili\n- Nehemiah Pritchett\n- Jarran Reed (Questionable)\n- Chazz Su
+ rratt\n- Drake Thomas\n- Rodney Thomas II\n- Leonard Williams (Questionabl
+ e)\n- Devon Witherspoon\n- Michael Dickson\n- Jason Myers\n- Chris Stoll\n
+ - Elijah Arroyo (Injured Reserve)\n- Jake Bobo (Injured Reserve)\n- Bud Cl
+ ark (Injured Reserve)\n- George Holani (Injured Reserve)\n- Julian Neal (I
+ njured Reserve)\n- Robbie Ouzts (Injured Reserve)\n- Mason Richman (Injure
+ d Reserve)\nเริ่ม: จ. 30 พ.ย. 04:25 น. (เวลาไ
+ ทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873091/seahawks-49ers
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
