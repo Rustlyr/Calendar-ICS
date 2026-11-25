@@ -623,16 +623,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-fb-360-401915373@rustlyr.github.io
-SEQUENCE:10
-DTSTAMP:20261125T204701Z
-LAST-MODIFIED:20261125T204701Z
+SEQUENCE:11
+DTSTAMP:20261125T205002Z
+LAST-MODIFIED:20261125T205002Z
 DTSTART;TZID=Asia/Bangkok:20261126T030000
 DTEND;TZID=Asia/Bangkok:20261126T050000
 SUMMARY:Sporting CP - Manchester United
 LOCATION:Estádio José Alvalade\, Lisbon\, Portugal
-DESCRIPTION:LIVE : 45'+3'\n1-0\n\n1st Half 1-0\n\nGoals:\n33' Luis Suárez 
- · Sporting CP\nเริ่ม: พฤ. 26 พ.ย. 03:00 น. (เวล
- าไทย)
+DESCRIPTION:LIVE : HT\n1-0\n\n1st Half 1-0\n\nGoals:\n33' Luis Suárez · S
+ porting CP\nเริ่ม: พฤ. 26 พ.ย. 03:00 น. (เวลา
+ ไทย)
 URL:https://www.espn.com/soccer/match/_/gameId/401915373
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
