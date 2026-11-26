@@ -141,9 +141,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
-SEQUENCE:28
-DTSTAMP:20261126T104702Z
-LAST-MODIFIED:20261126T104702Z
+SEQUENCE:29
+DTSTAMP:20261126T114701Z
+LAST-MODIFIED:20261126T114701Z
 DTSTART;TZID=Asia/Bangkok:20261124T230859
 DTEND;TZID=Asia/Bangkok:20261125T000859
 SUMMARY:Falcon 9 · USSF-266
@@ -159,10 +159,11 @@ DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
  อยสำเร็จ\nผล: ปล่อยสำเร็จ\nผ
  ล: ปล่อยสำเร็จ\nผล: ปล่อยสำเ
  ร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อ
- ยสำเร็จ\nผล: ปล่อยสำเร็จ\nถ่
- ายทอดสด:\nhttps://www.youtube.com/watch?v=Fb7P2xSoF28\nhttps
- ://www.youtube.com/watch?v=Mx26fq3CcnQ\nhttps://www.youtube.com/watch?v=0H
- G7obl5IAo\nhttps://x.com/i/broadcasts/2JQXBjLyYOQrpX
+ ยสำเร็จ\nผล: ปล่อยสำเร็จ\nผล: 
+ ปล่อยสำเร็จ\nถ่ายทอดสด:\nhttps://w
+ ww.youtube.com/watch?v=Fb7P2xSoF28\nhttps://www.youtube.com/watch?v=Mx26fq
+ 3CcnQ\nhttps://www.youtube.com/watch?v=0HG7obl5IAo\nhttps://x.com/i/broadc
+ asts/2JQXBjLyYOQrpX
 URL:https://www.youtube.com/watch?v=Fb7P2xSoF28
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
@@ -196,17 +197,18 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-b0d27def-0a88-44c3-a947-1fd5b8503e2c@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261120T184701Z
-LAST-MODIFIED:20261120T184701Z
+SEQUENCE:2
+DTSTAMP:20261126T114701Z
+LAST-MODIFIED:20261126T114701Z
 DTSTART;TZID=Asia/Bangkok:20261129T113900
 DTEND;TZID=Asia/Bangkok:20261129T123900
 SUMMARY:Falcon 9 · USSF-380
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:ถ่ายทอดสด:\nhttps://x.com/i/broadcasts/2ybQqg
- pAAEJmBB\nเริ่ม: อา. 29 พ.ย. 11:39 น. (เวลาไ
- ทย)
-URL:https://x.com/i/broadcasts/2ybQqgpAAEJmBB
+DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=x
+ pfmP-4EGIw\nhttps://www.youtube.com/watch?v=CLULlErcxF4\nhttps://x.com/i/b
+ roadcasts/2ybQqgpAAEJmBB\nเริ่ม: อา. 29 พ.ย. 11:39 น. 
+ (เวลาไทย)
+URL:https://www.youtube.com/watch?v=xpfmP-4EGIw
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
 BEGIN:VALARM
@@ -222,9 +224,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-d74afbc7-0de5-491c-be05-4e9c31f736ac@rustlyr.github.io
-SEQUENCE:7
-DTSTAMP:20261125T174702Z
-LAST-MODIFIED:20261125T174702Z
+SEQUENCE:8
+DTSTAMP:20261126T114701Z
+LAST-MODIFIED:20261126T114701Z
 DTSTART;TZID=Asia/Bangkok:20261129T224700
 DTEND;TZID=Asia/Bangkok:20261129T234700
 SUMMARY:Falcon 9 · Cygnus CRS-2 NG-25
@@ -232,8 +234,8 @@ LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=Y
  LrybIli73I\nhttps://plus.nasa.gov/scheduled-video/nasas-northrop-grumman-c
  ommercial-resupply-services-25-launch/\nhttps://x.com/i/broadcasts/2gqOaJV
- RyzQolq\nเริ่ม: อา. 29 พ.ย. 22:47 น. (เวลาไ
- ทย)
+ RyzQolq\nhttps://www.youtube.com/watch?v=wp27QzrSj1s\nเริ่ม: อ
+ า. 29 พ.ย. 22:47 น. (เวลาไทย)
 URL:https://www.youtube.com/watch?v=YLrybIli73I
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
