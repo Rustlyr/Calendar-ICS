@@ -328,15 +328,55 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873096@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261110T110542Z
-LAST-MODIFIED:20261110T110542Z
+SEQUENCE:1
+DTSTAMP:20261126T174701Z
+LAST-MODIFIED:20261126T174701Z
 DTSTART;TZID=Asia/Bangkok:20261204T081500
 DTEND;TZID=Asia/Bangkok:20261204T113000
 SUMMARY:Los Angeles Rams - Kansas City Chiefs
 LOCATION:SoFi Stadium\, Inglewood\, CA
-DESCRIPTION:เริ่ม: ศ. 4 ธ.ค. 08:15 น. (เวลาไท
- ย)
+DESCRIPTION:Los Angeles Rams\n- Davis Allen (Questionable)\n- Tutu Atwell\n
+ - Steve Avila (Out)\n- Stetson Bennett IV\n- Blake Corum\n- CJ Daniels\n- 
+ Justin Dedich\n- Kevin Dotson\n- Tyler Higbee (Questionable)\n- Alaric Jac
+ kson\n- Max Klare\n- Beaux Limmer\n- Warren McClendon Jr.\n- Konata Mumpfi
+ eld\n- Bill Murray (Questionable)\n- Colby Parkinson\n- Brennan Presley\n-
+  David Quessenberry\n- Ronnie Rivers\n- Coleman Shelton (Out)\n- Ty Simpso
+ n (Out)\n- Xavier Smith\n- Matthew Stafford\n- Keagen Trost\n- Kyren Willi
+ ams\n- Wesley Bailey\n- Kam Curl\n- Tyler Davis\n- Shaun Dolac\n- Aaron Do
+ nald\n- Braden Fiske\n- Emmanuel Forbes Jr.\n- Myles Garrett\n- Ty Hamilto
+ n\n- Desjuan Johnson (Out)\n- Eric Kendricks\n- Kamren Kinchens\n- Quentin
+  Lake\n- Cam Lampkin\n- Nate Landman\n- Jaylen McCollough\n- Trent McDuffi
+ e\n- Larrell Murchison (Out)\n- Darryl Peterson III (Out)\n- Maximus Pulle
+ y\n- Omar Speights\n- Josaiah Stewart\n- Grant Stuard\n- Kobie Turner\n- J
+ osh Wallace\n- Damarion Williams\n- Byron Young\n- Joe Cardona\n- Ethan Ev
+ ans\n- Joshua Karty\n- Brandon McManus\n- Davante Adams (Injured Reserve)\
+ n- Matthew Caldwell (Injured Reserve)\n- Dean Connors (Injured Reserve)\n-
+  Terrance Ferguson (Injured Reserve)\n- Poona Ford (Injured Reserve)\n- Bl
+ ake Grupe (Injured Reserve)\n- Dylan McMahon (Injured Reserve)\n- Zech McP
+ hearson (Questionable)\n- Puka Nacua (Injured Reserve)\n- Daniel Rickert (
+ Injured Reserve)\n- Keir Thomas II (Questionable)\n- Eddie Walls III (Inju
+ red Reserve)\n- Jaylen Watson (Injured Reserve)\n- Jordan Whittington (Inj
+ ured Reserve)\n\nKansas City Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- 
+ Kahlil Benson\n- Jake Briningstool\n- Mike Caliendo\n- Nate Carter\n- Josh
+  Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray (Questionable)\n- Cr
+ eed Humphrey\n- Emmett Johnson\n- Fred Johnson\n- Travis Kelce\n- Patrick 
+ Mahomes\n- Jaylon Moore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier\n- Pe
+ te Nygra\n- Jaydn Ott\n- Diego Pounds\n- Rashee Rice\n- Jalen Royals\n- Tr
+ ey Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- Justin Watso
+ n\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton
+ \n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- 
+ Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marc
+ us Harris\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- Cooper McDo
+ nald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Roland-Wallace\
+ n- Melvin Smith Jr.\n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tranquill\n
+ - Nohl Williams\n- Peter Woods (Questionable)\n- Matt Araiza\n- Harrison B
+ utker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Down
+ s (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimmy 
+ Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard Sm
+ ith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornt
+ on (Injured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt Waletzko 
+ (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 
+ 4 ธ.ค. 08:15 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
