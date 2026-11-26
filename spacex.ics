@@ -141,9 +141,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-460d9db7-eaf6-4cd9-b095-cff433534c09@rustlyr.github.io
-SEQUENCE:19
-DTSTAMP:20261126T014701Z
-LAST-MODIFIED:20261126T014701Z
+SEQUENCE:20
+DTSTAMP:20261126T024702Z
+LAST-MODIFIED:20261126T024702Z
 DTSTART;TZID=Asia/Bangkok:20261124T230859
 DTEND;TZID=Asia/Bangkok:20261125T000859
 SUMMARY:Falcon 9 · USSF-266
@@ -154,10 +154,10 @@ DESCRIPTION:ผล: ปล่อยสำเร็จ\nผล: ปล่อ
  จ\nผล: ปล่อยสำเร็จ\nผล: ปล่อยส
  ำเร็จ\nผล: ปล่อยสำเร็จ\nผล: ปล
  ่อยสำเร็จ\nผล: ปล่อยสำเร็จ\n
- ผล: ปล่อยสำเร็จ\nถ่ายทอดสด:\nh
- ttps://www.youtube.com/watch?v=Fb7P2xSoF28\nhttps://www.youtube.com/watch?
- v=Mx26fq3CcnQ\nhttps://www.youtube.com/watch?v=0HG7obl5IAo\nhttps://x.com/
- i/broadcasts/2JQXBjLyYOQrpX
+ ผล: ปล่อยสำเร็จ\nผล: ปล่อยสำ
+ เร็จ\nถ่ายทอดสด:\nhttps://www.youtube.com/watch?
+ v=Fb7P2xSoF28\nhttps://www.youtube.com/watch?v=Mx26fq3CcnQ\nhttps://www.yo
+ utube.com/watch?v=0HG7obl5IAo\nhttps://x.com/i/broadcasts/2JQXBjLyYOQrpX
 URL:https://www.youtube.com/watch?v=Fb7P2xSoF28
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:final
