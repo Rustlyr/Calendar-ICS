@@ -595,9 +595,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910088@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261126T174701Z
-LAST-MODIFIED:20261126T174701Z
+SEQUENCE:2
+DTSTAMP:20261126T214701Z
+LAST-MODIFIED:20261126T214701Z
 DTSTART;TZID=Asia/Bangkok:20261204T080000
 DTEND;TZID=Asia/Bangkok:20261204T103000
 SUMMARY:San Antonio Spurs - Toronto Raptors
@@ -609,10 +609,10 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  den Quaintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembany
  ama\n\nToronto Raptors\n- Kyle Anderson\n- Scottie Barnes\n- RJ Barrett (O
  ut)\n- Jamison Battle\n- Nate Bittle (Out)\n- Jaden Bradley\n- Allen Grave
- s\n- Trayce Jackson-Davis\n- Kawhi Leonard (Out)\n- Alijah Martin\n- Kevin
-  McCullar Jr.\n- Collin Murray-Boyles\n- Jakob Poeltl\n- Immanuel Quickley
- \n- Jamal Shead\n- Malachi Smith\n- Ja'Kobe Walter\nเริ่ม: ศ. 
- 4 ธ.ค. 08:00 น. (เวลาไทย)
+ s\n- Trayce Jackson-Davis\n- Kawhi Leonard (Out)\n- Alijah Martin (Day-To-
+ Day)\n- Kevin McCullar Jr.\n- Collin Murray-Boyles\n- Jakob Poeltl\n- Imma
+ nuel Quickley\n- Jamal Shead\n- Malachi Smith\n- Ja'Kobe Walter\nเริ
+ ่ม: ศ. 4 ธ.ค. 08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910088/raptors-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
