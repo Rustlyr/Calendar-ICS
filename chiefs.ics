@@ -268,50 +268,49 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873082@rustlyr.github.io
-SEQUENCE:21
-DTSTAMP:20261125T174702Z
-LAST-MODIFIED:20261125T174702Z
+SEQUENCE:22
+DTSTAMP:20261127T004702Z
+LAST-MODIFIED:20261127T004702Z
 DTSTART;TZID=Asia/Bangkok:20261127T082000
 DTEND;TZID=Asia/Bangkok:20261127T113500
 SUMMARY:Buffalo Bills - Kansas City Chiefs
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 DESCRIPTION:Buffalo Bills\n- Josh Allen\n- Kyle Allen\n- Alec Anderson\n- S
- kyler Bell\n- Jude Bowry\n- Spencer Brown\n- Keon Coleman\n- James Cook II
- I\n- Austin Corbett\n- Lloyd Cushenberry III\n- Ray Davis\n- Dion Dawkins\
- n- Greg Dortch\n- Tylan Grable\n- Jackson Hawes\n- Ty Johnson\n- Dalton Ki
- ncaid (Questionable)\n- Dawson Knox\n- Keleki Latu\n- Connor McGovern\n- D
- J Moore\n- Khalil Shakir\n- Tyrell Shavers\n- O'Cyrus Torrence (Questionab
- le)\n- Dee Alford\n- Joe Andreessen\n- Christian Benford (Questionable)\n-
-  Terrel Bernard\n- Cole Bishop\n- DeWayne Carter\n- Bradley Chubb\n- Mike 
- Danna\n- Kaleb Elarms-Orr\n- Sam Franklin Jr.\n- Greg Gaines\n- Maxwell Ha
- irston\n- Damar Hamlin\n- Jordan Hancock\n- Michael Hoecht\n- Amani Hooker
- \n- Davison Igbinosun\n- Landon Jackson\n- Jalon Kilgore\n- Ed Oliver\n- T
- J Parker\n- Greg Rousseau\n- T.J. Sanders (Questionable)\n- Javon Solomon\
- n- Shaq Thompson\n- Deone Walker\n- Kani Walker\n- Tre'Davious White\n- Do
- rian Williams (Questionable)\n- Tyler Bass\n- Tommy Doman Jr.\n- Reid Ferg
- uson\n- Zane Durant (Injured Reserve)\n- Joshua Palmer (Injured Reserve)\n
- - Ar'maj Reed-Adams (Injured Reserve)\n- Dorian Strong (Out)\n\nKansas Cit
- y Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- Kahlil Benson\n- Jake Brini
- ngstool\n- Mike Caliendo\n- Nate Carter\n- Josh Downs\n- Joshua Ezeudu\n- 
- Justin Fields\n- Noah Gray (Questionable)\n- Creed Humphrey\n- Emmett John
- son\n- Fred Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jaylon Moore (Ou
- t)\n- Hunter Nourzad\n- Garrett Nussmeier\n- Pete Nygra\n- Jaydn Ott\n- Di
- ego Pounds\n- Rashee Rice\n- Jalen Royals\n- Trey Smith\n- Kingsley Suamat
- aia\n- Kenneth Walker III (Out)\n- Justin Watson\n- Xavier Worthy\n- Felix
-  Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton\n- Jadon Canady\n- Jack Co
- chrane\n- Chamarri Conner\n- Mansoor Delane\n- Bryson Eason\n- Kristian Fu
- lton\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\n-
-  Chris Jones\n- George Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott (
- Out)\n- Xavier Nwankpa\n- Chris Roland-Wallace\n- Melvin Smith Jr.\n- R Ma
- son Thomas\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Williams\n- Peter Wo
- ods (Questionable)\n- Matt Araiza\n- Harrison Butker\n- James Winchester\n
- - Jeff Caldwell (Injured Reserve)\n- Ethan Downs (Injured Reserve)\n- John
-  Michael Gyllenborg (Injured Reserve)\n- Jimmy Holiday (Injured Reserve)\n
- - Josh Simmons (Injured Reserve)\n- Brashard Smith (Injured Reserve)\n- L'
- Jarius Sneed (Injured Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Ben
-  VanSumeren (Injured Reserve)\n- Matt Waletzko (Injured Reserve)\n- Jared 
- Wiley (Injured Reserve)\nเริ่ม: ศ. 27 พ.ย. 08:20 น. (เ
- วลาไทย)
+ kyler Bell (Out)\n- Jude Bowry (Out)\n- Spencer Brown\n- Keon Coleman\n- J
+ ames Cook III\n- Austin Corbett\n- Lloyd Cushenberry III\n- Ray Davis\n- D
+ ion Dawkins\n- Greg Dortch\n- Tylan Grable\n- Jackson Hawes\n- Ty Johnson\
+ n- Dalton Kincaid\n- Dawson Knox\n- Keleki Latu\n- Connor McGovern\n- DJ M
+ oore\n- Khalil Shakir\n- Tyrell Shavers\n- O'Cyrus Torrence\n- Dee Alford\
+ n- Joe Andreessen\n- Christian Benford (Out)\n- Terrel Bernard\n- Cole Bis
+ hop\n- DeWayne Carter\n- Bradley Chubb\n- Mike Danna (Out)\n- Kaleb Elarms
+ -Orr\n- Sam Franklin Jr.\n- Greg Gaines (Out)\n- Maxwell Hairston\n- Damar
+  Hamlin\n- Jordan Hancock\n- Michael Hoecht\n- Amani Hooker\n- Davison Igb
+ inosun\n- Landon Jackson\n- Jalon Kilgore (Out)\n- Ed Oliver\n- TJ Parker\
+ n- Greg Rousseau\n- T.J. Sanders\n- Javon Solomon\n- Shaq Thompson\n- Deon
+ e Walker\n- Kani Walker\n- Tre'Davious White\n- Dorian Williams\n- Tyler B
+ ass\n- Tommy Doman Jr.\n- Reid Ferguson\n- Zane Durant (Injured Reserve)\n
+ - Joshua Palmer (Injured Reserve)\n- Ar'maj Reed-Adams (Injured Reserve)\n
+ - Dorian Strong (Out)\n\nKansas City Chiefs\n- Cyrus Allen\n- Andrew Armst
+ rong\n- Kahlil Benson\n- Jake Briningstool\n- Mike Caliendo\n- Nate Carter
+ \n- Josh Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray\n- Creed Hum
+ phrey\n- Emmett Johnson\n- Fred Johnson\n- Travis Kelce\n- Patrick Mahomes
+ \n- Jaylon Moore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier (Out)\n- Pet
+ e Nygra\n- Jaydn Ott\n- Diego Pounds (Out)\n- Rashee Rice\n- Jalen Royals\
+ n- Trey Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- Justin 
+ Watson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick B
+ olton\n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delan
+ e\n- Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n-
+  Marcus Harris (Out)\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- 
+ Cooper McDonald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Rola
+ nd-Wallace\n- Melvin Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris Tonga\n-
+  Drue Tranquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n- Harrison
+  Butker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Do
+ wns (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimm
+ y Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard 
+ Smith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thor
+ nton (Injured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt Waletzk
+ o (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ
+ . 27 พ.ย. 08:20 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -328,9 +327,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873096@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261126T174701Z
-LAST-MODIFIED:20261126T174701Z
+SEQUENCE:2
+DTSTAMP:20261127T004702Z
+LAST-MODIFIED:20261127T004702Z
 DTSTART;TZID=Asia/Bangkok:20261204T081500
 DTEND;TZID=Asia/Bangkok:20261204T113000
 SUMMARY:Los Angeles Rams - Kansas City Chiefs
@@ -358,25 +357,25 @@ DESCRIPTION:Los Angeles Rams\n- Davis Allen (Questionable)\n- Tutu Atwell\n
  red Reserve)\n- Jaylen Watson (Injured Reserve)\n- Jordan Whittington (Inj
  ured Reserve)\n\nKansas City Chiefs\n- Cyrus Allen\n- Andrew Armstrong\n- 
  Kahlil Benson\n- Jake Briningstool\n- Mike Caliendo\n- Nate Carter\n- Josh
-  Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray (Questionable)\n- Cr
- eed Humphrey\n- Emmett Johnson\n- Fred Johnson\n- Travis Kelce\n- Patrick 
- Mahomes\n- Jaylon Moore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier\n- Pe
- te Nygra\n- Jaydn Ott\n- Diego Pounds\n- Rashee Rice\n- Jalen Royals\n- Tr
- ey Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- Justin Watso
- n\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton
- \n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- 
- Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marc
- us Harris\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- Cooper McDo
- nald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Roland-Wallace\
- n- Melvin Smith Jr.\n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tranquill\n
- - Nohl Williams\n- Peter Woods (Questionable)\n- Matt Araiza\n- Harrison B
- utker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Down
- s (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimmy 
- Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard Sm
- ith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornt
- on (Injured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt Waletzko 
- (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 
- 4 ธ.ค. 08:15 น. (เวลาไทย)
+  Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray\n- Creed Humphrey\n-
+  Emmett Johnson\n- Fred Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jayl
+ on Moore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier (Out)\n- Pete Nygra\
+ n- Jaydn Ott\n- Diego Pounds (Out)\n- Rashee Rice\n- Jalen Royals\n- Trey 
+ Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- Justin Watson\n
+ - Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton\n-
+  Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- Bry
+ son Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus 
+ Harris (Out)\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- Cooper M
+ cDonald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Roland-Walla
+ ce\n- Melvin Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tr
+ anquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n- Harrison Butker\
+ n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Downs (Inj
+ ured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimmy Holida
+ y (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard Smith (I
+ njured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornton (In
+ jured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt Waletzko (Injur
+ ed Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 4 ธ.
+ ค. 08:15 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
