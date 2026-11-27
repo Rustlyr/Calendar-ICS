@@ -72,14 +72,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-7926@boxingscene.com
-SEQUENCE:3
-DTSTAMP:20261115T055758Z
-LAST-MODIFIED:20261115T055758Z
+SEQUENCE:4
+DTSTAMP:20261127T191704Z
+LAST-MODIFIED:20261127T191704Z
 DTSTART;TZID=Asia/Bangkok:20261129T010000
 DTEND;TZID=Asia/Bangkok:20261129T050000
 SUMMARY:Agit Kabayel vs Nelson Hysa
 LOCATION:Merkur Spiel-Arena\, Düsseldorf\, Germany
-DESCRIPTION:LIVE : DAZN\n\n• Agit Kabayel Vs. Nelson Hysa
+DESCRIPTION:LIVE : DAZN\n\n• Agit Kabayel Vs. Nelson Hysa\n• Serkay Com
+ art Vs. Willi Knorpp\n• Granit Shala Vs. Gunnar Kolbeinn Kristinsson\n
+ • Gleb Bakshi Vs. Serhat Parlak\n• Simon Zachenhuber Vs. Alexander Rig
+ as\n• Aloys Youmbi Vs. Artur Mann\n• Daniel Baer Vs. Arman Khudoyan\n
+ • Charlie Senior Vs. James Chereji\n• Kevin Saszik Vs. Patrick Korte\n
+ • Arbnor Jashari Vs. Yoel Rivas Perez\n• Ozan Karadogan Vs. Max Schult
+ z\n• Ayman Oudriss Vs. Antonio Fechner
 URL:https://www.boxingscene.com/events/agit-kabayel-nelson-hysa
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -121,15 +127,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-1000000050@boxingscene.com
-SEQUENCE:2
-DTSTAMP:20261115T055758Z
-LAST-MODIFIED:20261115T055758Z
+SEQUENCE:3
+DTSTAMP:20261127T191704Z
+LAST-MODIFIED:20261127T191704Z
 DTSTART;TZID=Asia/Bangkok:20261206T080000
 DTEND;TZID=Asia/Bangkok:20261206T120000
 SUMMARY:David Benavidez vs Michal Cieslak
 LOCATION:Desert Diamond Arena\, Glendale\, Arizona
 DESCRIPTION:LIVE : DAZN & Prime Video\n\n• David Benavidez Vs. Michal Cie
- slak\n• Vergil Ortiz Jr. Vs. Keith Thurman\n• Emiliano Vargas Vs. Omar
+ slak\n• Vergil Ortiz Jr. Vs. Brian Mendoza\n• Emiliano Vargas Vs. Omar
   Juarez\n• Nikita Tszyu Vs. Roberto Valenzuela Jr.\n• Marco Romero Vs.
   Cruse Stewart
 URL:https://www.boxingscene.com/events/david-benavidez-vs-micha-cieslak
