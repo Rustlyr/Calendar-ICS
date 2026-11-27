@@ -293,9 +293,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873096@rustlyr.github.io
-SEQUENCE:4
-DTSTAMP:20261127T040001Z
-LAST-MODIFIED:20261127T040001Z
+SEQUENCE:5
+DTSTAMP:20261127T054701Z
+LAST-MODIFIED:20261127T054701Z
 DTSTART;TZID=Asia/Bangkok:20261204T081500
 DTEND;TZID=Asia/Bangkok:20261204T113000
 SUMMARY:Los Angeles Rams - Kansas City Chiefs
@@ -326,22 +326,22 @@ DESCRIPTION:Los Angeles Rams\n- Davis Allen (Questionable)\n- Tutu Atwell\n
   Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray\n- Creed Humphrey\n-
   Emmett Johnson\n- Fred Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jayl
  on Moore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier (Out)\n- Pete Nygra\
- n- Jaydn Ott\n- Diego Pounds (Out)\n- Rashee Rice\n- Jalen Royals (Out)\n-
-  Trey Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- Justin Wa
- tson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bol
- ton\n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delane\
- n- Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- M
- arcus Harris (Out)\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- Co
- oper McDonald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Roland
- -Wallace\n- Melvin Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris Tonga\n- D
- rue Tranquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n- Harrison B
- utker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Down
- s (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimmy 
- Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard Sm
- ith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornt
- on (Injured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt Waletzko 
- (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 
- 4 ธ.ค. 08:15 น. (เวลาไทย)
+ n- Jaydn Ott\n- Diego Pounds (Out)\n- Rashee Rice\n- Jalen Royals (Questio
+ nable)\n- Trey Smith (Questionable)\n- Kingsley Suamataia\n- Kenneth Walke
+ r III (Out)\n- Justin Watson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- J
+ effrey Bassa\n- Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- Chamarri C
+ onner\n- Mansoor Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton Gillo
+ tte\n- Alohi Gilman\n- Marcus Harris (Out)\n- Jaden Hicks\n- Chris Jones\n
+ - George Karlaftis\n- Cooper McDonald\n- Omarr Norman-Lott (Out)\n- Xavier
+  Nwankpa\n- Chris Roland-Wallace\n- Melvin Smith Jr. (Out)\n- R Mason Thom
+ as\n- Khyiris Tonga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woods\n- M
+ att Araiza\n- Harrison Butker\n- James Winchester\n- Jeff Caldwell (Injure
+ d Reserve)\n- Ethan Downs (Injured Reserve)\n- John Michael Gyllenborg (In
+ jured Reserve)\n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Injured
+  Reserve)\n- Brashard Smith (Injured Reserve)\n- L'Jarius Sneed (Injured R
+ eserve)\n- Tyquan Thornton (Injured Reserve)\n- Ben VanSumeren (Injured Re
+ serve)\n- Matt Waletzko (Injured Reserve)\n- Jared Wiley (Injured Reserve)
+ \nเริ่ม: ศ. 4 ธ.ค. 08:15 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
