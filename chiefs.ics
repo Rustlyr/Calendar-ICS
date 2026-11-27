@@ -268,14 +268,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873082@rustlyr.github.io
-SEQUENCE:45
-DTSTAMP:20261127T032001Z
-LAST-MODIFIED:20261127T032001Z
+SEQUENCE:46
+DTSTAMP:20261127T032501Z
+LAST-MODIFIED:20261127T032501Z
 DTSTART;TZID=Asia/Bangkok:20261127T082000
 DTEND;TZID=Asia/Bangkok:20261127T113500
 SUMMARY:Buffalo Bills - Kansas City Chiefs
 LOCATION:Highmark Stadium\, Orchard Park\, NY
-DESCRIPTION:LIVE : 9:48 - 3rd\n7-10\n\nQ1 0-0\nQ2 7-3\nQ3 0-7\nเริ่
+DESCRIPTION:LIVE : 5:40 - 3rd\n7-10\n\nQ1 0-0\nQ2 7-3\nQ3 0-7\nเริ่
  ม: ศ. 27 พ.ย. 08:20 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game?gameId=401873082
 STATUS:CONFIRMED
@@ -293,9 +293,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nfl-12-401873096@rustlyr.github.io
-SEQUENCE:2
-DTSTAMP:20261127T004702Z
-LAST-MODIFIED:20261127T004702Z
+SEQUENCE:3
+DTSTAMP:20261127T032501Z
+LAST-MODIFIED:20261127T032501Z
 DTSTART;TZID=Asia/Bangkok:20261204T081500
 DTEND;TZID=Asia/Bangkok:20261204T113000
 SUMMARY:Los Angeles Rams - Kansas City Chiefs
@@ -326,22 +326,22 @@ DESCRIPTION:Los Angeles Rams\n- Davis Allen (Questionable)\n- Tutu Atwell\n
   Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray\n- Creed Humphrey\n-
   Emmett Johnson\n- Fred Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jayl
  on Moore (Out)\n- Hunter Nourzad\n- Garrett Nussmeier (Out)\n- Pete Nygra\
- n- Jaydn Ott\n- Diego Pounds (Out)\n- Rashee Rice\n- Jalen Royals\n- Trey 
- Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- Justin Watson\n
- - Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nick Bolton\n-
-  Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoor Delane\n- Bry
- son Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus 
- Harris (Out)\n- Jaden Hicks\n- Chris Jones\n- George Karlaftis\n- Cooper M
- cDonald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chris Roland-Walla
- ce\n- Melvin Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris Tonga\n- Drue Tr
- anquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n- Harrison Butker\
- n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Ethan Downs (Inj
- ured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n- Jimmy Holida
- y (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Brashard Smith (I
- njured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyquan Thornton (In
- jured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt Waletzko (Injur
- ed Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่ม: ศ. 4 ธ.
- ค. 08:15 น. (เวลาไทย)
+ n- Jaydn Ott\n- Diego Pounds (Out)\n- Rashee Rice\n- Jalen Royals (Questio
+ nable)\n- Trey Smith\n- Kingsley Suamataia\n- Kenneth Walker III (Out)\n- 
+ Justin Watson\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n-
+  Nick Bolton\n- Jadon Canady\n- Jack Cochrane\n- Chamarri Conner\n- Mansoo
+ r Delane\n- Bryson Eason\n- Kristian Fulton\n- Ashton Gillotte\n- Alohi Gi
+ lman\n- Marcus Harris (Out)\n- Jaden Hicks\n- Chris Jones\n- George Karlaf
+ tis\n- Cooper McDonald\n- Omarr Norman-Lott (Out)\n- Xavier Nwankpa\n- Chr
+ is Roland-Wallace\n- Melvin Smith Jr. (Out)\n- R Mason Thomas\n- Khyiris T
+ onga\n- Drue Tranquill\n- Nohl Williams\n- Peter Woods\n- Matt Araiza\n- H
+ arrison Butker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- E
+ than Downs (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\
+ n- Jimmy Holiday (Injured Reserve)\n- Josh Simmons (Injured Reserve)\n- Br
+ ashard Smith (Injured Reserve)\n- L'Jarius Sneed (Injured Reserve)\n- Tyqu
+ an Thornton (Injured Reserve)\n- Ben VanSumeren (Injured Reserve)\n- Matt 
+ Waletzko (Injured Reserve)\n- Jared Wiley (Injured Reserve)\nเริ่
+ ม: ศ. 4 ธ.ค. 08:15 น. (เวลาไทย)
 URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
