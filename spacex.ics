@@ -199,17 +199,17 @@ X-BOXCAL-PHASE:cancelled
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-spacex-b0d27def-0a88-44c3-a947-1fd5b8503e2c@rustlyr.github.io
-SEQUENCE:2
-DTSTAMP:20261126T114701Z
-LAST-MODIFIED:20261126T114701Z
+SEQUENCE:3
+DTSTAMP:20261127T184701Z
+LAST-MODIFIED:20261127T184701Z
 DTSTART;TZID=Asia/Bangkok:20261129T113900
 DTEND;TZID=Asia/Bangkok:20261129T123900
 SUMMARY:Falcon 9 · USSF-380
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=x
- pfmP-4EGIw\nhttps://www.youtube.com/watch?v=CLULlErcxF4\nhttps://x.com/i/b
- roadcasts/2ybQqgpAAEJmBB\nเริ่ม: อา. 29 พ.ย. 11:39 น. 
- (เวลาไทย)
+ pfmP-4EGIw\nhttps://www.youtube.com/watch?v=IwYSJ4ne7GM\nhttps://www.youtu
+ be.com/watch?v=CLULlErcxF4\nhttps://x.com/i/broadcasts/2ybQqgpAAEJmBB\nเ
+ ริ่ม: อา. 29 พ.ย. 11:39 น. (เวลาไทย)
 URL:https://www.youtube.com/watch?v=xpfmP-4EGIw
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
