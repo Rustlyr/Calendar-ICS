@@ -493,9 +493,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909333@rustlyr.github.io
-SEQUENCE:7
-DTSTAMP:20261126T064702Z
-LAST-MODIFIED:20261126T064702Z
+SEQUENCE:8
+DTSTAMP:20261127T194701Z
+LAST-MODIFIED:20261127T194701Z
 DTSTART;TZID=Asia/Bangkok:20261128T093000
 DTEND;TZID=Asia/Bangkok:20261128T120000
 SUMMARY:San Antonio Spurs - Los Angeles Lakers
@@ -508,9 +508,9 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  ama\n\nLos Angeles Lakers\n- Cameron Carr\n- Carson Cooper\n- Luka Doncic\
  n- Quentin Grimes\n- Jaden Hardy\n- Bronny James\n- Arthur Kaluma\n- Walke
  r Kessler\n- Jake LaRavia\n- Kevon Looney\n- Sandro Mamukelashvili\n- Chri
- s Manon\n- AK Okereke\n- Austin Reaves (Out)\n- Collin Sexton\n- Adou Thie
- ro\n- Matisse Thybulle\n- Jarred Vanderbilt\n- Ziaire Williams\nเริ
- ่ม: ส. 28 พ.ย. 09:30 น. (เวลาไทย)
+ s Manon\n- AK Okereke\n- Austin Reaves\n- Collin Sexton\n- Adou Thiero\n- 
+ Matisse Thybulle\n- Jarred Vanderbilt\n- Ziaire Williams\nเริ่ม:
+  ส. 28 พ.ย. 09:30 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
