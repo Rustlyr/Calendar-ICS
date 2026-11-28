@@ -586,11 +586,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910088@rustlyr.github.io
-SEQUENCE:5
-DTSTAMP:20261128T023501Z
-LAST-MODIFIED:20261128T023501Z
-DTSTART;TZID=Asia/Bangkok:20261204T080000
-DTEND;TZID=Asia/Bangkok:20261204T103000
+SEQUENCE:6
+DTSTAMP:20261128T054701Z
+LAST-MODIFIED:20261128T054701Z
+DTSTART;TZID=Asia/Bangkok:20261203T080000
+DTEND;TZID=Asia/Bangkok:20261203T103000
 SUMMARY:San Antonio Spurs - Toronto Raptors
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
@@ -602,8 +602,8 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  le\n- Nate Bittle (Out)\n- Jaden Bradley\n- Allen Graves\n- Trayce Jackson
  -Davis\n- Kawhi Leonard (Out)\n- Alijah Martin\n- Kevin McCullar Jr.\n- Co
  llin Murray-Boyles\n- Jakob Poeltl\n- Immanuel Quickley\n- Jamal Shead\n- 
- Malachi Smith\n- Ja'Kobe Walter (Out)\nเริ่ม: ศ. 4 ธ.ค. 08
- :00 น. (เวลาไทย)
+ Malachi Smith\n- Ja'Kobe Walter (Out)\nเริ่ม: พฤ. 3 ธ.ค.
+  08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910088/raptors-spurs
 STATUS:CONFIRMED
 X-BOXCAL-PHASE:scheduled
@@ -615,6 +615,40 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:San Antonio Spurs - Toronto Raptors
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nba-401909451@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261128T054701Z
+LAST-MODIFIED:20261128T054701Z
+DTSTART;TZID=Asia/Bangkok:20261205T093000
+DTEND;TZID=Asia/Bangkok:20261205T120000
+SUMMARY:Dallas Mavericks - San Antonio Spurs
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Dallas Mavericks\n- Santi Aldama\n- Tarik Biberovic (Out)\n- Ma
+ x Christie\n- Moussa Cisse\n- Walter Clayton Jr.\n- Sergio de Larrea (Out)
+ \n- Cooper Flagg\n- Daniel Gafford\n- Jett Howard\n- Kyrie Irving (Out)\n-
+  Morez Johnson Jr.\n- Tobi Lawal (Out)\n- Dereck Lively II (Out)\n- Naji M
+ arshall\n- Caleb Martin (Day-To-Day)\n- Zaccharie Risacher\n- Marcus Sasse
+ r\n- P.J. Washington\n\nSan Antonio Spurs\n- Harrison Barnes\n- Maliq Brow
+ n\n- Carter Bryant\n- Stephon Castle\n- Julian Champagnie\n- De'Aaron Fox\
+ n- Ja'Kobi Gillespie\n- Dylan Harper\n- Tobias Harris (Out)\n- Keldon John
+ son\n- David Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Qu
+ aintance (Out)\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\n
+ เริ่ม: ส. 5 ธ.ค. 09:30 น. (เวลาไทย)
+URL:https://www.espn.com/nba/game/_/gameId/401909451/spurs-mavericks
+STATUS:CONFIRMED
+X-BOXCAL-PHASE:scheduled
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dallas Mavericks - San Antonio Spurs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dallas Mavericks - San Antonio Spurs
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
